@@ -1,0 +1,3754 @@
+{
+ "schema_version": 1,
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T17:23:33Z",
+ "window": {
+  "start": "2026-10-19T17:10:00Z",
+  "end": "2026-10-20T17:15:00Z"
+ },
+ "regions": [
+  {
+   "id": "west",
+   "name_zh": "欧美"
+  },
+  {
+   "id": "jp",
+   "name_zh": "日本"
+  },
+  {
+   "id": "kr",
+   "name_zh": "韩国"
+  }
+ ],
+ "observations_zh": [
+  "今天欧美年轻人的时间线被“回归”主导：NBA 新赛季开打、《赛博朋克：边缘行者 2》上线、GTA 6 倒计时 30 天，三件事都是“终于等到了”的情绪。",
+  "“反 AI / 反算法”在欧美继续发酵：一边是“年轻人讨厌 AI”的爆帖，一边是 frictionmaxxing（主动给生活加点麻烦）被 175 万次曝光，连《世界计划》官方配图出错都被粉丝第一时间怀疑“是不是 AI 做的”。",
+  "日本这边最火的不是作品本身，而是一场跨文化吵架：《铁拳 6》盗版 mod 引发的“买不到就该放弃 vs 买不到只能盗版”之争，日英两种语言的帖子互相引用、各自都有上万赞。",
+  "韩国榜单几乎全是粉圈节奏：NCT 十周年运动会预告、IVE 回归、&TEAM K 和 KickFlip Amaru 生日刷屏；唯一的“硬新闻”是 KBO 季后赛——起亚 13:1 横扫 LG，偏偏 NCT 志晟那天去给 LG 开球。",
+  "需要留意：法国骚乱是今天欧美帖子量第二高的话题之一，但高互动帖子大多来自立场鲜明的政治账号，夹杂未经证实的说法（回复区就有人指出某张图其实是 2021 年瑞典的旧照）。"
+ ],
+ "trends_snapshot": {
+  "US": [
+   "Vivek",
+   "#TINATUESDAY",
+   "Amy Acton",
+   "Knicks",
+   "Pistons",
+   "Celtics",
+   "Jay Z",
+   "76ers",
+   "Spurs",
+   "Taco Tuesday",
+   "Sixers",
+   "Calvin Harris",
+   "NBA IS BACK",
+   "Planet Fitness",
+   "#NBAOpeningNight",
+   "FSR 4.1"
+  ],
+  "UK": [
+   "Paris",
+   "Revolut",
+   "#TOTCOV",
+   "Gengar",
+   "BBC Scotland",
+   "Ten Hag",
+   "#EndSARS",
+   "Maddison",
+   "Mark Allen",
+   "#thechase",
+   "Google Cloud",
+   "#PAKvENG",
+   "#UCLFantasy",
+   "Arsenal",
+   "Mimikyu",
+   "Macron"
+  ],
+  "JP": [
+   "#レコメン",
+   "#サカナ山口ANN",
+   "コーラ振り子",
+   "#恋とき",
+   "#ろふまお5周年",
+   "#田村保乃生誕祭",
+   "いぶりがっこ",
+   "男女の身長対応",
+   "エッジランナーズ2",
+   "聡ちゃん",
+   "淳太くん",
+   "ROF-MAO",
+   "勝利くん",
+   "COOL DRAGON",
+   "保乃ちゃん"
+  ],
+  "KR": [
+   "#HAPPY_K_DAY",
+   "#축하의_바람이_분다",
+   "#HAPPYAMARUDAY2026",
+   "마루 생일",
+   "겟투워크",
+   "꼬들 1754",
+   "#Insomnia",
+   "케이 생일",
+   "엣지러너2",
+   "잠실야구장",
+   "사이버펑크",
+   "단체버블",
+   "만루홈런",
+   "플레이오프 진출",
+   "엔시티 운동회"
+  ],
+  "WORLD": [
+   "#OExercitoDoLulaVoltou",
+   "#ComLulaVaiTerOnibusDeGraca",
+   "#FBvSLA",
+   "Vivek",
+   "コーラ振り子",
+   "いぶりがっこ",
+   "男女の身長対応",
+   "エッジランナーズ2",
+   "Knicks",
+   "Amy Acton",
+   "Celtics"
+  ]
+ },
+ "topics": [
+  {
+   "id": "west-nba-opening-night",
+   "region": "west",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "NBA 新赛季开幕夜：尼克斯升冠军旗，詹姆斯 76 人首秀",
+   "summary_zh": "10 月 20 日 NBA 2026-27 赛季开打，NBC/Peacock 三连播：凯尔特人对活塞、卫冕冠军尼克斯主场迎战 76 人、雷霆对马刺。尼克斯时隔 53 年夺冠后首次升旗，41 岁的詹姆斯开启 NBA 纪录的第 24 个赛季，也是他穿 76 人球衣的首秀。",
+   "why_youth_zh": "“Hoopsday” 是体育圈年轻人一年一度的狂欢：梦幻篮球阵容、赛前梗图、球迷互喷（马刺球迷长文嘲讽尼克斯夺冠“没人在乎”，下面 1300+ 回复）都集中在今天爆发。",
+   "keywords": [
+    "Knicks",
+    "LeBron",
+    "76ers",
+    "#NBAOpeningNight",
+    "Hoopsday",
+    "Brunson"
+   ],
+   "trend_hits": [
+    "美国：Knicks / Pistons / Celtics / 76ers / Sixers / Spurs / NBA IS BACK / #NBAOpeningNight",
+    "全球：Knicks、Celtics"
+   ],
+   "rank": 1,
+   "heat": {
+    "post_count": 75473,
+    "query": "(Knicks OR LeBron OR Sixers OR 76ers OR #NBAOpeningNight OR \"NBA IS BACK\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112514167961747931",
+     "url": "https://x.com/espn/status/2112514167961747931",
+     "author": {
+      "username": "espn",
+      "name": "ESPN",
+      "followers": 58631287
+     },
+     "created_at": "2026-10-20T12:00:00.000Z",
+     "lang": "en",
+     "text": "Hoopsday has arrived.\n\nNBA basketball is back ⌛️ https://t.co/ENy8r2YEBA",
+     "text_zh": "Hoopsday（篮球日）到了。\n\nNBA 回来了 ⌛️",
+     "metrics": {
+      "likes": 31357,
+      "reposts": 6772,
+      "replies": 345,
+      "quotes": 1209,
+      "views": 1224238,
+      "bookmarks": 4783
+     },
+     "replies": [
+      {
+       "id": "2112519256587800743",
+       "url": "https://x.com/wrldofBron/status/2112519256587800743",
+       "author": {
+        "username": "wrldofBron",
+        "name": "🥽"
+       },
+       "created_at": "2026-10-20T12:20:14.000Z",
+       "lang": null,
+       "text": "@espn @SportsCenter I got chills omg https://t.co/JXbYfQfp8z",
+       "text_zh": "我起鸡皮疙瘩了天哪",
+       "likes": 54
+      },
+      {
+       "id": "2112520561909780751",
+       "url": "https://x.com/R1chPersonality/status/2112520561909780751",
+       "author": {
+        "username": "R1chPersonality",
+        "name": "Purple Trouble"
+       },
+       "created_at": "2026-10-20T12:25:25.000Z",
+       "lang": null,
+       "text": "@espn hoopsday is a dangerous name to put on a tuesday 😭 i already moved the laundry",
+       "text_zh": "在周二搞个“篮球日”这名字太危险了😭 我连衣服都已经从洗衣机挪进烘干机了【译注：意思是已经提前把杂事干完，准备专心看球】",
+       "likes": 53
+      },
+      {
+       "id": "2112591813202555313",
+       "url": "https://x.com/Wiggs4Pres/status/2112591813202555313",
+       "author": {
+        "username": "Wiggs4Pres",
+        "name": "Cason Wallace Supremacy"
+       },
+       "created_at": "2026-10-20T17:08:32.000Z",
+       "lang": "en",
+       "text": "@espn ESPN putting way more highlights of their favorites Curry, Wemby, Luka, and Jokic is hilarious and tells me how this seasons gonna move 😂😂😂",
+       "text_zh": "ESPN 宣传片里一直放他们偏爱的库里、文班、东契奇和约基奇，太好笑了，这赛季的流量走向已经写在脸上了😂😂😂",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112529264826265679",
+     "url": "https://x.com/SportsCenter/status/2112529264826265679",
+     "author": {
+      "username": "SportsCenter",
+      "name": "SportsCenter",
+      "followers": 42173614
+     },
+     "created_at": "2026-10-20T13:00:00.000Z",
+     "lang": "en",
+     "text": "This might be the wildest season of all time 😯\n\nThe NBA is officially back 🔥 https://t.co/Uo39rVXdXy",
+     "text_zh": "这可能是史上最疯狂的一个赛季 😯\n\nNBA 正式回归 🔥",
+     "metrics": {
+      "likes": 19930,
+      "reposts": 1606,
+      "replies": 103,
+      "quotes": 78,
+      "views": 708177,
+      "bookmarks": 940
+     },
+     "replies": [
+      {
+       "id": "2112540963042386258",
+       "url": "https://x.com/MI_RantMaster/status/2112540963042386258",
+       "author": {
+        "username": "MI_RantMaster",
+        "name": "MI_RantMaster"
+       },
+       "created_at": "2026-10-20T13:46:29.000Z",
+       "lang": null,
+       "text": "@SportsCenter nba on a random tuesday afternoon feels weird but ill take it",
+       "text_zh": "在一个普通的周二下午打 NBA 感觉怪怪的，但我接受",
+       "likes": 179
+      },
+      {
+       "id": "2112543665709367318",
+       "url": "https://x.com/DovelRandy/status/2112543665709367318",
+       "author": {
+        "username": "DovelRandy",
+        "name": "Randy | Sports & Crypto"
+       },
+       "created_at": "2026-10-20T13:57:13.000Z",
+       "lang": null,
+       "text": "@SportsCenter nba back and my sleep schedule already lost. gonna be a long season",
+       "text_zh": "NBA 回来了，我的作息已经没了。这会是个漫长的赛季",
+       "likes": 25
+      },
+      {
+       "id": "2112579665764524303",
+       "url": "https://x.com/Bruhhloom/status/2112579665764524303",
+       "author": {
+        "username": "Bruhhloom",
+        "name": "Bruhloom"
+       },
+       "created_at": "2026-10-20T16:20:16.000Z",
+       "lang": null,
+       "text": "@1realperc @SportsCenter There needs to be a study on why nba twitter will complain about anything. I don’t think NHL twitter is like this",
+       "text_zh": "真该有人研究一下为什么 NBA 推特什么都能吐槽。我觉得 NHL（冰球）推特就不这样",
+       "likes": 21
+      },
+      {
+       "id": "2112536621320994904",
+       "url": "https://x.com/GetPicks_app/status/2112536621320994904",
+       "author": {
+        "username": "GetPicks_app",
+        "name": "GetPicks"
+       },
+       "created_at": "2026-10-20T13:29:14.000Z",
+       "lang": null,
+       "text": "@SportsCenter already redid my lineup three times and it's 9am",
+       "text_zh": "现在才早上 9 点，我已经把（梦幻篮球）阵容改了三遍",
+       "likes": 4
+      }
+     ]
+    },
+    {
+     "id": "2112563238751871425",
+     "url": "https://x.com/NBA/status/2112563238751871425",
+     "author": {
+      "username": "NBA",
+      "name": "NBA",
+      "followers": 47033568
+     },
+     "created_at": "2026-10-20T15:15:00.000Z",
+     "lang": "en",
+     "text": "LEBRON BEGINS HIS NBA-RECORD 24TH SEASON TONIGHT 🚨\n\nWatch his @sixers debut vs. the Knicks at 7pm/et on NBC and Peacock! https://t.co/oXuZa0MsoU",
+     "text_zh": "勒布朗今晚开启他 NBA 纪录的第 24 个赛季 🚨\n\n美东时间晚 7 点，NBC 和 Peacock 直播他的 76 人首秀，对手尼克斯！",
+     "metrics": {
+      "likes": 1364,
+      "reposts": 158,
+      "replies": 71,
+      "quotes": 21,
+      "views": 146144,
+      "bookmarks": 54
+     },
+     "replies": [
+      {
+       "id": "2112567903144845799",
+       "url": "https://x.com/Ballislife/status/2112567903144845799",
+       "author": {
+        "username": "Ballislife",
+        "name": "Ballislife.com"
+       },
+       "created_at": "2026-10-20T15:33:32.000Z",
+       "lang": "en",
+       "text": "@NBA @sixers \"The luxury of my game is I can do everything. Literally, everything.\" https://t.co/Yl3cXS91mG",
+       "text_zh": "“我比赛的奢侈之处在于我什么都能做。字面意义上的，什么都能。”",
+       "likes": 9
+      },
+      {
+       "id": "2112580336043413750",
+       "url": "https://x.com/KCCrypto369/status/2112580336043413750",
+       "author": {
+        "username": "KCCrypto369",
+        "name": "FireKyle"
+       },
+       "created_at": "2026-10-20T16:22:56.000Z",
+       "lang": null,
+       "text": "@NBA @sixers Philly finally finished trusting the process and the process turned out to be a 42-year-old who got drafted in 2003. Banner night at MSG and the Sixers showed up as the opening act.",
+       "text_zh": "费城终于“相信过程”结束了，结果这个“过程”是一个 2003 年进联盟的 42 岁老将。今晚是麦迪逊广场花园的升旗夜，76 人是来当暖场嘉宾的。【译注：Trust the Process 是 76 人摆烂重建时期的口号】",
+       "likes": 2
+      },
+      {
+       "id": "2112579030222610725",
+       "url": "https://x.com/BIGALsPicks/status/2112579030222610725",
+       "author": {
+        "username": "BIGALsPicks",
+        "name": "BIG Al’s Picks"
+       },
+       "created_at": "2026-10-20T16:17:45.000Z",
+       "lang": null,
+       "text": "@NBA @sixers Year 24 and he's still the main character on opening night. Knicks banner night, LeBron's Philly debut, MSG at 7. Can't script it better 🍿 #NBA",
+       "text_zh": "第 24 年了，他依然是开幕夜的主角。尼克斯升旗夜 + 勒布朗费城首秀 + 7 点 MSG，剧本都不敢这么写 🍿",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112238537277931833",
+     "url": "https://x.com/BiggySpurs/status/2112238537277931833",
+     "author": {
+      "username": "BiggySpurs",
+      "name": "👽⭐️🇸🇳",
+      "followers": 5825
+     },
+     "created_at": "2026-10-19T17:44:45.000Z",
+     "lang": "en",
+     "text": "It’s funny seeing Knicks fans slowly realize that nobody cares about their Championship. It changed nothing. Nobody outside NYC has Brunson top 5. Nobody has him in any all-time talks. Nobody has him in “best of his generation” talks with Jokic SGA Giannis or Embiid. And https://t.co/hbLYNi2rMK",
+     "text_zh": "看着尼克斯球迷慢慢意识到根本没人在乎他们的总冠军，真好笑。啥也没改变。纽约以外没人把布伦森排进前五，没人把他放进历史级讨论，也没人把他和约基奇、SGA、字母哥、恩比德并列为“同代最佳”。而且……【原文被截断】",
+     "metrics": {
+      "likes": 1295,
+      "reposts": 69,
+      "replies": 1393,
+      "quotes": 315,
+      "views": 341196,
+      "bookmarks": 316
+     },
+     "replies": [
+      {
+       "id": "2112239253325328680",
+       "url": "https://x.com/SixZamier/status/2112239253325328680",
+       "author": {
+        "username": "SixZamier",
+        "name": "Six"
+       },
+       "created_at": "2026-10-19T17:47:36.000Z",
+       "lang": "en",
+       "text": "@BiggySpurs message too long shorten it 🤡",
+       "text_zh": "消息太长了，缩短点 🤡",
+       "likes": 9
+      },
+      {
+       "id": "2112239139445960959",
+       "url": "https://x.com/stevenzheng69/status/2112239139445960959",
+       "author": {
+        "username": "stevenzheng69",
+        "name": "steven"
+       },
+       "created_at": "2026-10-19T17:47:09.000Z",
+       "lang": "fr",
+       "text": "@BiggySpurs nice engagement bait",
+       "text_zh": "不错的骗互动帖",
+       "likes": 4
+      },
+      {
+       "id": "2112239264662688043",
+       "url": "https://x.com/Aiden11997/status/2112239264662688043",
+       "author": {
+        "username": "Aiden11997",
+        "name": "🎭"
+       },
+       "created_at": "2026-10-19T17:47:38.000Z",
+       "lang": "en",
+       "text": "@BiggySpurs Brunson a nobody but beat the mighty Wemby im crying😂",
+       "text_zh": "布伦森是个无名小卒，但打败了强大的文班亚马，我笑哭了😂",
+       "likes": 3
+      }
+     ],
+     "note_zh": "马刺球迷账号的引战帖，回复 1300+，是开幕前球迷互怼的代表。"
+    }
+   ]
+  },
+  {
+   "id": "west-jayz-superbowl-50cent",
+   "region": "west",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "Jay-Z 被曝“自己选自己”唱超级碗中场秀，50 Cent“没统治过嘻哈”之争再升温",
+   "summary_zh": "据 Puck News 报道，自 2019 年起负责挑选超级碗中场秀艺人的 Jay-Z，这次选中了他自己来唱 2027 年第 61 届超级碗（据称麦莉和比伯也在考虑名单上，NFL 与 Roc Nation 尚未官宣）。这正好撞上 50 Cent 上周在播客里说 Jay-Z “从没真正统治过说唱”的争议，网友一边玩“Jay-Z 选了 Jay-Z”的梗，一边继续吵“长寿 vs 巅峰”。",
+   "why_youth_zh": "年轻用户的反应很直接：很多人说“我一首 Jay-Z 的歌都叫不出来”，觉得前两届是 Kendrick Lamar、Bad Bunny，这次像是倒退；也有人借摔角梗把 Jay-Z 比作“说唱界的 Triple H”。这是一次明显的世代审美冲突。",
+   "keywords": [
+    "Jay-Z",
+    "Super Bowl",
+    "halftime",
+    "50 Cent",
+    "Puck",
+    "Roc Nation"
+   ],
+   "trend_hits": [
+    "美国：Jay Z"
+   ],
+   "rank": 2,
+   "heat": {
+    "post_count": 42734,
+    "query": "(\"Jay Z\" OR \"Jay-Z\" OR \"50 Cent\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112415714510540973",
+     "url": "https://x.com/DiscussingFilm/status/2112415714510540973",
+     "author": {
+      "username": "DiscussingFilm",
+      "name": "DiscussingFilm",
+      "followers": 3254753
+     },
+     "created_at": "2026-10-20T05:28:47.000Z",
+     "lang": "en",
+     "text": "Jay-Z has picked Jay-Z to be the halftime performance at the 2027 Super Bowl.\n\n(Source: https://t.co/jvJVnBb0R7) https://t.co/AiyO4Xv1pP",
+     "text_zh": "Jay-Z 选了 Jay-Z 来表演 2027 年超级碗中场秀。\n\n（来源见链接）",
+     "metrics": {
+      "likes": 45396,
+      "reposts": 2676,
+      "replies": 1114,
+      "quotes": 3212,
+      "views": 2482216,
+      "bookmarks": 3410
+     },
+     "replies": [
+      {
+       "id": "2112419062865092759",
+       "url": "https://x.com/korky122/status/2112419062865092759",
+       "author": {
+        "username": "korky122",
+        "name": "korky122"
+       },
+       "created_at": "2026-10-20T05:42:06.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm Bro is gonna bring out fall out boy for the first song 😤😤",
+       "text_zh": "兄弟第一首歌就要请出 Fall Out Boy 了 😤😤",
+       "likes": 10
+      },
+      {
+       "id": "2112418481618759966",
+       "url": "https://x.com/MagnitudeReview/status/2112418481618759966",
+       "author": {
+        "username": "MagnitudeReview",
+        "name": "Magnitude Rev"
+       },
+       "created_at": "2026-10-20T05:39:47.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm The superbowl half time show really went from Kendrick Lamar and then to Bad Bunny. Two of the biggest music artists in the world.\n\nThen they give us a man who’s most famous for being the husband of Beyonce… just give us fucking Beyonce at this point. Not this washed fool.",
+       "text_zh": "超级碗中场秀从 Kendrick Lamar 到 Bad Bunny，都是全球最大牌的音乐人。\n\n然后给我们一个最出名的身份是“碧昂丝老公”的人……都这样了不如直接请碧昂丝。别请这个过气的家伙。",
+       "likes": 2
+      },
+      {
+       "id": "2112419461869535609",
+       "url": "https://x.com/JustJordan_925/status/2112419461869535609",
+       "author": {
+        "username": "JustJordan_925",
+        "name": "j"
+       },
+       "created_at": "2026-10-20T05:43:41.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm Was bound to happen honestly. Took long enough. I know the internet bout to slander this days.",
+       "text_zh": "说实话这是迟早的事，拖了够久了。我知道接下来几天网上要开喷了。",
+       "likes": 2
+      },
+      {
+       "id": "2112418878370300328",
+       "url": "https://x.com/gustavo72903703/status/2112418878370300328",
+       "author": {
+        "username": "gustavo72903703",
+        "name": "gustavo"
+       },
+       "created_at": "2026-10-20T05:41:22.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm The bar cannot be THAT low… 😭🙏",
+       "text_zh": "标准不会真的这么低吧…… 😭🙏",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112427182631145953",
+     "url": "https://x.com/PopBase/status/2112427182631145953",
+     "author": {
+      "username": "PopBase",
+      "name": "Pop Base",
+      "followers": 7547738
+     },
+     "created_at": "2026-10-20T06:14:21.000Z",
+     "lang": "en",
+     "text": "Puck reports that Jay-Z has picked Jay-Z to headline the 2027 Super Bowl halftime show. \n\nMiley Cyrus and Justin Bieber were reportedly considered. \n\n(https://t.co/qo3E42R5mc) https://t.co/Sb05H7XqP0",
+     "text_zh": "据 Puck 报道，Jay-Z 选了 Jay-Z 担任 2027 年超级碗中场秀主唱。\n\n据称麦莉·赛勒斯和贾斯汀·比伯也曾在考虑之列。",
+     "metrics": {
+      "likes": 29770,
+      "reposts": 1173,
+      "replies": 1360,
+      "quotes": 2761,
+      "views": 2139492,
+      "bookmarks": 2142
+     },
+     "replies": [
+      {
+       "id": "2112430351905620065",
+       "url": "https://x.com/thefateoftswift/status/2112430351905620065",
+       "author": {
+        "username": "thefateoftswift",
+        "name": "chloe or sam 🎀"
+       },
+       "created_at": "2026-10-20T06:26:57.000Z",
+       "lang": "en",
+       "text": "@PopBase he was scared justin was gonna bring out the queen to perform their global smash hit. https://t.co/xaTJ08fjNg",
+       "text_zh": "他是怕比伯把“女王”请上台唱他们那首全球爆款吧。",
+       "likes": 407
+      },
+      {
+       "id": "2112430694223974836",
+       "url": "https://x.com/DatBoyJadenn/status/2112430694223974836",
+       "author": {
+        "username": "DatBoyJadenn",
+        "name": "DatBoyJaden"
+       },
+       "created_at": "2026-10-20T06:28:19.000Z",
+       "lang": "en",
+       "text": "@poptermz @PopBase Lmaooo like I live for it, imagine being such a boss you can pick yourself to perform at the biggest event in America 😂😂 https://t.co/eLWjDYbRBM",
+       "text_zh": "哈哈哈我爱了，想象一下你牛到能自己挑自己去美国最大的舞台表演 😂😂",
+       "likes": 31
+      },
+      {
+       "id": "2112430539701379127",
+       "url": "https://x.com/Aishafierce4/status/2112430539701379127",
+       "author": {
+        "username": "Aishafierce4",
+        "name": "Aisha"
+       },
+       "created_at": "2026-10-20T06:27:42.000Z",
+       "lang": "en",
+       "text": "@PopBase Well Puck News isn’t an official source for something like this even their article states that they are making this claim based on other sources so for now we still have to wait from an official announcement by the NFL before we can sure if this is real or not https://t.co/H2iXBjEoQ1",
+       "text_zh": "Puck News 并不是这种消息的官方来源，连他们的文章也说是基于其他信源，所以在 NFL 正式官宣之前，我们还没法确定这是不是真的",
+       "likes": 31
+      },
+      {
+       "id": "2112430170426749169",
+       "url": "https://x.com/virtualg1rlz/status/2112430170426749169",
+       "author": {
+        "username": "virtualg1rlz",
+        "name": "jaybug"
+       },
+       "created_at": "2026-10-20T06:26:14.000Z",
+       "lang": "en",
+       "text": "@PopBase yea bc we know a single Jay-Z song 🙄 https://t.co/9FOY7E6Kc4",
+       "text_zh": "是啊，好像我们能叫出一首 Jay-Z 的歌似的 🙄",
+       "likes": 31
+      }
+     ]
+    },
+    {
+     "id": "2112267027528528309",
+     "url": "https://x.com/Gdafool00/status/2112267027528528309",
+     "author": {
+      "username": "Gdafool00",
+      "name": "bigshiest",
+      "followers": 25
+     },
+     "created_at": "2026-10-19T19:37:58.000Z",
+     "lang": "en",
+     "text": "Jay-Z is rap’s Triple H. Pac and Big were his Rock/Austin, and Drake is his John Cena. He was never THE guy, but he stuck around the top for so long that we put him in convo’s he was never actually in. Stephanie McMahon is his Beyonce, without her… https://t.co/drD0VEFwdI",
+     "text_zh": "Jay-Z 就是说唱界的 Triple H。图帕克和 Biggie 是他的巨石强森/“冷石”奥斯汀，德雷克是他的约翰·塞纳。他从来不是“那个唯一的王”，只是在顶层待得太久，久到我们把他放进了他其实从没进过的讨论里。斯蒂芬妮·麦克曼就是他的碧昂丝，没有她……【原文被截断】",
+     "metrics": {
+      "likes": 5004,
+      "reposts": 744,
+      "replies": 271,
+      "quotes": 191,
+      "views": 236764,
+      "bookmarks": 931
+     },
+     "replies": [
+      {
+       "id": "2112268395123298387",
+       "url": "https://x.com/Imjushoopin/status/2112268395123298387",
+       "author": {
+        "username": "Imjushoopin",
+        "name": "J balviinnnnn"
+       },
+       "created_at": "2026-10-19T19:43:24.000Z",
+       "lang": "en",
+       "text": "@Gdafool00 Straight facts bro 🫡 I was around for both. Great parallel",
+       "text_zh": "兄弟说的是事实 🫡 两个时代我都经历过，这类比绝了",
+       "likes": 3
+      },
+      {
+       "id": "2112592317488005448",
+       "url": "https://x.com/Wetherman_/status/2112592317488005448",
+       "author": {
+        "username": "Wetherman_",
+        "name": "Wetherman"
+       },
+       "created_at": "2026-10-20T17:10:33.000Z",
+       "lang": null,
+       "text": "@Gdafool00 Eminem would be Cena\n\nDrake would be Roman",
+       "text_zh": "阿姆应该是塞纳\n\n德雷克是罗曼（Roman Reigns）",
+       "likes": 0
+      },
+      {
+       "id": "2112590877306523801",
+       "url": "https://x.com/Capo_the_creep/status/2112590877306523801",
+       "author": {
+        "username": "Capo_the_creep",
+        "name": "The Black 1997 HBK"
+       },
+       "created_at": "2026-10-20T17:04:49.000Z",
+       "lang": null,
+       "text": "@Gdafool00 So who’s 50?",
+       "text_zh": "那 50 是谁？",
+       "likes": 0
+      },
+      {
+       "id": "2112591492208558455",
+       "url": "https://x.com/champboa13/status/2112591492208558455",
+       "author": {
+        "username": "champboa13",
+        "name": "Champ"
+       },
+       "created_at": "2026-10-20T17:07:16.000Z",
+       "lang": null,
+       "text": "@Gdafool00 Damn he really is Triple H😭",
+       "text_zh": "该死，他真的就是 Triple H 😭",
+       "likes": 0
+      }
+     ],
+     "note_zh": "译注：用 WWE 摔角做类比——Triple H 长期占据顶层、靠和老板女儿 Stephanie McMahon 的婚姻获得权力，暗讽 Jay-Z 的地位有一部分来自“联姻”和商业手腕。"
+    },
+    {
+     "id": "2112183996255723683",
+     "url": "https://x.com/Shadaya_Knight/status/2112183996255723683",
+     "author": {
+      "username": "Shadaya_Knight",
+      "name": "𝑻𝒉𝒆 𝑺𝒂𝒍𝒕 𝑶𝒇 𝑻𝒉𝒆 𝑬𝒂𝒓𝒕𝒉",
+      "followers": 699216
+     },
+     "created_at": "2026-10-19T14:08:01.000Z",
+     "lang": "en",
+     "text": "Name a global banger by Jay Z not featuring Beyonce or Rihanna or Kanye? \n\nKeyword - global banger\n\nMeaning a song that was played even by non hip hop fans\n\nIt's the Kendrick Lamar/Drake thing all over again\n\nKendrick is known by hip hop fans\nDrake is known by everyone",
+     "text_zh": "说一首 Jay-Z 不靠碧昂丝、蕾哈娜或坎耶合作的“全球神曲”？\n\n关键词：全球神曲\n\n意思是连不听嘻哈的人都会放的歌\n\n这又是 Kendrick Lamar 和 Drake 那套了\n\nKendrick 是嘻哈粉知道\nDrake 是所有人都知道",
+     "metrics": {
+      "likes": 1286,
+      "reposts": 131,
+      "replies": 327,
+      "quotes": 83,
+      "views": 112070,
+      "bookmarks": 89
+     },
+     "replies": [
+      {
+       "id": "2112189246908031054",
+       "url": "https://x.com/emmanuel_fore/status/2112189246908031054",
+       "author": {
+        "username": "emmanuel_fore",
+        "name": "Emmanuel"
+       },
+       "created_at": "2026-10-19T14:28:53.000Z",
+       "lang": null,
+       "text": "@Shadaya_Knight Empire State of Mind\nForever Young, \n99 problems\nHard Knock Life\nSong cry\nTom Ford",
+       "text_zh": "（列歌单）《Empire State of Mind》\n《Forever Young》\n《99 Problems》\n《Hard Knock Life》\n《Song Cry》\n《Tom Ford》",
+       "likes": 140
+      },
+      {
+       "id": "2112189514265293149",
+       "url": "https://x.com/professor7080/status/2112189514265293149",
+       "author": {
+        "username": "professor7080",
+        "name": "Chief Michael"
+       },
+       "created_at": "2026-10-19T14:29:57.000Z",
+       "lang": null,
+       "text": "@Shadaya_Knight Hard knock life, H to the izzo (HOVA)",
+       "text_zh": "（列歌单）《Hard Knock Life》、《H to the Izzo》（HOVA 是 Jay-Z 的外号）",
+       "likes": 54
+      },
+      {
+       "id": "2112189804544983448",
+       "url": "https://x.com/gmzambe/status/2112189804544983448",
+       "author": {
+        "username": "gmzambe",
+        "name": "Gery"
+       },
+       "created_at": "2026-10-19T14:31:06.000Z",
+       "lang": null,
+       "text": "@Shadaya_Knight Encore/numb featuring Linkin Park",
+       "text_zh": "《Encore》/《Numb》（和林肯公园合作）",
+       "likes": 10
+      },
+      {
+       "id": "2112186691460997195",
+       "url": "https://x.com/IamNdodana/status/2112186691460997195",
+       "author": {
+        "username": "IamNdodana",
+        "name": "Iam_Ndodana"
+       },
+       "created_at": "2026-10-19T14:18:44.000Z",
+       "lang": null,
+       "text": "@Shadaya_Knight It seems you did not just delay getting a car, you were late for cable tv and stereos too",
+       "text_zh": "看来你不只是买车晚，连有线电视和音响都比别人晚 【译注：讽刺发帖人没听过这些歌是因为“接触得晚”】",
+       "likes": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-anti-ai-frictionmaxxing",
+   "region": "west",
+   "categories": [
+    "科技/AI",
+    "生活方式"
+   ],
+   "title_zh": "“年轻人讨厌 AI”+ Frictionmaxxing：故意给生活加点麻烦",
+   "summary_zh": "一位父亲发帖说，他在英国、意大利上大学的 18、19 岁女儿和她们的朋友“全都讨厌 AI”，觉得那是“老年人发明的东西”，40 万曝光、近 850 条回复吵成一片。同一时间，一条讨论 frictionmaxxing 的帖子拿到 175 万曝光、6 万赞：在一切都被“优化得毫无摩擦”的生活里，主动选择实体书、慢路线、线下社交等“麻烦事”。",
+   "why_youth_zh": "这两个话题都戳中 Z 世代对 AI 泛滥内容（AI slop）和算法生活的疲惫：看什么都要先问“这是 AI 吗”。但回复里也有大量反方声音——“我认识的二三十岁的人都是 AI 重度用户”，说明这并不是一边倒的共识。",
+   "keywords": [
+    "frictionmaxxing",
+    "hate AI",
+    "AI slop",
+    "is this AI",
+    "Gen Z"
+   ],
+   "trend_hits": [
+    "X 新闻：Young People Call AI Cringe and a Generational Burden",
+    "X 新闻：Users Exhausted by Constant AI Detection in Feeds"
+   ],
+   "rank": 3,
+   "heat": {
+    "post_count": 19838,
+    "query": "(frictionmaxxing OR \"is this AI\" OR \"hate AI\" OR \"AI slop\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112264840937189768",
+     "url": "https://x.com/majamediaco/status/2112264840937189768",
+     "author": {
+      "username": "majamediaco",
+      "name": "maja 🔭🍒",
+      "followers": 18545
+     },
+     "created_at": "2026-10-19T19:29:16.000Z",
+     "lang": "en",
+     "text": "I'm fascinated by the rise of frictionmaxxing as a response to a frictionless life. We engineer away inconvenience, only to discover that some of the friction we removed was part of what made life feel alive in the first place https://t.co/dtrzg5wp0M https://t.co/NR4TZxPNWL",
+     "text_zh": "frictionmaxxing（摩擦最大化）作为对“无摩擦生活”的反弹正在兴起，我很着迷。我们把所有不便都工程化地消除掉，最后才发现，被我们去掉的一部分摩擦，恰恰是让生活有活着的感觉的东西。",
+     "metrics": {
+      "likes": 60066,
+      "reposts": 4672,
+      "replies": 243,
+      "quotes": 460,
+      "views": 1763684,
+      "bookmarks": 22499
+     },
+     "replies": [
+      {
+       "id": "2112270520846860792",
+       "url": "https://x.com/sushrutabasak/status/2112270520846860792",
+       "author": {
+        "username": "sushrutabasak",
+        "name": "Sushruta Basak"
+       },
+       "created_at": "2026-10-19T19:51:50.000Z",
+       "lang": "en",
+       "text": "@majamediaco some of us genuinely enjoy doing most of the things listed in the frictionmaxxing image. it’s a way of living a fulfilling life",
+       "text_zh": "我们有些人是真心享受 frictionmaxxing 图里列的大部分事情的，这是一种活得充实的方式",
+       "likes": 272
+      },
+      {
+       "id": "2112269545071313027",
+       "url": "https://x.com/wilplatypus/status/2112269545071313027",
+       "author": {
+        "username": "wilplatypus",
+        "name": "wil michael"
+       },
+       "created_at": "2026-10-19T19:47:58.000Z",
+       "lang": "en",
+       "text": "@majamediaco taking the long way home",
+       "text_zh": "绕远路回家",
+       "likes": 11
+      },
+      {
+       "id": "2112271060490133640",
+       "url": "https://x.com/ConejoCapital/status/2112271060490133640",
+       "author": {
+        "username": "ConejoCapital",
+        "name": "bunny"
+       },
+       "created_at": "2026-10-19T19:53:59.000Z",
+       "lang": "en",
+       "text": "@majamediaco its literally the de/acc movement but more ig/tiktok aesthetic which is crazy",
+       "text_zh": "这完全就是 de/acc（减速主义）运动，只不过换成了 Instagram/TikTok 美学，太离谱了",
+       "likes": 10
+      },
+      {
+       "id": "2112266129934786720",
+       "url": "https://x.com/injaneity/status/2112266129934786720",
+       "author": {
+        "username": "injaneity",
+        "name": "Zane Chee"
+       },
+       "created_at": "2026-10-19T19:34:24.000Z",
+       "lang": "en",
+       "text": "@majamediaco same applies to learning, we're starting to come around to ideas that friction is necessary",
+       "text_zh": "学习也是一样，我们开始重新接受“摩擦是必要的”这个观点",
+       "likes": 6
+      }
+     ],
+     "note_zh": "译注：-maxxing 是 Z 世代网络后缀，意为“把某件事做到极致”，如 looksmaxxing、sleepmaxxing。"
+    },
+    {
+     "id": "2112225800116162727",
+     "url": "https://x.com/jitbit/status/2112225800116162727",
+     "author": {
+      "username": "jitbit",
+      "name": "Alex Yumashev",
+      "followers": 1993
+     },
+     "created_at": "2026-10-19T16:54:08.000Z",
+     "lang": "en",
+     "text": "Young people actively hate AI.\n\nMy two younger daughters are 19 and 18, both at universities - one in the UK the other in Italy. Through them, I happen to know quite a few kids their age.\n\nAnd ALL OF THEM seem to universally hate AI.\n\nTo them it's \"something old people invented",
+     "text_zh": "年轻人是真的讨厌 AI。\n\n我两个小女儿 19 岁和 18 岁，都在上大学，一个在英国一个在意大利。通过她们，我认识了不少她们这个年纪的孩子。\n\n而他们所有人似乎都一致地讨厌 AI。\n\n对他们来说，这是“老年人发明的东西……【原文被截断】",
+     "metrics": {
+      "likes": 6739,
+      "reposts": 712,
+      "replies": 845,
+      "quotes": 167,
+      "views": 410818,
+      "bookmarks": 1074
+     },
+     "replies": [
+      {
+       "id": "2112260682062430258",
+       "url": "https://x.com/DamionL13/status/2112260682062430258",
+       "author": {
+        "username": "DamionL13",
+        "name": "Damion Lawson"
+       },
+       "created_at": "2026-10-19T19:12:45.000Z",
+       "lang": "en",
+       "text": "@jitbit No they are not lmao. I live in a college town and this couldn't be more untrue in America. Idk what the europoors are doing (since they don't even have the latest access) but in America young people are very much interested.",
+       "text_zh": "不是的哈哈。我住在一个大学城，在美国这完全不对。不知道欧洲穷鬼们在干嘛（反正他们连最新的功能都用不上），但在美国年轻人非常感兴趣。",
+       "likes": 45
+      },
+      {
+       "id": "2112263010450358433",
+       "url": "https://x.com/ProEvilz/status/2112263010450358433",
+       "author": {
+        "username": "ProEvilz",
+        "name": "ProEvilz"
+       },
+       "created_at": "2026-10-19T19:22:00.000Z",
+       "lang": "en",
+       "text": "@jitbit Are they left wing? Because this seems to be an extension of that. Primarily from that wave of ai is stealing artists work thing that happened a few years ago.",
+       "text_zh": "她们是左派吗？因为这看起来像是那种立场的延伸，主要来自几年前那波“AI 在偷艺术家作品”的风潮。",
+       "likes": 9
+      },
+      {
+       "id": "2112244980345672077",
+       "url": "https://x.com/pmkoom/status/2112244980345672077",
+       "author": {
+        "username": "pmkoom",
+        "name": "Patrick Coombe"
+       },
+       "created_at": "2026-10-19T18:10:21.000Z",
+       "lang": "en",
+       "text": "@jitbit theri social media feeds were flooded with slop before AI...and the same ppl that complain about AI are the ones using it wrong",
+       "text_zh": "她们的社交媒体早在 AI 出现之前就充满垃圾内容了……而抱怨 AI 的人恰恰是用错 AI 的那批人",
+       "likes": 8
+      },
+      {
+       "id": "2112556450224439313",
+       "url": "https://x.com/BreatheLesss/status/2112556450224439313",
+       "author": {
+        "username": "BreatheLesss",
+        "name": "Hyde 💨"
+       },
+       "created_at": "2026-10-20T14:48:01.000Z",
+       "lang": "en",
+       "text": "@jitbit Unless something changes automatically by the time someone turns 20 and skews my experience, then my experience has been vastly different. Everyone I know in their 20s and 30s tend to be heavy AI users, from casual QnAs to constant tinkering for work.\n\nThe only people I know who",
+       "text_zh": "除非人到 20 岁会自动发生什么变化扭曲了我的体验，否则我的经历完全不同。我认识的二三十岁的人大多是 AI 重度用户，从随手问答到工作上一直折腾。\n\n我认识的唯一……【原文被截断】",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112361398516728077",
+     "url": "https://x.com/shesamerihann/status/2112361398516728077",
+     "author": {
+      "username": "shesamerihann",
+      "name": "🗡️😈Drewcifer😈🗡️",
+      "followers": 2963
+     },
+     "created_at": "2026-10-20T01:52:57.000Z",
+     "lang": "en",
+     "text": "i hate that i have to ask “is this ai?” to everything i see nowadays. :(",
+     "text_zh": "我讨厌现在看到什么都得先问一句“这是 AI 吗？” :(",
+     "metrics": {
+      "likes": 2,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 172,
+      "bookmarks": 0
+     },
+     "replies": [],
+     "replies_note_zh": "该帖暂无回复。"
+    }
+   ]
+  },
+  {
+   "id": "west-france-riots",
+   "region": "west",
+   "categories": [
+    "社会"
+   ],
+   "title_zh": "法国生活成本抗议演变成骚乱，多地宵禁",
+   "summary_zh": "10 月 17 日起，法国多地因生活成本、教育经费和公共服务问题爆发大规模游行，随后出现打砸抢烧，据 X 新闻汇总已有 2500 多人被捕、近千名警察受伤，巴黎共和国广场、里昂、尼斯等地实施宵禁。X 上热传的画面包括“整条街只有书店没被抢”、经营 29 年的动漫店被洗劫的监控视频等。",
+   "why_youth_zh": "抗议的核心诉求（生活成本、学校条件）与年轻人直接相关，参与者也以学生和年轻人为主；“书店没人抢”成了全网玩梗素材。但要注意，高互动帖子多出自立场鲜明的美国政治账号，常把事件往移民议题上引导，回复区里也有人指出流传的部分图片其实是旧图。",
+   "keywords": [
+    "France riots",
+    "Paris curfew",
+    "cost of living",
+    "looting",
+    "bookstore"
+   ],
+   "trend_hits": [
+    "英国：Paris、Macron"
+   ],
+   "rank": 4,
+   "heat": {
+    "post_count": 70198,
+    "query": "(\"France riots\" OR \"French riots\" OR \"riots in France\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "本话题点赞最高的几条帖子（5 万+ 赞）包含未经证实的宗教/族裔指控，本页未收录；所选帖子同样来自政治倾向明显的账号，仅代表 X 上的讨论热度，不代表事实判断。",
+   "posts": [
+    {
+     "id": "2112508980048155019",
+     "url": "https://x.com/GOP_is_Gutless/status/2112508980048155019",
+     "author": {
+      "username": "GOP_is_Gutless",
+      "name": "GRANDPA’s FREE ADVICE",
+      "followers": 178285
+     },
+     "created_at": "2026-10-20T11:39:24.000Z",
+     "lang": "en",
+     "text": "🚨This is a MUST READ:  it’s a post from a French Citizen: Brivael Le Pogam, this is the best description of what has occurred in France I have seen, read his words:\n\nLe Pogam: “To every American, and to everyone watching France burn from abroad:\n\nDo not blame the French people https://t.co/97VD2OSTs4",
+     "text_zh": "🚨必读：这是一位法国公民 Brivael Le Pogam 的帖子，是我看过对法国发生的事描述得最好的，读读他的话：\n\nLe Pogam：“致每一个美国人，以及每一个在国外看着法国燃烧的人：\n\n不要怪法国人民……【原文被截断】",
+     "metrics": {
+      "likes": 6117,
+      "reposts": 2517,
+      "replies": 359,
+      "quotes": 196,
+      "views": 189073,
+      "bookmarks": 995
+     },
+     "replies": [
+      {
+       "id": "2112513767024070691",
+       "url": "https://x.com/johndruckenbro1/status/2112513767024070691",
+       "author": {
+        "username": "johndruckenbro1",
+        "name": "john druckenbroad"
+       },
+       "created_at": "2026-10-20T11:58:25.000Z",
+       "lang": "en",
+       "text": "@GOP_is_Gutless So she's not French people? I take this like everything else...with alot of skepticism https://t.co/PdeIiz3W9z",
+       "text_zh": "所以她就不是法国人民了？我对这个和对其他所有事一样……保持很大的怀疑",
+       "likes": 38
+      },
+      {
+       "id": "2112592066937319497",
+       "url": "https://x.com/TheQuiteBoss/status/2112592066937319497",
+       "author": {
+        "username": "TheQuiteBoss",
+        "name": "Daniel Allen"
+       },
+       "created_at": "2026-10-20T17:09:33.000Z",
+       "lang": null,
+       "text": "@GOP_is_Gutless France—cradle of the Enlightenment’s sharpest wits, who first showed the Church the door with a flourish of epigrams, then later philosophers deconstructed the door, the hallway, and the very notion of a house with foundations. From Voltaire’s elegant barbs to Foucault’s",
+       "text_zh": "法国——启蒙运动最犀利头脑的摇篮，先用一连串警句把教会请出门，后来的哲学家又把门、走廊，乃至“有地基的房子”这个概念本身都解构掉了。从伏尔泰优雅的讽刺到福柯的……【原文被截断】",
+       "likes": 0
+      },
+      {
+       "id": "2112591731401327053",
+       "url": "https://x.com/JeffNoe424025/status/2112591731401327053",
+       "author": {
+        "username": "JeffNoe424025",
+        "name": "Jeff Noe"
+       },
+       "created_at": "2026-10-20T17:08:13.000Z",
+       "lang": null,
+       "text": "@GOP_is_Gutless I think it’s time we come and help out the French like they did at Yorktown!",
+       "text_zh": "我觉得是时候去帮帮法国人了，就像他们当年在约克镇帮我们一样！【译注：约克镇战役中法国援助了美国独立战争】",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112511422332842101",
+     "url": "https://x.com/ClownWorld/status/2112511422332842101",
+     "author": {
+      "username": "ClownWorld",
+      "name": "Clown World ™ 🤡",
+      "followers": 3190887
+     },
+     "created_at": "2026-10-20T11:49:06.000Z",
+     "lang": "en",
+     "text": "The only store safe from the riots is a bookstore. The jokes write themselves. https://t.co/tMThPpZ0ng",
+     "text_zh": "骚乱中唯一安全的店是书店。笑话自己就写好了。",
+     "metrics": {
+      "likes": 6098,
+      "reposts": 617,
+      "replies": 91,
+      "quotes": 28,
+      "views": 64881,
+      "bookmarks": 184
+     },
+     "replies": [
+      {
+       "id": "2112518192363094427",
+       "url": "https://x.com/danlatta/status/2112518192363094427",
+       "author": {
+        "username": "danlatta",
+        "name": "Dan Latta"
+       },
+       "created_at": "2026-10-20T12:16:00.000Z",
+       "lang": null,
+       "text": "@ClownWorld Books? Students? C’mon. https://t.co/pB9vsupco6",
+       "text_zh": "书？学生？拜托。",
+       "likes": 131
+      },
+      {
+       "id": "2112515910955094424",
+       "url": "https://x.com/ancapaaron/status/2112515910955094424",
+       "author": {
+        "username": "ancapaaron",
+        "name": "Aaron アーロン"
+       },
+       "created_at": "2026-10-20T12:06:56.000Z",
+       "lang": null,
+       "text": "@ClownWorld \"They just want more math homework\"",
+       "text_zh": "“他们只是想要更多数学作业”",
+       "likes": 4
+      },
+      {
+       "id": "2112580728903147843",
+       "url": "https://x.com/olafx/status/2112580728903147843",
+       "author": {
+        "username": "olafx",
+        "name": "Olaf"
+       },
+       "created_at": "2026-10-20T16:24:30.000Z",
+       "lang": "en",
+       "text": "@ClownWorld The reader does not steal, and the thief does not read.",
+       "text_zh": "读书的人不偷，偷东西的人不读书。",
+       "likes": 1
+      },
+      {
+       "id": "2112567793832882567",
+       "url": "https://x.com/grok/status/2112567793832882567",
+       "author": {
+        "username": "grok",
+        "name": "Grok"
+       },
+       "created_at": "2026-10-20T15:33:06.000Z",
+       "lang": "en",
+       "text": "@kalsjdhflkjsa @danlatta @ClownWorld Yes, the photo is from a May 2021 clan clash in Hjällbo, Gothenburg, Sweden. It comes from police bodycam/surveillance of rival groups fighting there, not France or any school protests. Swedish reports and community notes confirmed the origin as it recirculated.",
+       "text_zh": "是的，这张图来自 2021 年 5 月瑞典哥德堡 Hjällbo 的帮派冲突，是警方执法记录仪/监控拍到的敌对团伙斗殴画面，与法国或任何学生抗议无关。图片再次流传时，瑞典媒体报道和社区笔记都确认了来源。【译注：这是对楼中另一张配图的事实核查】",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112544867918451104",
+     "url": "https://x.com/DefiantLs/status/2112544867918451104",
+     "author": {
+      "username": "DefiantLs",
+      "name": "Defiant L’s",
+      "followers": 1704884
+     },
+     "created_at": "2026-10-20T14:02:00.000Z",
+     "lang": "en",
+     "text": "The owner of an anime shop in France who went viral, released part of the security footage that he captured of his shop being looted\n\nHe had to watch the business he's been building for 29 years being completely destroyed and unable to do anything to stop them\n\nThese people are",
+     "text_zh": "那位走红的法国动漫店老板公开了店铺被洗劫时的部分监控画面。\n\n他只能眼睁睁看着自己经营了 29 年的生意被彻底摧毁，却什么都做不了。\n\n这些人是……【原文被截断】",
+     "metrics": {
+      "likes": 2733,
+      "reposts": 544,
+      "replies": 132,
+      "quotes": 35,
+      "views": 44364,
+      "bookmarks": 137
+     },
+     "replies": [
+      {
+       "id": "2112553576413458606",
+       "url": "https://x.com/MarkBski/status/2112553576413458606",
+       "author": {
+        "username": "MarkBski",
+        "name": "Mark Bski🇺🇸Ruggedly Individualistic 🐶 olllllllo"
+       },
+       "created_at": "2026-10-20T14:36:36.000Z",
+       "lang": "en",
+       "text": "@DefiantLs France needs more rooftop Koreans. @RoofKorean7",
+       "text_zh": "法国需要更多“屋顶韩国人”。【译注：指 1992 年洛杉矶骚乱中韩裔店主持枪守在屋顶保护店铺的著名画面，已成网络梗】",
+       "likes": 21
+      },
+      {
+       "id": "2112557072416198774",
+       "url": "https://x.com/_LeadPoisoning_/status/2112557072416198774",
+       "author": {
+        "username": "_LeadPoisoning_",
+        "name": "Lead Poisoning"
+       },
+       "created_at": "2026-10-20T14:50:30.000Z",
+       "lang": "en",
+       "text": "@DefiantLs Hoodies and covid masks.... They've learned from American looters.",
+       "text_zh": "连帽衫加新冠口罩……他们是跟美国的抢劫者学的。",
+       "likes": 5
+      },
+      {
+       "id": "2112559699061063731",
+       "url": "https://x.com/TowerCommander/status/2112559699061063731",
+       "author": {
+        "username": "TowerCommander",
+        "name": "The Tower Commander"
+       },
+       "created_at": "2026-10-20T15:00:56.000Z",
+       "lang": "en",
+       "text": "@DefiantLs I suppose that Anime gear is going to help them pass their college classes?",
+       "text_zh": "我猜那些动漫周边能帮他们通过大学考试？",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-gta6-countdown",
+   "region": "west",
+   "categories": [
+    "游戏/动漫",
+    "社会"
+   ],
+   "title_zh": "GTA 6 倒计时 30 天：“首发日美国经济损失 10 亿美元”与“过了 22 岁还打游戏？”",
+   "summary_zh": "GTA 6 将于 11 月 19 日登陆 PS5 和 Xbox Series X|S。一则引自 International Business Times 的估算称，首发日可能有多达 150 万美国人请病假或休假去玩，单日造成约 10 亿美元损失；Sensor Tower 数据显示美国数字预购已达 608 万份、约 5.94 亿美元，比《使命召唤：现代战争 2》同期高 148%。",
+   "why_youth_zh": "真正炸出年轻人的是一条“如果你超过 22 岁还在打游戏，甚至请假打游戏……你该照照镜子了”，这条帖子收到 2789 条回复，远超点赞数，属于典型的“被骂上热门”。",
+   "keywords": [
+    "GTA 6",
+    "GTA VI",
+    "Nov 19",
+    "pre-orders",
+    "call in sick"
+   ],
+   "trend_hits": [
+    "X 新闻：GTA VI Launch Could Cost U.S. Economy $1 Billion in Absenteeism"
+   ],
+   "rank": 5,
+   "heat": {
+    "post_count": 79426,
+    "query": "(\"GTA 6\" OR \"GTA VI\" OR GTA6 OR #GTAVI)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112484218014237122",
+     "url": "https://x.com/unusual_whales/status/2112484218014237122",
+     "author": {
+      "username": "unusual_whales",
+      "name": "unusual_whales",
+      "followers": 5425067
+     },
+     "created_at": "2026-10-20T10:01:00.000Z",
+     "lang": "en",
+     "text": "BREAKING: “Grand Theft Auto VI” could cost the US economy $1 billion in a single day.\n\nThe long-awaited game drops Nov. 19, and up to 1.5 million Americans could call in sick or take the day off to play it, according to estimates cited by the International Business Times.",
+     "text_zh": "突发：《侠盗猎车手 6》可能在一天之内让美国经济损失 10 亿美元。\n\n这款万众期待的游戏将于 11 月 19 日发售，据 International Business Times 引用的估算，多达 150 万美国人可能请病假或请假去玩。",
+     "metrics": {
+      "likes": 24456,
+      "reposts": 1432,
+      "replies": 443,
+      "quotes": 503,
+      "views": 2086640,
+      "bookmarks": 1898
+     },
+     "replies": [
+      {
+       "id": "2112488039792468196",
+       "url": "https://x.com/WhaleStreetInc/status/2112488039792468196",
+       "author": {
+        "username": "WhaleStreetInc",
+        "name": "Whale Street"
+       },
+       "created_at": "2026-10-20T10:16:11.000Z",
+       "lang": "en",
+       "text": "@unusual_whales Realizing GTA VI is going to be the domino that starts the mother of all crashes that’s been getting talked about.. https://t.co/kPbq8558am",
+       "text_zh": "突然意识到 GTA 6 会成为引发大家一直在说的“史诗级大崩盘”的那张多米诺骨牌……",
+       "likes": 180
+      },
+      {
+       "id": "2112487014364795139",
+       "url": "https://x.com/MannyM_2003/status/2112487014364795139",
+       "author": {
+        "username": "MannyM_2003",
+        "name": "Manny Montoya"
+       },
+       "created_at": "2026-10-20T10:12:06.000Z",
+       "lang": "en",
+       "text": "@unusual_whales a $1 billion hit to the economy and somehow none of it was ever coming to my paycheck",
+       "text_zh": "经济损失 10 亿美元，但不知怎么的，这些钱本来也一分都不会进我的工资",
+       "likes": 25
+      },
+      {
+       "id": "2112487116911661306",
+       "url": "https://x.com/souffle_2004/status/2112487116911661306",
+       "author": {
+        "username": "souffle_2004",
+        "name": "tiramisu"
+       },
+       "created_at": "2026-10-20T10:12:31.000Z",
+       "lang": "en",
+       "text": "@unusual_whales At this point, just declare GTA VI launch day a national holiday. 😭",
+       "text_zh": "干脆把 GTA 6 发售日定为国家法定假日吧 😭",
+       "likes": 2
+      },
+      {
+       "id": "2112488586532766134",
+       "url": "https://x.com/balawal_virk/status/2112488586532766134",
+       "author": {
+        "username": "balawal_virk",
+        "name": "Balawal Virk"
+       },
+       "created_at": "2026-10-20T10:18:21.000Z",
+       "lang": "en",
+       "text": "@unusual_whales november 19th is about to have the worst 'flu season' in american history lol https://t.co/yL1CJ6zhtj",
+       "text_zh": "11 月 19 日即将迎来美国历史上最严重的“流感季”哈哈",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112559466973679775",
+     "url": "https://x.com/Pirat_Nation/status/2112559466973679775",
+     "author": {
+      "username": "Pirat_Nation",
+      "name": "Pirat_Nation 🔴",
+      "followers": 367102
+     },
+     "created_at": "2026-10-20T15:00:01.000Z",
+     "lang": "en",
+     "text": "Sensor Tower data shows just how far ahead GTA 6 is compared with other major releases\n\n- 6.08 million digital pre-orders in the US\n- Around $594 million in pre-launch revenue\n- 148% ahead of Call of Duty: Modern Warfare 2 at the same point before release\n- 74% of pre-orders are https://t.co/tIdnqyvu9a",
+     "text_zh": "Sensor Tower 数据显示 GTA 6 领先其他大作多少：\n\n- 美国数字预购 608 万份\n- 预售收入约 5.94 亿美元\n- 比《使命召唤：现代战争 2》发售前同期高 148%\n- 74% 的预购来自……【原文被截断】",
+     "metrics": {
+      "likes": 832,
+      "reposts": 45,
+      "replies": 45,
+      "quotes": 5,
+      "views": 44159,
+      "bookmarks": 122
+     },
+     "replies": [
+      {
+       "id": "2112566023878808023",
+       "url": "https://x.com/tmo_melonmaster/status/2112566023878808023",
+       "author": {
+        "username": "tmo_melonmaster",
+        "name": "T. Supkit"
+       },
+       "created_at": "2026-10-20T15:26:04.000Z",
+       "lang": null,
+       "text": "@Pirat_Nation Did anyone actually thinks GTA 6 won’t be successful?  \n\nQuality of the story, characters and gameplay asides, this was always going to be a financial win for Rockstar.\n\nThe interesting part will be when the game is released and we get to see if it lives up to the hype.",
+       "text_zh": "真有人觉得 GTA 6 不会成功吗？\n\n先不说剧情、角色和玩法质量，这在商业上对 Rockstar 本来就是稳赢。\n\n有意思的是等游戏发售后，看它能不能配得上这份热度。",
+       "likes": 2
+      },
+      {
+       "id": "2112573318255841536",
+       "url": "https://x.com/VikingCrv/status/2112573318255841536",
+       "author": {
+        "username": "VikingCrv",
+        "name": "VikingSaga"
+       },
+       "created_at": "2026-10-20T15:55:03.000Z",
+       "lang": null,
+       "text": "@Pirat_Nation 74% pre-orders being on PS shows how people have been lying few weeks ago when they were saying that ratio is 1:8 when now it’s 1:3. I’m really curious how the final comparison numbers gonna look like. Me and my friends haven’t bought it yet on XSX.",
+       "text_zh": "74% 的预购在 PS 上，说明几周前那些说比例是 1:8 的人在撒谎，现在是 1:3。我很好奇最终对比数据会怎样。我和朋友们还没在 XSX 上买。",
+       "likes": 1
+      },
+      {
+       "id": "2112572333122601100",
+       "url": "https://x.com/SonOfChar0079/status/2112572333122601100",
+       "author": {
+        "username": "SonOfChar0079",
+        "name": "SonOfChar0079"
+       },
+       "created_at": "2026-10-20T15:51:08.000Z",
+       "lang": null,
+       "text": "@Pirat_Nation #GTA6 is gonna be a big event for gaming. But I have my doubts that @RockstarGames will deliver the goods.",
+       "text_zh": "GTA 6 会是游戏圈的一件大事。但我怀疑 Rockstar 能不能交出好货。",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112515545270567223",
+     "url": "https://x.com/AlexForbesOps/status/2112515545270567223",
+     "author": {
+      "username": "AlexForbesOps",
+      "name": "Alex Forbes",
+      "followers": 17026
+     },
+     "created_at": "2026-10-20T12:05:29.000Z",
+     "lang": "en",
+     "text": "If you’re older than 22 and still playing video games, let alone taking off work to play video games…\n\nYou need to take a look in the mirror. https://t.co/VfL2tuKOk8",
+     "text_zh": "如果你超过 22 岁还在打电子游戏，更别说请假去打游戏……\n\n你该好好照照镜子了。",
+     "metrics": {
+      "likes": 782,
+      "reposts": 46,
+      "replies": 2789,
+      "quotes": 703,
+      "views": 530983,
+      "bookmarks": 295
+     },
+     "replies": [
+      {
+       "id": "2112520598161350950",
+       "url": "https://x.com/JackJG/status/2112520598161350950",
+       "author": {
+        "username": "JackJG",
+        "name": "Jack G"
+       },
+       "created_at": "2026-10-20T12:25:33.000Z",
+       "lang": "en",
+       "text": "@AlexForbesOps We are on earth to live. A game or two is part of living. $1 billion is a rounding error.",
+       "text_zh": "我们来地球上是为了生活的。打一两款游戏也是生活的一部分。10 亿美元只是个舍入误差。",
+       "likes": 388
+      },
+      {
+       "id": "2112516935799967790",
+       "url": "https://x.com/308Greenfield/status/2112516935799967790",
+       "author": {
+        "username": "308Greenfield",
+        "name": "Trent Von Holten"
+       },
+       "created_at": "2026-10-20T12:11:00.000Z",
+       "lang": "en",
+       "text": "@AlexForbesOps I’ll be keeping an eye on this date when time off requests come in",
+       "text_zh": "等请假申请交上来的时候，我会特别留意这个日期的",
+       "likes": 4
+      },
+      {
+       "id": "2112592859182362842",
+       "url": "https://x.com/samdawkins1234/status/2112592859182362842",
+       "author": {
+        "username": "samdawkins1234",
+        "name": "sam dawkins"
+       },
+       "created_at": "2026-10-20T17:12:42.000Z",
+       "lang": "en",
+       "text": "@AlexForbesOps @1337hero Yet you've tweeted 32 thousand times 🤔",
+       "text_zh": "可你自己发了 3.2 万条推文 🤔",
+       "likes": 0
+      },
+      {
+       "id": "2112592857492013402",
+       "url": "https://x.com/SleekOcelot/status/2112592857492013402",
+       "author": {
+        "username": "SleekOcelot",
+        "name": "SleekOcelot"
+       },
+       "created_at": "2026-10-20T17:12:41.000Z",
+       "lang": "en",
+       "text": "@AlexForbesOps @KRandall4505 Ahh ok, so only hobbies you enjoy are considered worthwhile, gotcha 👍🏻",
+       "text_zh": "哦懂了，只有你喜欢的爱好才算有价值，明白了 👍🏻",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-deadlock-valve",
+   "region": "west",
+   "categories": [
+    "游戏/动漫",
+    "梗"
+   ],
+   "title_zh": "Valve《Deadlock》更新后在线破 30 万，新英雄“Rem”成了梗",
+   "summary_zh": "Valve 的第三人称射击 + MOBA 新作《Deadlock》仍在邀请制封测，但“City Never Sleeps”大更新重做了地图、每周放出两名新英雄，Steam 同时在线一度超过 30 万。玩家在 X 上刷屏的是同人画、排队匹配梗和“我排到了真·Rem”之类的搞笑视频。",
+   "why_youth_zh": "这是典型的“游戏圈年轻人自来水”：没有官方营销，靠画手（角色设计被大量二创）和梗视频传播，点赞动辄几千。",
+   "keywords": [
+    "Deadlock",
+    "Valve",
+    "Rem",
+    "new heroes",
+    "fan art"
+   ],
+   "trend_hits": [
+    "X 新闻：Valve's Deadlock Beta Breaks Records with New Heroes and Fan Creations"
+   ],
+   "rank": 6,
+   "heat": {
+    "post_count": 48829,
+    "query": "(#deadlock OR #deadlockgame OR (Deadlock (Valve OR hero OR heroes OR queue OR match)))",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "“Deadlock”也是英文常用词（僵局），帖子量统计会混入政治新闻等无关内容，仅供参考。",
+   "posts": [
+    {
+     "id": "2112374129966100687",
+     "url": "https://x.com/moe9times/status/2112374129966100687",
+     "author": {
+      "username": "moe9times",
+      "name": "moe",
+      "followers": 1086
+     },
+     "created_at": "2026-10-20T02:43:33.000Z",
+     "lang": "en",
+     "text": "i think i queued into the real rem https://t.co/GpGITMkEIk",
+     "text_zh": "我觉得我排到了真正的 Rem",
+     "metrics": {
+      "likes": 8512,
+      "reposts": 719,
+      "replies": 9,
+      "quotes": 3,
+      "views": 101921,
+      "bookmarks": 1564
+     },
+     "replies": [
+      {
+       "id": "2112406013085376696",
+       "url": "https://x.com/acupcait/status/2112406013085376696",
+       "author": {
+        "username": "acupcait",
+        "name": "a.cup.cait 🇵🇸🏳️‍⚧️🇺🇦"
+       },
+       "created_at": "2026-10-20T04:50:14.000Z",
+       "lang": "en",
+       "text": "@moe9times They sound like Rem with a cold lol",
+       "text_zh": "听起来像感冒了的 Rem 哈哈",
+       "likes": 339
+      },
+      {
+       "id": "2112395599353938227",
+       "url": "https://x.com/ChewwyBombX/status/2112395599353938227",
+       "author": {
+        "username": "ChewwyBombX",
+        "name": "Cherry"
+       },
+       "created_at": "2026-10-20T04:08:51.000Z",
+       "lang": "en",
+       "text": "@moe9times You should've comforted them by saying their token doesn't get consumed if you don't get your seoected hero 😭😭😭",
+       "text_zh": "你应该安慰他们：如果没排到选定的英雄，代币是不会被消耗的 😭😭😭",
+       "likes": 316
+      },
+      {
+       "id": "2112398160614310053",
+       "url": "https://x.com/sillypupkit/status/2112398160614310053",
+       "author": {
+        "username": "sillypupkit",
+        "name": "silly pupkit"
+       },
+       "created_at": "2026-10-20T04:19:02.000Z",
+       "lang": "en",
+       "text": "@moe9times rem when silver wont take off her jacket",
+       "text_zh": "当 Silver 不肯脱外套时的 Rem",
+       "likes": 91
+      },
+      {
+       "id": "2112477855523496320",
+       "url": "https://x.com/Yuulie_v/status/2112477855523496320",
+       "author": {
+        "username": "Yuulie_v",
+        "name": "yuuliez"
+       },
+       "created_at": "2026-10-20T09:35:43.000Z",
+       "lang": "en",
+       "text": "@moe9times Rem after getting hit with 2 weeks of Capitalism Society",
+       "text_zh": "被“资本主义社会”毒打两周之后的 Rem",
+       "likes": 49
+      }
+     ],
+     "note_zh": "译注：Rem 是《Deadlock》中的一名英雄。视频内容为语音聊天里一位声音很像 Rem 的队友。"
+    },
+    {
+     "id": "2112420945482625249",
+     "url": "https://x.com/fedolaykwarr/status/2112420945482625249",
+     "author": {
+      "username": "fedolaykwarr",
+      "name": "FedoLayKwarr",
+      "followers": 402
+     },
+     "created_at": "2026-10-20T05:49:34.000Z",
+     "lang": "en",
+     "text": "I've played enough this is my everyday deadlock #deadlock #deadlockgame https://t.co/qONnUZs2eR",
+     "text_zh": "玩够了，这就是我每天的 Deadlock",
+     "metrics": {
+      "likes": 5216,
+      "reposts": 437,
+      "replies": 6,
+      "quotes": 5,
+      "views": 42091,
+      "bookmarks": 466
+     },
+     "replies": [
+      {
+       "id": "2112522221931655534",
+       "url": "https://x.com/Dootzy1/status/2112522221931655534",
+       "author": {
+        "username": "Dootzy1",
+        "name": "Dootzy 🍉"
+       },
+       "created_at": "2026-10-20T12:32:01.000Z",
+       "lang": null,
+       "text": "@fedolaykwarr Meanwhile one team is neglecting a troop wave taking out a walker",
+       "text_zh": "与此同时，一队正在无视一波兵线，结果对面把塔（walker）拆了",
+       "likes": 14
+      },
+      {
+       "id": "2112465482876125331",
+       "url": "https://x.com/aGlitchyHunter/status/2112465482876125331",
+       "author": {
+        "username": "aGlitchyHunter",
+        "name": "λGlitchyHunter⨂"
+       },
+       "created_at": "2026-10-20T08:46:33.000Z",
+       "lang": null,
+       "text": "@fedolaykwarr The son follows in the mothers footsteps",
+       "text_zh": "儿子继承了母亲的衣钵",
+       "likes": 13
+      },
+      {
+       "id": "2112460081745051765",
+       "url": "https://x.com/KuroFoxGnoll/status/2112460081745051765",
+       "author": {
+        "username": "KuroFoxGnoll",
+        "name": "Kuro"
+       },
+       "created_at": "2026-10-20T08:25:05.000Z",
+       "lang": null,
+       "text": "@fedolaykwarr I'm definitely the Rem",
+       "text_zh": "我肯定就是那个 Rem",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112393107983810873",
+     "url": "https://x.com/sushiisiu/status/2112393107983810873",
+     "author": {
+      "username": "sushiisiu",
+      "name": "阿霄 siu @ shop open",
+      "followers": 51060
+     },
+     "created_at": "2026-10-20T03:58:57.000Z",
+     "lang": "en",
+     "text": "Genuinely obsessed with the char designs in deadlock https://t.co/djDLIr1HVi",
+     "text_zh": "真心迷上了 Deadlock 的角色设计",
+     "metrics": {
+      "likes": 4837,
+      "reposts": 567,
+      "replies": 6,
+      "quotes": 5,
+      "views": 20371,
+      "bookmarks": 493
+     },
+     "replies": [
+      {
+       "id": "2112424924480483774",
+       "url": "https://x.com/guiltron_/status/2112424924480483774",
+       "author": {
+        "username": "guiltron_",
+        "name": "guil"
+       },
+       "created_at": "2026-10-20T06:05:23.000Z",
+       "lang": null,
+       "text": "@sushiisiu IVYYYYYYYYYYY",
+       "text_zh": "IVYYYYYYYYY（艾薇！）",
+       "likes": 4
+      },
+      {
+       "id": "2112520807360659484",
+       "url": "https://x.com/meowsacre/status/2112520807360659484",
+       "author": {
+        "username": "meowsacre",
+        "name": "⛤ charlie 💗"
+       },
+       "created_at": "2026-10-20T12:26:23.000Z",
+       "lang": null,
+       "text": "@sushiisiu oh my god… ivy is so moe..",
+       "text_zh": "天哪……艾薇好萌……",
+       "likes": 1
+      },
+      {
+       "id": "2112406509648764962",
+       "url": "https://x.com/Benji90001555/status/2112406509648764962",
+       "author": {
+        "username": "Benji90001555",
+        "name": "Benji. 🇦🇷☀️"
+       },
+       "created_at": "2026-10-20T04:52:13.000Z",
+       "lang": null,
+       "text": "@sushiisiu The way you drew Mina is VERY beautiful!! 🫶💛",
+       "text_zh": "你画的 Mina 太美了！！🫶💛",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-edgerunners-2",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫"
+   ],
+   "title_zh": "《赛博朋克：边缘行者 2》Netflix 全 10 集上线，小岛秀夫客串",
+   "summary_zh": "由 TRIGGER 制作的《赛博朋克：边缘行者 2》10 月 20 日在 Netflix 一次放出全部 10 集，小岛秀夫客串游戏里的超梦导演“大岛秀吉”；CD Projekt Red 同步预告 10 月 22 日的《赛博朋克 2077》2.5 更新，加入动画联动内容。日本、韩国、全球趋势榜都有它（エッジランナーズ2 / 엣지러너2）。",
+   "why_youth_zh": "第一季曾让游戏口碑翻身，所以这次是“全球二次元 + 游戏玩家”同步追番；BTS 柾国 4 小时看完也带来一波 K-pop 粉丝。日本网友的经典反应是“看前 / 看中 / 看后”三连图，以及“这结局是真的吗”。评价也有分歧，部分观众认为剧本不如第一季。",
+   "keywords": [
+    "エッジランナーズ2",
+    "Edgerunners 2",
+    "Cyberpunk 2077 2.5",
+    "Kojima",
+    "Netflix",
+    "TRIGGER"
+   ],
+   "trend_hits": [
+    "日本：エッジランナーズ2",
+    "韩国：엣지러너2、사이버펑크",
+    "全球：エッジランナーズ2"
+   ],
+   "rank": 1,
+   "heat": {
+    "post_count": 55558,
+    "query": "(エッジランナーズ2 OR \"Edgerunners 2\" OR 엣지러너2 OR \"Edgerunners Season 2\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112287676741120248",
+     "url": "https://x.com/netflix/status/2112287676741120248",
+     "author": {
+      "username": "netflix",
+      "name": "Netflix",
+      "followers": 29310258
+     },
+     "created_at": "2026-10-19T21:00:01.000Z",
+     "lang": "en",
+     "text": "Next Stop: Night City \n\nCyberpunk: Edgerunners 2 premieres TOMORROW https://t.co/0r3hNFNY5g",
+     "text_zh": "下一站：夜之城\n\n《赛博朋克：边缘行者 2》明天上线",
+     "metrics": {
+      "likes": 28361,
+      "reposts": 3422,
+      "replies": 183,
+      "quotes": 566,
+      "views": 817982,
+      "bookmarks": 1337
+     },
+     "replies": [
+      {
+       "id": "2112300987327402240",
+       "url": "https://x.com/CPEXFORT/status/2112300987327402240",
+       "author": {
+        "username": "CPEXFORT",
+        "name": "Is CPE in Fortnite?"
+       },
+       "created_at": "2026-10-19T21:52:54.000Z",
+       "lang": "en",
+       "text": "@netflix @femmesilverhand LETS RUN TO THE EDGE! https://t.co/Qk6mGkJSlD",
+       "text_zh": "冲向边缘吧！",
+       "likes": 23
+      },
+      {
+       "id": "2112301255074914525",
+       "url": "https://x.com/Shadow_Eh_30/status/2112301255074914525",
+       "author": {
+        "username": "Shadow_Eh_30",
+        "name": "NickEh30BiggestFan69"
+       },
+       "created_at": "2026-10-19T21:53:58.000Z",
+       "lang": "en",
+       "text": "@netflix I bet they release it exactly when my school starts so I can’t binge it 🥺",
+       "text_zh": "我打赌它正好在我开学的时候上，让我没法一口气刷完 🥺",
+       "likes": 2
+      },
+      {
+       "id": "2112588790711955743",
+       "url": "https://x.com/ylx1999/status/2112588790711955743",
+       "author": {
+        "username": "ylx1999",
+        "name": "longxin yan"
+       },
+       "created_at": "2026-10-20T16:56:32.000Z",
+       "lang": null,
+       "text": "@netflix I don't know if CDPR realizes Season 2 isn't cyberpunk at all. It's just total garbage",
+       "text_zh": "不知道 CDPR 有没有意识到第二季根本不赛博朋克，纯纯垃圾",
+       "likes": 2
+      },
+      {
+       "id": "2112524012748517629",
+       "url": "https://x.com/liudehua5428/status/2112524012748517629",
+       "author": {
+        "username": "liudehua5428",
+        "name": "中二的背锅王"
+       },
+       "created_at": "2026-10-20T12:39:08.000Z",
+       "lang": null,
+       "text": "@netflix 剧本太烂了兄弟，我第一部的编剧呢 https://t.co/jha9yC6bIo",
+       "text_zh": "@netflix 剧本太烂了兄弟，我第一部的编剧呢 https://t.co/jha9yC6bIo",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112357591800037867",
+     "url": "https://x.com/DiscussingFilm/status/2112357591800037867",
+     "author": {
+      "username": "DiscussingFilm",
+      "name": "DiscussingFilm",
+      "followers": 3254753
+     },
+     "created_at": "2026-10-20T01:37:50.000Z",
+     "lang": "en",
+     "text": "The opening title sequence for ‘CYBERPUNK: EDGERUNNERS’ Season 2 has been revealed. https://t.co/OzUaTO3bxS",
+     "text_zh": "《赛博朋克：边缘行者》第二季片头公开。",
+     "metrics": {
+      "likes": 23844,
+      "reposts": 2386,
+      "replies": 96,
+      "quotes": 264,
+      "views": 544061,
+      "bookmarks": 3700
+     },
+     "replies": [
+      {
+       "id": "2112375149748228475",
+       "url": "https://x.com/D4vidBlake/status/2112375149748228475",
+       "author": {
+        "username": "D4vidBlake",
+        "name": "DavidBlake"
+       },
+       "created_at": "2026-10-20T02:47:36.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm Visually both reminds me to the 1st Season AND giving some Cowboy Bebop vibes!\nMusic choice is still peak, as always! https://t.co/WmriUyNrT5",
+       "text_zh": "视觉上既让我想起第一季，又有点《星际牛仔》的味道！选曲依旧顶级，一如既往！",
+       "likes": 45
+      },
+      {
+       "id": "2112369075003310394",
+       "url": "https://x.com/QEDreal/status/2112369075003310394",
+       "author": {
+        "username": "QEDreal",
+        "name": "Q.E.D"
+       },
+       "created_at": "2026-10-20T02:23:28.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm CD Projekt went from a game so broken Sony pulled it off the PlayStation Store to an anime so good it got a Season 2. Edgerunners didn't just save Night City, it saved the share price.",
+       "text_zh": "CD Projekt 从做出一款烂到被索尼下架的游戏，到做出一部好到能出第二季的动画。《边缘行者》不只拯救了夜之城，还拯救了股价。",
+       "likes": 8
+      },
+      {
+       "id": "2112429018645406038",
+       "url": "https://x.com/Roborosky15/status/2112429018645406038",
+       "author": {
+        "username": "Roborosky15",
+        "name": "Cacio"
+       },
+       "created_at": "2026-10-20T06:21:39.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm unfortunately not even half as good as season 1 intro",
+       "text_zh": "可惜连第一季片头的一半都不如",
+       "likes": 4
+      },
+      {
+       "id": "2112456442724708644",
+       "url": "https://x.com/MaxOnFumes/status/2112456442724708644",
+       "author": {
+        "username": "MaxOnFumes",
+        "name": "Max"
+       },
+       "created_at": "2026-10-20T08:10:38.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm of course they picked the cure. a band famous for being sad doing the opening for a show famous for making you sad. s1 had franz ferdinand and i still havent recovered from david. netflix dropping this today is just handing us the therapy bill in advance. whos getting emotionally",
+       "text_zh": "当然选了 The Cure。一个以丧闻名的乐队，给一部以让人难过闻名的剧唱片头。第一季是 Franz Ferdinand，我到现在还没从大卫那走出来。Netflix 今天上线，等于提前把心理治疗账单递给我们……【原文被截断】",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112504169521164318",
+     "url": "https://x.com/jeonIves/status/2112504169521164318",
+     "author": {
+      "username": "jeonIves",
+      "name": "jk.97",
+      "followers": 209833
+     },
+     "created_at": "2026-10-20T11:20:17.000Z",
+     "lang": "en",
+     "text": "jungkook finished the new season of cyberpunk edgerunners in 4 hours😭😭 https://t.co/wfWncwcCnh",
+     "text_zh": "柾国 4 小时就看完了新一季《赛博朋克：边缘行者》😭😭",
+     "metrics": {
+      "likes": 11235,
+      "reposts": 1536,
+      "replies": 32,
+      "quotes": 385,
+      "views": 116395,
+      "bookmarks": 373
+     },
+     "replies": [
+      {
+       "id": "2112534121863942594",
+       "url": "https://x.com/The_Audashity/status/2112534121863942594",
+       "author": {
+        "username": "The_Audashity",
+        "name": "THE_AUDASHITTY"
+       },
+       "created_at": "2026-10-20T13:19:18.000Z",
+       "lang": null,
+       "text": "@jeonIves Dont underestimate a neurodivergent with his hyperfixation",
+       "text_zh": "千万别小看一个神经多样性的人对他“超专注”事物的投入",
+       "likes": 99
+      },
+      {
+       "id": "2112504513240453451",
+       "url": "https://x.com/thestarboyjk/status/2112504513240453451",
+       "author": {
+        "username": "thestarboyjk",
+        "name": "nin⁷"
+       },
+       "created_at": "2026-10-20T11:21:39.000Z",
+       "lang": null,
+       "text": "@jeonIves DUDE IS SO FAST OMGG 😭😭😭",
+       "text_zh": "兄弟也太快了吧天哪 😭😭😭",
+       "likes": 99
+      },
+      {
+       "id": "2112517445860888952",
+       "url": "https://x.com/laurafluffybutt/status/2112517445860888952",
+       "author": {
+        "username": "laurafluffybutt",
+        "name": "Lau Rosales❣️"
+       },
+       "created_at": "2026-10-20T12:13:02.000Z",
+       "lang": null,
+       "text": "@jeonIves the way hes speedrunning tears instead of actually processing the show",
+       "text_zh": "他这是在速通眼泪，而不是在消化剧情",
+       "likes": 13
+      },
+      {
+       "id": "2112557477011378475",
+       "url": "https://x.com/ming00fy/status/2112557477011378475",
+       "author": {
+        "username": "ming00fy",
+        "name": "saby୨୧.˳•✶"
+       },
+       "created_at": "2026-10-20T14:52:06.000Z",
+       "lang": null,
+       "text": "@jeonIves Jungkook 🤝🏻 me\nI finished watching THE 100 all seasons in 9 days",
+       "text_zh": "柾国 🤝🏻 我\n我 9 天看完了《地球百子》全季",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112498832940675473",
+     "url": "https://x.com/denfaminicogame/status/2112498832940675473",
+     "author": {
+      "username": "denfaminicogame",
+      "name": "電ファミニコゲーマー",
+      "followers": 1460012
+     },
+     "created_at": "2026-10-20T10:59:04.000Z",
+     "lang": null,
+     "text": "『サイバーパンク2077』なんと新アップデートの配信を予告。『エッジランナーズ2』より「ウィーク・キングズリー」の姿も\nhttps://t.co/C8o7Jdvj6M\n\n「またナイトシティに舞い戻れる」と喜びの声あつまる。新作アニメ『エッジランナーズ2』は本日からNetflixで独占配信中 https://t.co/35bZCpU8UO",
+     "text_zh": "《赛博朋克 2077》竟然预告了新更新，还能看到《边缘行者 2》里“威克·金斯利”的身影\n\n“又能回到夜之城了”，欢呼声一片。新作动画《边缘行者 2》今天起在 Netflix 独家上线",
+     "metrics": {
+      "likes": 135,
+      "reposts": 57,
+      "replies": 3,
+      "quotes": 7,
+      "views": 30202,
+      "bookmarks": 5
+     },
+     "replies": [],
+     "replies_note_zh": "该帖少量回复疑似自动生成的营销/机器人回复，已过滤。"
+    },
+    {
+     "id": "2112577888038035655",
+     "url": "https://x.com/ACBUTA/status/2112577888038035655",
+     "author": {
+      "username": "ACBUTA",
+      "name": "豚の遠吠え",
+      "followers": 18325
+     },
+     "created_at": "2026-10-20T16:13:12.000Z",
+     "lang": null,
+     "text": "左：エッジランナーズ2視聴前\n中：エッジランナーズ2視聴中\n右：エッジランナーズ2視聴後 https://t.co/inqmx4uUU3",
+     "text_zh": "左：看《边缘行者 2》之前\n中：看《边缘行者 2》中\n右：看《边缘行者 2》之后",
+     "metrics": {
+      "likes": 25,
+      "reposts": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 928,
+      "bookmarks": 0
+     },
+     "replies": [
+      {
+       "id": "2112581120550432884",
+       "url": "https://x.com/emperor_blade_/status/2112581120550432884",
+       "author": {
+        "username": "emperor_blade_",
+        "name": "ギャリケー=サン"
+       },
+       "created_at": "2026-10-20T16:26:03.000Z",
+       "lang": "ja",
+       "text": "@ACBUTA サイバーサイコシスだ！マックスタックを呼べ！！",
+       "text_zh": "是赛博精神病！快叫 MaxTac（暴恐机动队）！！【译注：作品中人体改造过度会导致“赛博精神病”，由 MaxTac 负责镇压】",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-piracy-culture-clash",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫",
+    "社会"
+   ],
+   "title_zh": "《铁拳 6》盗版 mod 引爆日美“盗版道德”大论战",
+   "summary_zh": "起因是 10 月 17 日日本职业格斗选手 Dogura 批评一个给 2007 年街机版《铁拳 6》加入回滚网络代码、需自备游戏文件的粉丝 mod，“海外竟然没人反对，价值观差到没法对话”（1200 万曝光）。随后日本网友“买不到就放弃才是道德”与海外网友“没有正版渠道就只能盗版”在过去 24 小时继续互相喊话，双方都有上万赞的帖子。",
+   "why_youth_zh": "这是游戏/动漫年轻人最关心的“获取权”问题：很多老游戏、动画在海外根本买不到。讨论还延伸到“日本人把守法等同于道德”“二手市场便宜所以盗版没意义”等文化差异，梗图和翻译截图满天飞。",
+   "keywords": [
+    "海賊版",
+    "piracy",
+    "Tekken 6",
+    "鉄拳6",
+    "NARUTO Steam",
+    "Dogura"
+   ],
+   "trend_hits": [
+    "X 新闻：Japanese Pro Dogura Slams Fan Tekken 6 Online Mod as Piracy",
+    "X 新闻：Japanese Fans and Global Users Clash Over Pirating Unavailable Games and Anime"
+   ],
+   "rank": 2,
+   "heat": {
+    "post_count": 25419,
+    "query": "((海賊版 OR piracy) (鉄拳 OR Tekken OR Japan OR Japanese OR 日本 OR 海外))",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112261223110918326",
+     "url": "https://x.com/siideeye/status/2112261223110918326",
+     "author": {
+      "username": "siideeye",
+      "name": "s¡¡deeye‼️ 🟡👀🔴",
+      "followers": 309
+     },
+     "created_at": "2026-10-19T19:14:54.000Z",
+     "lang": "en",
+     "text": "\"You stand up for racial rights, but totally ignore product rights?\" is a hall of fame statement on this app man I've been thinking about that shit all day",
+     "text_zh": "“你为种族权利发声，却完全无视产品的权利？”——这句话足以进这个 App 的名人堂，我想了一整天",
+     "metrics": {
+      "likes": 23181,
+      "reposts": 2192,
+      "replies": 56,
+      "quotes": 40,
+      "views": 172768,
+      "bookmarks": 1402
+     },
+     "replies": [
+      {
+       "id": "2112271076155883924",
+       "url": "https://x.com/_dannymilk/status/2112271076155883924",
+       "author": {
+        "username": "_dannymilk",
+        "name": "🌻Danny Milk"
+       },
+       "created_at": "2026-10-19T19:54:03.000Z",
+       "lang": "en",
+       "text": "@siideeye the r@pe comparison too \nlike these comparisons are wild 😩",
+       "text_zh": "还有那个拿强奸作比较的\n这些比较也太离谱了 😩",
+       "likes": 1156
+      },
+      {
+       "id": "2112272584532459668",
+       "url": "https://x.com/_dannymilk/status/2112272584532459668",
+       "author": {
+        "username": "_dannymilk",
+        "name": "🌻Danny Milk"
+       },
+       "created_at": "2026-10-19T20:00:02.000Z",
+       "lang": "en",
+       "text": "@siideeye heres someone giving an example 😖\nhttps://t.co/OGuWHJhW7O",
+       "text_zh": "这里有人举了个例子 😖",
+       "likes": 141
+      },
+      {
+       "id": "2112524228008313109",
+       "url": "https://x.com/JhonatanDwalrus/status/2112524228008313109",
+       "author": {
+        "username": "JhonatanDwalrus",
+        "name": "JhonatanDwalrus"
+       },
+       "created_at": "2026-10-20T12:39:59.000Z",
+       "lang": null,
+       "text": "@siideeye As adult i simply stop idolizing any tipe of \"Japanese philosophy\" , even their \"respect\" of others is a lot of \"avoid interac with people\", but the recent discussions about consumers and products reminded me how twisted a capitalist society can get  with \"laws above everything\"",
+       "text_zh": "成年以后我就不再神化什么“日本哲学”了，他们所谓的“尊重他人”很大程度上就是“避免和人打交道”。最近关于消费者和产品的讨论让我意识到，一个“法律高于一切”的资本主义社会能扭曲到什么程度",
+       "likes": 4
+      }
+     ],
+     "note_zh": "译注：引用的是论战中一位日本网友的说法，被海外网友当作“离谱发言”传播。"
+    },
+    {
+     "id": "2112466125330272502",
+     "url": "https://x.com/bangohanforyou/status/2112466125330272502",
+     "author": {
+      "username": "bangohanforyou",
+      "name": "菓造@bbファミリー",
+      "followers": 243
+     },
+     "created_at": "2026-10-20T08:49:06.000Z",
+     "lang": "ja",
+     "text": "知ってるか？\nSteamでNARUTOのゲームは日本では買えないんだ\nSteamで手に入らないからって日本人は割ったりしない、諦めるんだそれが道徳だからだ\nそれでバンダイナムコを非難したりもしない、それが道徳だからだ\nお前らは欲しい物は盗んででも手に入れろって教えられてんのか？ https://t.co/0BHQsUFTBt",
+     "text_zh": "你知道吗？\n在日本是买不到 Steam 上的 NARUTO 游戏的\n但日本人不会因为 Steam 上买不到就去破解，而是放弃，因为这才是道德\n也不会因此去指责万代南梦宫，因为这才是道德\n你们是被教育成“想要的东西偷也要弄到手”吗？",
+     "metrics": {
+      "likes": 6395,
+      "reposts": 645,
+      "replies": 938,
+      "quotes": 396,
+      "views": 640538,
+      "bookmarks": 509
+     },
+     "replies": [
+      {
+       "id": "2112591429830865056",
+       "url": "https://x.com/Haradaikowosuru/status/2112591429830865056",
+       "author": {
+        "username": "Haradaikowosuru",
+        "name": "亜空間ケルビステップ"
+       },
+       "created_at": "2026-10-20T17:07:01.000Z",
+       "lang": "ja",
+       "text": "@sudsofsplash @Nedow40 @bangohanforyou いえいえ、少なくとも、\"この分野において、私と貴方は分かり合えない\"ということが分かったので問題ありません。",
+       "text_zh": "不不，至少我们弄清楚了“在这个问题上我和你无法互相理解”，所以没问题。",
+       "likes": 1
+      },
+      {
+       "id": "2112592965613088831",
+       "url": "https://x.com/Haradaikowosuru/status/2112592965613088831",
+       "author": {
+        "username": "Haradaikowosuru",
+        "name": "亜空間ケルビステップ"
+       },
+       "created_at": "2026-10-20T17:13:07.000Z",
+       "lang": "ja",
+       "text": "@DeDgemaskerde @Nedow40 @bangohanforyou 法治国家の国民である以上、法が最高峰のルールである。\n悪法に文句があるならばそれを破るのではなく、変えるべきだ。\n\nあと、ホロコーストは人種イデオロギーによる産物だ。",
+       "text_zh": "既然是法治国家的国民，法律就是最高的规则。\n如果对恶法有不满，应该去修改它，而不是去违反它。\n\n另外，大屠杀是种族意识形态的产物。【译注：回应楼中有人拿“纳粹时期的法律”反驳“守法即道德”】",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112487884917964806",
+     "url": "https://x.com/ben_1225/status/2112487884917964806",
+     "author": {
+      "username": "ben_1225",
+      "name": "ベン@カントーのすがた",
+      "followers": 523
+     },
+     "created_at": "2026-10-20T10:15:34.000Z",
+     "lang": "ja",
+     "text": "海外の方の「俺たちは正規の方法で手に入らないから海賊版しかないんだ」っていう意見には\n諦めれば？としか言いようがない",
+     "text_zh": "对于海外那些“我们没有正规渠道能买到，所以只能用盗版”的意见，\n我只能说：那就放弃呗？",
+     "metrics": {
+      "likes": 3035,
+      "reposts": 285,
+      "replies": 1008,
+      "quotes": 347,
+      "views": 214560,
+      "bookmarks": 334
+     },
+     "replies": [
+      {
+       "id": "2112494800251531767",
+       "url": "https://x.com/onNam14/status/2112494800251531767",
+       "author": {
+        "username": "onNam14",
+        "name": "HandsomeBanana"
+       },
+       "created_at": "2026-10-20T10:43:03.000Z",
+       "lang": "en",
+       "text": "@ben_1225 Because a Japanese guy told me not to https://t.co/CDFN9FFnTG",
+       "text_zh": "因为一个日本人叫我别这么做 【译注：配图大概率是反讽表情包，意为“你说放弃我就放弃？”】",
+       "likes": 1936
+      },
+      {
+       "id": "2112495160038994356",
+       "url": "https://x.com/SelelonEX/status/2112495160038994356",
+       "author": {
+        "username": "SelelonEX",
+        "name": "Selelon"
+       },
+       "created_at": "2026-10-20T10:44:29.000Z",
+       "lang": "ja",
+       "text": "@ben_1225 まず通じない\n作品へのアクセス権は著作権より優先されるべき権利と捉えられている\n\nまた、遵法と道徳が一致しないので「違法だが道徳的に正しい」という論理が浸透してる\n\n日本ではどちらも受け入れられてないので軋轢が発生するのは当然のこと",
+       "text_zh": "首先就说不通\n（海外）他们把“接触作品的权利”视为应当优先于著作权的权利\n\n而且，因为守法和道德并不一致，“违法但道德上正确”的逻辑很普遍\n\n在日本这两点都不被接受，所以产生摩擦是理所当然的",
+       "likes": 226
+      },
+      {
+       "id": "2112591411262652876",
+       "url": "https://x.com/ktiflSZOLh11668/status/2112591411262652876",
+       "author": {
+        "username": "ktiflSZOLh11668",
+        "name": "名無し"
+       },
+       "created_at": "2026-10-20T17:06:57.000Z",
+       "lang": "ja",
+       "text": "@NordicHorde1 @ben_1225 @CaveDwellingRat 馬鹿すぎる。明日お前の盗んだソフトが配信されたらどうなる？\n当然お前は買わないだろ？それは損失なんだよ。会社がこれからどうしようとしてるか知らないくせに声高に犯罪してもいいとか言うな。",
+       "text_zh": "蠢透了。要是明天你偷的那款游戏上架了怎么办？\n你当然不会买了吧？那就是损失。你根本不知道公司接下来打算做什么，就别大声嚷嚷说可以犯罪。",
+       "likes": 1
+      },
+      {
+       "id": "2112592958394704206",
+       "url": "https://x.com/rat_gu/status/2112592958394704206",
+       "author": {
+        "username": "rat_gu",
+        "name": "FireDestik"
+       },
+       "created_at": "2026-10-20T17:13:06.000Z",
+       "lang": "en",
+       "text": "@SelelonEX @miracle23maker @EGX001S @tackangel @ben_1225 Why do Japanese companies scared to death from not getting money for their products, like \"what if we fail\" or \"what if it doesn't sell\"? Why are they so careful? I'm not even blaming them or anything, but I'm really curious",
+       "text_zh": "为什么日本公司那么害怕产品收不回钱，像是“万一失败了怎么办”“万一卖不出去怎么办”？为什么这么小心翼翼？我不是在指责，只是真的很好奇",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112269799271129293",
+     "url": "https://x.com/KaiKai2492/status/2112269799271129293",
+     "author": {
+      "username": "KaiKai2492",
+      "name": "🎮𝙆𝙖𝙞𝙮𝙖🎮",
+      "followers": 14789
+     },
+     "created_at": "2026-10-19T19:48:58.000Z",
+     "lang": "en",
+     "text": "Yk I've always been curious why the Japanese defends copyright so much in situations where piracy is the only way to experience something not sold overseas. \n\n Is it because Japanese companies treat their customers well so there's a level of brand loyalty? A lack of understanding",
+     "text_zh": "你知道吗，我一直很好奇，为什么在“盗版是体验海外没发售作品的唯一方式”的情况下，日本人还这么维护版权。\n\n是因为日本公司对顾客很好，所以有品牌忠诚度？还是缺乏理解……【原文被截断】",
+     "metrics": {
+      "likes": 1058,
+      "reposts": 61,
+      "replies": 401,
+      "quotes": 359,
+      "views": 2126558,
+      "bookmarks": 266
+     },
+     "replies": [
+      {
+       "id": "2112278969617940731",
+       "url": "https://x.com/Eliza_ratazana/status/2112278969617940731",
+       "author": {
+        "username": "Eliza_ratazana",
+        "name": "Eliza ratazana キングダムハーツ/真女神転生"
+       },
+       "created_at": "2026-10-19T20:25:25.000Z",
+       "lang": null,
+       "text": "@KaiKai2492 Don't tell Japanese that the most beloved japanese games like Mario, Final Fantasy and even Persona sell more in the west than in Japan, even with some people pirating it.",
+       "text_zh": "别告诉日本人，最受欢迎的日本游戏比如马力欧、最终幻想甚至女神异闻录，在西方卖得比在日本还多——即使有人盗版。",
+       "likes": 133
+      },
+      {
+       "id": "2112274277642940507",
+       "url": "https://x.com/FredrickOrdo/status/2112274277642940507",
+       "author": {
+        "username": "FredrickOrdo",
+        "name": "Fredrick Ordo"
+       },
+       "created_at": "2026-10-19T20:06:46.000Z",
+       "lang": null,
+       "text": "@KaiKai2492 Or is it because they emphasize on order so much that they see morality directly tied to legality?\n\nI’ve seen some crazy takes from the JP side. Comparing copyright to human rights and piracy to robbery, murder, etc.",
+       "text_zh": "或者是因为他们太强调秩序，以至于把道德和合法直接挂钩？\n\n我看到日本那边有些很疯狂的观点，把版权比作人权，把盗版比作抢劫、杀人等等。",
+       "likes": 27
+      },
+      {
+       "id": "2112277931880050818",
+       "url": "https://x.com/mistwalker1985/status/2112277931880050818",
+       "author": {
+        "username": "mistwalker1985",
+        "name": "Andreas Jervström"
+       },
+       "created_at": "2026-10-19T20:21:17.000Z",
+       "lang": null,
+       "text": "@KaiKai2492 The second hand market in Japan is super cheap. \n\nBecause the living spaces are so cramped most japanese people sell their stuff or gives it away to stores like Book Off or Hard Off etc. \n\nHence you can buy manga or games usually around 250yen so piracy is quite useless (with",
+       "text_zh": "日本的二手市场超便宜。\n\n因为住房太小，大多数日本人会把东西卖掉或送给 Book Off、Hard Off 之类的店。\n\n所以漫画或游戏通常 250 日元左右就能买到，盗版就没什么意义了（……【原文被截断】）",
+       "likes": 13
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-tamura-hono-birthday",
+   "region": "jp",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "#田村保乃生誕祭：櫻坂46 田村保乃 28 岁生日，也是毕业前最后一个生日",
+   "summary_zh": "10 月 21 日（日本时间）是櫻坂46 二期生田村保乃的 28 岁生日，#田村保乃生誕祭 冲上日本趋势。她此前已宣布将在第 16 张单曲活动结束后毕业，所以粉丝都说这是“作为櫻坂46 成员的最后一个生日”，海外粉丝站也同步用英文、印尼语等发祝福。",
+   "why_youth_zh": "坂道系偶像的生诞祭是日本年轻粉丝圈最固定的“打卡仪式”：零点同时发图、做蛋糕、写信。叠加“毕业”这一层，情绪比往年更浓。",
+   "keywords": [
+    "田村保乃",
+    "#田村保乃生誕祭",
+    "櫻坂46",
+    "Sakurazaka46",
+    "卒業"
+   ],
+   "trend_hits": [
+    "日本：#田村保乃生誕祭、保乃ちゃん"
+   ],
+   "rank": 3,
+   "heat": {
+    "post_count": 4164,
+    "query": "(田村保乃 OR #田村保乃生誕祭)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "该话题热度主要集中在日本时间 21 日零点前后，单帖互动量较低（百级点赞），帖子量统计偏少是因为大多数粉丝发的是带 tag 的图片。",
+   "posts": [
+    {
+     "id": "2112559483557904520",
+     "url": "https://x.com/hono_kumakuma/status/2112559483557904520",
+     "author": {
+      "username": "hono_kumakuma",
+      "name": "ゆーぽ",
+      "followers": 972
+     },
+     "created_at": "2026-10-20T15:00:04.000Z",
+     "lang": "en",
+     "text": "𓈒       🤍🥂𝙷𝚊𝚙𝚙𝚢 𝙱𝚒𝚛𝚝𝚑𝚍𝚊𝚢🥂🤍\n\n      ♡                                     𓈒       ♡\n\n                 #田村保乃生誕祭 \n\n     1998 ───🧸💐─── 2026\n\n   ♡                      𓈒 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀♡\n                  ♡                      ♡        𓈒 https://t.co/wbgSTauqHe",
+     "text_zh": "🤍🥂生日快乐🥂🤍\n\n#田村保乃生誕祭\n\n1998 ───🧸💐─── 2026",
+     "metrics": {
+      "likes": 223,
+      "reposts": 19,
+      "replies": 3,
+      "quotes": 1,
+      "views": 3357,
+      "bookmarks": 5
+     },
+     "replies": [
+      {
+       "id": "2112560699209887939",
+       "url": "https://x.com/Rena_102_Sakura/status/2112560699209887939",
+       "author": {
+        "username": "Rena_102_Sakura",
+        "name": "きみちゃん🫧‎🤍"
+       },
+       "created_at": "2026-10-20T15:04:54.000Z",
+       "lang": null,
+       "text": "@hono_kumakuma お誕生日ケ－キ素敵すぎるよ～👏👏\nついに保乃ちゃんのお誕生日の日だね！\nおめでとう🎉🎉\nこの写真保乃ちゃんにレタ－で送ったら\nすっごく喜んでくれると思うよ☺️\n保乃ちゃんにとって素敵な一年に\nなりますように🍀𓂃◌𓈒𓐍",
+       "text_zh": "生日蛋糕也太好看了吧～👏👏\n终于到保乃酱生日这天了！\n恭喜🎉🎉\n把这张照片写进信里寄给保乃酱的话\n她一定会超开心的☺️\n祝保乃酱有美好的一年🍀",
+       "likes": 1
+      },
+      {
+       "id": "2112585577120076201",
+       "url": "https://x.com/Rena_102_Sakura/status/2112585577120076201",
+       "author": {
+        "username": "Rena_102_Sakura",
+        "name": "きみちゃん🫧‎🤍"
+       },
+       "created_at": "2026-10-20T16:43:46.000Z",
+       "lang": null,
+       "text": "@hono_kumakuma 櫻坂46の保乃ちゃんとしては最後の\nお誕生日だからこそ、こうやってゆ－ぽの\n大好きな保乃ちゃんのお誕生日を一緒に\nお祝いできてとっても嬉しいよ☺️\nそんなふうに言ってくれてすごく嬉しい😆\nありがとう!(´▽｀)\n\nうん！ぜひレタ－送ってみて☺️",
+       "text_zh": "正因为是保乃酱作为櫻坂46 成员的最后一个生日，能这样和由仆一起为最喜欢的保乃酱庆生，真的好开心☺️\n你这么说我好高兴😆\n谢谢！(´▽｀)\n\n嗯！一定要写信寄过去哦☺️",
+       "likes": 0
+      },
+      {
+       "id": "2112566831441756233",
+       "url": "https://x.com/no0_z8/status/2112566831441756233",
+       "author": {
+        "username": "no0_z8",
+        "name": "ほゎ"
+       },
+       "created_at": "2026-10-20T15:29:16.000Z",
+       "lang": null,
+       "text": "@hono_kumakuma わたしもとってもうれしいよ~(՞o̴̶̷̤  ̫ o̴̶̷̤ ̳՞)\n今年も1年保乃ちゃんが幸せにニコニコ過ごせるようにオタクとしてもがんばりたいところ､!",
+       "text_zh": "我也超开心~\n今年也希望保乃酱能幸福地笑着度过每一天，作为宅宅我也要努力！",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112559471423623449",
+     "url": "https://x.com/sakuzakacentral/status/2112559471423623449",
+     "author": {
+      "username": "sakuzakacentral",
+      "name": "Sakuzaka Central",
+      "followers": 9694
+     },
+     "created_at": "2026-10-20T15:00:02.000Z",
+     "lang": "en",
+     "text": "Happy 28th birthday to our B̶e̶a̶r̶ K̶i̶n̶g̶, Bear Princess, Tamura Hono! 👑🧸✨️\n\nThank you for always being the warm and comforting big sister everyone can lean on! 🩵\nLet's make many memories that will always be engraved in our hearts! 🎆\n\n#田村保乃\n#田村保乃生誕祭 https://t.co/iisu2cIlXn",
+     "text_zh": "祝我们的熊熊大王（划掉）熊熊公主田村保乃 28 岁生日快乐！👑🧸✨️\n\n谢谢你一直是大家可以依靠的温暖大姐姐！🩵\n让我们一起创造更多永远铭刻在心里的回忆吧！🎆",
+     "metrics": {
+      "likes": 118,
+      "reposts": 52,
+      "replies": 1,
+      "quotes": 5,
+      "views": 1968,
+      "bookmarks": 4
+     },
+     "replies": [],
+     "replies_note_zh": "回复极少（1 条），未单独抓取。"
+    },
+    {
+     "id": "2112559987713245418",
+     "url": "https://x.com/hn_luv_sn0703/status/2112559987713245418",
+     "author": {
+      "username": "hn_luv_sn0703",
+      "name": "しのの",
+      "followers": 1387
+     },
+     "created_at": "2026-10-20T15:02:05.000Z",
+     "lang": "ja",
+     "text": "🩵田村保乃28th anniversary 🩵\n\n保乃ちゃんの1年が最高に楽しい年になりますように\nこれからも大好きだよ。\n\n🎵ラストチャンス、ラストダンス / ≠ME\n\n#田村保乃\n#田村保乃生誕祭2026\n#田村保乃生誕祭 https://t.co/w9nzb67ktk",
+     "text_zh": "🩵田村保乃 28 岁纪念 🩵\n\n希望保乃酱的这一年是最开心的一年\n以后也最喜欢你了。\n\n🎵《ラストチャンス、ラストダンス》/ ≠ME",
+     "metrics": {
+      "likes": 67,
+      "reposts": 4,
+      "replies": 0,
+      "quotes": 1,
+      "views": 1991,
+      "bookmarks": 6
+     },
+     "replies": [],
+     "replies_note_zh": "该帖暂无回复。"
+    }
+   ]
+  },
+  {
+   "id": "jp-rofmao-5th-anniversary",
+   "region": "jp",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "#ろふまお5周年：彩虹社 VTuber 组合 ROF-MAO 出道 5 周年",
+   "summary_zh": "彩虹社（にじさんじ）旗下男性 VTuber 组合 ROF-MAO 迎来出道 5 周年，#ろふまお5周年 和 ROF-MAO 同时进入日本趋势。官方开放了应援留言功能，粉丝刷屏“给 ROF-MAO 发了应援留言”。从粉丝帖看，组合目前可能处于活动调整期（有人写“剣持刀也 4 年半谢谢你”“期待重新开始的那一天”），具体情况以官方公告为准。",
+   "why_youth_zh": "VTuber 是日本 10-20 代最核心的娱乐之一，周年日是粉丝集中“打卡”的节点；四人组的综艺节目“ろふまお塾”在年轻观众中认知度很高。",
+   "keywords": [
+    "ROF-MAO",
+    "ろふまお",
+    "#ろふまお5周年",
+    "にじさんじ",
+    "VTuber"
+   ],
+   "trend_hits": [
+    "日本：#ろふまお5周年、ROF-MAO"
+   ],
+   "rank": 4,
+   "heat": {
+    "post_count": 31660,
+    "query": "(ROF-MAO OR ろふまお OR #ろふまお5周年)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "该话题帖子量高但单帖互动低（主要是粉丝刷 tag），本次未抓到高赞回复。关于成员动向的描述来自粉丝帖推断，未经官方核实。",
+   "posts": [
+    {
+     "id": "2112559472505934228",
+     "url": "https://x.com/ru_4xj/status/2112559472505934228",
+     "author": {
+      "username": "ru_4xj",
+      "name": "†‎✮ 𝙍𝙐𝙉𝘼‎ ‎✮†",
+      "followers": 269
+     },
+     "created_at": "2026-10-20T15:00:02.000Z",
+     "lang": "ja",
+     "text": "∴　　　　∴　　　　∴\n★ﾟ･.｡｡.･ﾟ★ﾟ･.｡｡.･ﾟ★\n\n𝗥𝗢𝗙-𝗠𝗔𝗢 𝟱𝘁𝗵 𝗔𝗻𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗿𝘆 ✧*｡\n\nこれからの4人、これからのROF-MAOにたくさんの幸せがありますように.ᐟ.ᐟ\n\n#ろふまお5周年 https://t.co/dPzFdKT0DV",
+     "text_zh": "ROF-MAO 5 周年 ✧\n\n祝今后的四个人、今后的 ROF-MAO 拥有很多很多幸福！",
+     "metrics": {
+      "likes": 123,
+      "reposts": 25,
+      "replies": 1,
+      "quotes": 3,
+      "views": 3745,
+      "bookmarks": 3
+     },
+     "replies": [],
+     "replies_note_zh": "回复极少（1 条），未单独抓取。"
+    },
+    {
+     "id": "2112565779996848543",
+     "url": "https://x.com/mamamaniiy/status/2112565779996848543",
+     "author": {
+      "username": "mamamaniiy",
+      "name": "まちょ",
+      "followers": 76
+     },
+     "created_at": "2026-10-20T15:25:06.000Z",
+     "lang": null,
+     "text": ".˚⊹⁺‧┈┈┈┈\n　　　　　𝐑𝐎𝐅-𝐌𝐀𝐎\n　　　    𝟓𝐭𝐡 𝐀𝐧𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐫𝐲\n\n4人のろふまおの空気が、歌が\nほんとうにに大好きです！！\n\n剣持が愛して、背中を押した3人の\nこれからの活躍楽しみに待ってます\n🤍💜🩵　　　　　\n　　　　　　　　　　　　┈┈┈┈┈‧⁺ ⊹˚.\n#ろふまお5周年 https://t.co/Vf8gbXm36h",
+     "text_zh": "ROF-MAO 5 周年\n\n真的超喜欢四个人的 ろふまお 的氛围和歌声！！\n\n期待被剣持深爱、并推了一把的那三个人今后的活跃\n🤍💜🩵",
+     "metrics": {
+      "likes": 31,
+      "reposts": 8,
+      "replies": 0,
+      "quotes": 1,
+      "views": 1221,
+      "bookmarks": 0
+     },
+     "replies": [],
+     "note_zh": "译注：“剣持”指成员剣持刀也；从文意看，粉丝认为他已经/将要离开组合活动，其余三人继续。",
+     "replies_note_zh": "该帖暂无回复。"
+    },
+    {
+     "id": "2112560740611821705",
+     "url": "https://x.com/r1ku106/status/2112560740611821705",
+     "author": {
+      "username": "r1ku106",
+      "name": "陸",
+      "followers": 852
+     },
+     "created_at": "2026-10-20T15:05:04.000Z",
+     "lang": "ja",
+     "text": "#ろふまお5周年 \n5周年おめでとうございます！これまでのROF-MAOも、これからのROF-MAOも大好きです。またいつかの再開する日をお待ちしております！",
+     "text_zh": "#ろふまお5周年\n5 周年快乐！不管是至今为止的 ROF-MAO，还是今后的 ROF-MAO，我都最喜欢了。期待总有一天重新开始的那一天！",
+     "metrics": {
+      "likes": 15,
+      "reposts": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 923,
+      "bookmarks": 0
+     },
+     "replies": [],
+     "replies_note_zh": "该帖暂无回复。"
+    }
+   ]
+  },
+  {
+   "id": "jp-pjsk-graphic-error",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫",
+    "梗"
+   ],
+   "title_zh": "《世界计划》英文官号“今日歌曲”配图错得离谱，粉丝逐条找茬",
+   "summary_zh": "《世界计划 彩色舞台 feat. 初音未来》（Project SEKAI / プロセカ）英文官方账号推荐 Leo/need 的《Star》，但配图把演唱者写成了各团队队长 + MEIKO、把巡音流歌拼成“Luca”、版权信息里还莫名出现了 GUMI（Megpoid），被海外粉丝做成了一整天的梗。",
+   "why_youth_zh": "音游 + 虚拟歌手是全球青少年的大圈子；“官方翻车”是最容易出圈的笑料。有人顺手怀疑“是不是用 AI 做图没检查”，也反映出年轻玩家对 AI 生成内容的高度敏感。",
+   "keywords": [
+    "Project SEKAI",
+    "プロセカ",
+    "Colorful Stage",
+    "Leo/need",
+    "Luca",
+    "GUMI"
+   ],
+   "trend_hits": [
+    "X 新闻：Hatsune Miku Game's Song Post Riddled with Graphic Errors"
+   ],
+   "rank": 5,
+   "heat": {
+    "post_count": 13512,
+    "query": "(\"Colorful Stage\" OR pjsk OR \"Project Sekai\" OR プロセカ)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112302852286591029",
+     "url": "https://x.com/ColorfulStageEN/status/2112302852286591029",
+     "author": {
+      "username": "ColorfulStageEN",
+      "name": "HATSUNE MIKU: COLORFUL STAGE!",
+      "followers": 410916
+     },
+     "created_at": "2026-10-19T22:00:19.000Z",
+     "lang": "en",
+     "text": "Song of the Day:\n\nStar by Daibakuhasin\n\nGroup: Leo/need https://t.co/b5FdDHrNsE",
+     "text_zh": "今日歌曲：\n\n《Star》by 大爆走新\n\n团体：Leo/need",
+     "metrics": {
+      "likes": 3948,
+      "reposts": 747,
+      "replies": 128,
+      "quotes": 676,
+      "views": 247613,
+      "bookmarks": 304
+     },
+     "replies": [
+      {
+       "id": "2112321781134717233",
+       "url": "https://x.com/thetreyceratops/status/2112321781134717233",
+       "author": {
+        "username": "thetreyceratops",
+        "name": "The Treyceratops"
+       },
+       "created_at": "2026-10-19T23:15:32.000Z",
+       "lang": "en",
+       "text": "@ColorfulStageEN Ichika fired Honami after Stars Off Orbit and is trialing Kanade and Tsukasa to see who gets to be the new leader. Also Minori and Kohane are here",
+       "text_zh": "一歌在 Stars Off Orbit 之后开除了穗波，正在试用奏和司，看谁能当新队长。另外实乃理和心羽也在【译注：吐槽配图把演唱者放错，编成“剧情”】",
+       "likes": 145
+      },
+      {
+       "id": "2112316559817318802",
+       "url": "https://x.com/mizumafus/status/2112316559817318802",
+       "author": {
+        "username": "mizumafus",
+        "name": "lizzie²⁴ 🍋"
+       },
+       "created_at": "2026-10-19T22:54:47.000Z",
+       "lang": "en",
+       "text": "@ColorfulStageEN hey um i think you should proofread before posting",
+       "text_zh": "嗯……我觉得你们发之前应该校对一下",
+       "likes": 88
+      },
+      {
+       "id": "2112317741281792268",
+       "url": "https://x.com/MCPOR2S/status/2112317741281792268",
+       "author": {
+        "username": "MCPOR2S",
+        "name": "MC"
+       },
+       "created_at": "2026-10-19T22:59:29.000Z",
+       "lang": "en",
+       "text": "@ColorfulStageEN What’s funnier is that this isn’t a copypaste from Pentatonic, someone typed this and made sure to include Meiko, but forgot about everyone else lol",
+       "text_zh": "更好笑的是这不是从 Pentatonic 那张复制粘贴过来的，是有人一个个打上去的，还特意加了 MEIKO，却把其他人都忘了 lol",
+       "likes": 78
+      },
+      {
+       "id": "2112307727867224066",
+       "url": "https://x.com/sleepy_espeon/status/2112307727867224066",
+       "author": {
+        "username": "sleepy_espeon",
+        "name": "Nara 🌤️"
+       },
+       "created_at": "2026-10-19T22:19:41.000Z",
+       "lang": "en",
+       "text": "@neko_kyosohma @ColorfulStageEN he transitioned into an european man named Luca Megurine",
+       "text_zh": "他已经变成了一个叫 Luca Megurine 的欧洲男人",
+       "likes": 31
+      }
+     ]
+    },
+    {
+     "id": "2112311393022329100",
+     "url": "https://x.com/itspolly_idk/status/2112311393022329100",
+     "author": {
+      "username": "itspolly_idk",
+      "name": "fairy at home #1 DATTE STAN",
+      "followers": 1351
+     },
+     "created_at": "2026-10-19T22:34:15.000Z",
+     "lang": "en",
+     "text": "theres so many things wrong with this photo 😭😭😭\n\n1. the sekai version has the leaders + meiko instead of leo need + meiko (even though the icon is there)\n\n2. minori and kohanes places are swapped\n\n2. luka's name is misspelled as luca\n\n3. megpoid in the copyright info https://t.co/Nv4g5XdR00",
+     "text_zh": "这张图错的地方也太多了 😭😭😭\n\n1. SEKAI 版写的是各队长 + MEIKO，而不是 Leo/need + MEIKO（明明图标是对的）\n2. 实乃理和心羽的位置换了\n2. 流歌的名字拼成了 luca\n3. 版权信息里有 megpoid",
+     "metrics": {
+      "likes": 2452,
+      "reposts": 382,
+      "replies": 9,
+      "quotes": 1,
+      "views": 46436,
+      "bookmarks": 174
+     },
+     "replies": [
+      {
+       "id": "2112338297821479086",
+       "url": "https://x.com/mafutoyayuri/status/2112338297821479086",
+       "author": {
+        "username": "mafutoyayuri",
+        "name": "cy"
+       },
+       "created_at": "2026-10-20T00:21:10.000Z",
+       "lang": null,
+       "text": "@itspolly_idk foreshadowing gumi in pjsk",
+       "text_zh": "《世界计划》GUMI 参战伏笔",
+       "likes": 124
+      },
+      {
+       "id": "2112369272856920190",
+       "url": "https://x.com/bubbly_vaporeon/status/2112369272856920190",
+       "author": {
+        "username": "bubbly_vaporeon",
+        "name": "Bubbly | NSFW DNI"
+       },
+       "created_at": "2026-10-20T02:24:15.000Z",
+       "lang": null,
+       "text": "@itspolly_idk I made a fixed version rectifying all the mistakes https://t.co/dlXoNBA9xX",
+       "text_zh": "我做了一个把所有错误都改正的版本",
+       "likes": 45
+      },
+      {
+       "id": "2112367737469100190",
+       "url": "https://x.com/gebyongaku/status/2112367737469100190",
+       "author": {
+        "username": "gebyongaku",
+        "name": "🩷gi"
+       },
+       "created_at": "2026-10-20T02:18:09.000Z",
+       "lang": null,
+       "text": "@itspolly_idk also the producer's name is misspelled",
+       "text_zh": "还有作曲者的名字也拼错了",
+       "likes": 14
+      },
+      {
+       "id": "2112471250261909998",
+       "url": "https://x.com/stelath_/status/2112471250261909998",
+       "author": {
+        "username": "stelath_",
+        "name": "࣪⊹𐙚 ડtꫀꪶꪖ ᯓ★ ⸝⸝ #𝟏𝟎𝟕𝟗 𝐋𝐞𝐧 𝐟𝐚𝐧!!🪻࿐.˖"
+       },
+       "created_at": "2026-10-20T09:09:28.000Z",
+       "lang": null,
+       "text": "@itspolly_idk You forgot the fact that it's written vocaloids + KAITO as if he wasn't a vocaloid himself 🥹",
+       "text_zh": "你漏了它写的是“vocaloids + KAITO”，好像 KAITO 不是 VOCALOID 一样 🥹",
+       "likes": 13
+      }
+     ]
+    },
+    {
+     "id": "2112310993535877605",
+     "url": "https://x.com/PiercetheKanade/status/2112310993535877605",
+     "author": {
+      "username": "PiercetheKanade",
+      "name": "Spooky Vic/Starry ⚢",
+      "followers": 2135
+     },
+     "created_at": "2026-10-19T22:32:40.000Z",
+     "lang": "en",
+     "text": "Oh someone’s getting fired https://t.co/AbxJZ4EBg9 https://t.co/v45BqMB0v5",
+     "text_zh": "哦，有人要被开除了",
+     "metrics": {
+      "likes": 970,
+      "reposts": 150,
+      "replies": 9,
+      "quotes": 0,
+      "views": 17891,
+      "bookmarks": 37
+     },
+     "replies": [
+      {
+       "id": "2112320560374141136",
+       "url": "https://x.com/snocavey/status/2112320560374141136",
+       "author": {
+        "username": "snocavey",
+        "name": "snocavey 🍉"
+       },
+       "created_at": "2026-10-19T23:10:41.000Z",
+       "lang": null,
+       "text": "@PiercetheKanade they got the copyright for gumi on there too how the fuck did they screw up this bad",
+       "text_zh": "连 GUMI 的版权都写上了，到底是怎么能错得这么离谱",
+       "likes": 69
+      },
+      {
+       "id": "2112352400639926482",
+       "url": "https://x.com/rosedarkshad/status/2112352400639926482",
+       "author": {
+        "username": "rosedarkshad",
+        "name": "shadowedge"
+       },
+       "created_at": "2026-10-20T01:17:12.000Z",
+       "lang": null,
+       "text": "@PiercetheKanade what if they're shaken up by the current state of leo/need too :(",
+       "text_zh": "会不会他们也被 Leo/need 现在的剧情状况搞得心神不宁了 :(",
+       "likes": 10
+      },
+      {
+       "id": "2112508940101763531",
+       "url": "https://x.com/HibachiYoukai/status/2112508940101763531",
+       "author": {
+        "username": "HibachiYoukai",
+        "name": "Ordinary Penguin"
+       },
+       "created_at": "2026-10-20T11:39:14.000Z",
+       "lang": null,
+       "text": "@PiercetheKanade Someone used AI for their work and never checked",
+       "text_zh": "有人用 AI 做的图，然后从来没检查过",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-nct-athletics-championships",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "NCT 十周年“2026 NCT 田径锦标赛”预告：全员运动会 4 年后回归",
+   "summary_zh": "SM 宣布为 NCT 出道十周年举办“2026 NCT 육상 선수권 대회（田径锦标赛）”，NCT 127、NCT DREAM、WayV、NCT WISH 全体出动，10 月 21 日（韩国时间）在 YouTube 公开。官方预告帖 7.9 万赞，韩国趋势出现“엔시티 운동회（NCT 运动会）”。",
+   "why_youth_zh": "团综运动会是 K-pop 粉丝最爱的“自制内容”。韩国粉丝笑疯的是横幅口号“어느 엔시티（某个 NCT）”——像广播里“现场有没有哪位医生”一样喊“有没有哪位运动很强的 NCT”；海外粉丝则在怀念已离队、入伍的成员。",
+   "keywords": [
+    "NCT",
+    "엔시티 운동회",
+    "#2026NCT육상선수권대회",
+    "NCT_10TH_ANNIVERSARY",
+    "WayV",
+    "NCT WISH"
+   ],
+   "trend_hits": [
+    "韩国：엔시티 운동회"
+   ],
+   "rank": 1,
+   "heat": {
+    "post_count": 7672,
+    "query": "(#2026NCT육상선수권대회 OR \"엔시티 운동회\" OR \"NCT Athletics\" OR \"NCT sports day\" OR \"NCT field day\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112514313575596477",
+     "url": "https://x.com/NCTsmtown/status/2112514313575596477",
+     "author": {
+      "username": "NCTsmtown",
+      "name": "NCT",
+      "followers": 11790114
+     },
+     "created_at": "2026-10-20T12:00:35.000Z",
+     "lang": "ko",
+     "text": "《 2026 NCT 육상 선수권 대회 》\n\n𝟐𝟔.𝟏𝟎.𝟐𝟏 (𝐊𝐒𝐓) 🏃‍♂️ 𝐂𝐎𝐌𝐈𝐍𝐆 𝐒𝐎𝐎𝐍\n\n💚NCT Official YouTube\nhttps://t.co/OIpieMMOhP\n\nEVERYTHING, ALL AT ONCE, NEO\nhttps://t.co/dizy4oNdsi\n\n#NCT #NCT127 #NCTDREAM \n#WayV #NCTWISH\n#2026NCT육상선수권대회\n#NCT_10TH_ANNIVERSARY https://t.co/mW2gYp26uD",
+     "text_zh": "《2026 NCT 田径锦标赛》\n\n26.10.21（韩国时间）🏃‍♂️ 即将公开\n\n💚 NCT 官方 YouTube\n\nEVERYTHING, ALL AT ONCE, NEO",
+     "metrics": {
+      "likes": 79426,
+      "reposts": 40543,
+      "replies": 931,
+      "quotes": 15202,
+      "views": 1900420,
+      "bookmarks": 5185
+     },
+     "replies": [
+      {
+       "id": "2112518869499945358",
+       "url": "https://x.com/dongrenis/status/2112518869499945358",
+       "author": {
+        "username": "dongrenis",
+        "name": "𝒦𝒶𝒾𝒶."
+       },
+       "created_at": "2026-10-20T12:18:41.000Z",
+       "lang": "in",
+       "text": "@NCTsmtown cemangat mochi tobeli ku 💗 https://t.co/ViWnRlDMPb",
+       "text_zh": "加油我的麻薯（们）💗【译注：印尼语】",
+       "likes": 6
+      },
+      {
+       "id": "2112518686103961663",
+       "url": "https://x.com/adeldolls/status/2112518686103961663",
+       "author": {
+        "username": "adeldolls",
+        "name": "æ"
+       },
+       "created_at": "2026-10-20T12:17:58.000Z",
+       "lang": "fi",
+       "text": "@NCTsmtown LETSGOOOO JAEHYUN AND JENO! 🔥",
+       "text_zh": "冲啊在玹和帝努！🔥",
+       "likes": 1
+      },
+      {
+       "id": "2112518502724894853",
+       "url": "https://x.com/Sanzida788723/status/2112518502724894853",
+       "author": {
+        "username": "Sanzida788723",
+        "name": "🫧🍋⛱️"
+       },
+       "created_at": "2026-10-20T12:17:14.000Z",
+       "lang": "en",
+       "text": "@NCTsmtown OMG,  NEO FAMILY😭😭",
+       "text_zh": "天哪，NEO 一家人 😭😭",
+       "likes": 1
+      },
+      {
+       "id": "2112588123884675079",
+       "url": "https://x.com/Rurun_0304/status/2112588123884675079",
+       "author": {
+        "username": "Rurun_0304",
+        "name": "🌷"
+       },
+       "created_at": "2026-10-20T16:53:53.000Z",
+       "lang": "ja",
+       "text": "@NCTsmtown @nctwishofficial ほんとに待ってました、ありがとう運営",
+       "text_zh": "真的等了好久，谢谢运营",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112516002433143213",
+     "url": "https://x.com/xneojunx/status/2112516002433143213",
+     "author": {
+      "username": "xneojunx",
+      "name": "risa 𓍼ོ",
+      "followers": 17537
+     },
+     "created_at": "2026-10-20T12:07:18.000Z",
+     "lang": "en",
+     "text": "EVERYBODY CANCEL YOUR PLANS TOMORROW AND FREE UP YOUR SCHEDULES. IT’S NCT FIELD DAY CONTENT 2026 AND WE ALL NEED TO BE THERE AND NOT SQUARE. https://t.co/gXTqzviSgq",
+     "text_zh": "所有人取消明天的计划、把时间空出来。这是 2026 年 NCT 运动会内容，我们都得在场，别扫兴。",
+     "metrics": {
+      "likes": 9469,
+      "reposts": 2246,
+      "replies": 10,
+      "quotes": 298,
+      "views": 69305,
+      "bookmarks": 327
+     },
+     "replies": [
+      {
+       "id": "2112546473594568799",
+       "url": "https://x.com/kpop_holic_0312/status/2112546473594568799",
+       "author": {
+        "username": "kpop_holic_0312",
+        "name": "☆yu_01 ˖𓍢ִ໋✧˚.⋆⁷"
+       },
+       "created_at": "2026-10-20T14:08:23.000Z",
+       "lang": null,
+       "text": "@xneojunx Square well that's Mark himself now😭 We miss them all Winwin, Lucas, Mark, Shotaro, Sungchan & all RII7E, Shohei, Hansol. Also our Military men Doyoung & Jungwoo",
+       "text_zh": "说到 square（扫兴），那现在就是 Mark 本人了😭 我们想念他们所有人：WinWin、Lucas、Mark、Shotaro、Sungchan 和 RIIZE 全员、Shohei、Hansol。还有我们的军人道英和廷祐【译注：列举已离开 NCT 或正在服兵役的成员】",
+       "likes": 26
+      },
+      {
+       "id": "2112529394736525625",
+       "url": "https://x.com/nayjoo_91/status/2112529394736525625",
+       "author": {
+        "username": "nayjoo_91",
+        "name": "𝒏𝒂𝒏𝒚 𝜗ৎ⊹ mr. fanboy 🪽💎💚"
+       },
+       "created_at": "2026-10-20T13:00:31.000Z",
+       "lang": null,
+       "text": "@xneojunx y justo mañana el horario de mi trabajo cambio ahora es de mañana 😪, pero igual lo veré no importa si madrugo...",
+       "text_zh": "偏偏明天我的工作时间改成早班了 😪，但不管要多早起我都会看的……【译注：西班牙语】",
+       "likes": 5
+      },
+      {
+       "id": "2112575147312103625",
+       "url": "https://x.com/kookie_mam/status/2112575147312103625",
+       "author": {
+        "username": "kookie_mam",
+        "name": "shy_shree_slay💜💙💚"
+       },
+       "created_at": "2026-10-20T16:02:19.000Z",
+       "lang": null,
+       "text": "@xneojunx I miss mark",
+       "text_zh": "我想 Mark",
+       "likes": 0
+      }
+     ],
+     "note_zh": "译注：原文 square 是俚语“古板、扫兴的人”。"
+    },
+    {
+     "id": "2112518449423659205",
+     "url": "https://x.com/Ryozzang/status/2112518449423659205",
+     "author": {
+      "username": "Ryozzang",
+      "name": "🍎",
+      "followers": 9047
+     },
+     "created_at": "2026-10-20T12:17:01.000Z",
+     "lang": null,
+     "text": "엔시티 운동회 슬로건 이름\n\" 어느 엔시티 \"\n\nㅅㅂ ㅜㅠㅜㅠㅜㅜㅜㅠㅜㅜㅜㅠㅜㅜㅜㅠ https://t.co/9t0LCbD4nD",
+     "text_zh": "NCT 运动会的口号横幅名字\n“某个 NCT”\n\n卧槽 呜呜呜呜呜呜呜",
+     "metrics": {
+      "likes": 1554,
+      "reposts": 362,
+      "replies": 0,
+      "quotes": 43,
+      "views": 29212,
+      "bookmarks": 64
+     },
+     "replies": [],
+     "note_zh": "译注：“어느 엔시티”化用韩国紧急广播“현장에 혹시 의사 선생님 계신가요（现场有没有哪位医生）”的句式，意思是“现场有没有哪位运动很强的 NCT？”，所以粉丝觉得特别好笑。",
+     "replies_note_zh": "该帖暂无回复。"
+    },
+    {
+     "id": "2112515258611052760",
+     "url": "https://x.com/guem_pa__/status/2112515258611052760",
+     "author": {
+      "username": "guem_pa__",
+      "name": "금파",
+      "followers": 3254
+     },
+     "created_at": "2026-10-20T12:04:20.000Z",
+     "lang": null,
+     "text": "엔시티 운동회 슬로건 진짜 미쳤낰ㅋㅋㅋㅋㅋ \n\n“어느 엔시티.” https://t.co/uWrgi36fne",
+     "text_zh": "NCT 运动会的口号真的疯了哈哈哈哈哈\n\n“某个 NCT。”",
+     "metrics": {
+      "likes": 665,
+      "reposts": 72,
+      "replies": 0,
+      "quotes": 7,
+      "views": 13160,
+      "bookmarks": 24
+     },
+     "replies": [],
+     "replies_note_zh": "该帖暂无回复。"
+    }
+   ]
+  },
+  {
+   "id": "kr-kbo-semi-playoff",
+   "region": "kr",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "KBO 准季后赛：起亚 13:1 横扫 LG 晋级，NCT 志晟再次为 LG 开球",
+   "summary_zh": "10 月 20 日 KBO 准季后赛第 3 场在蚕室球场进行，起亚虎（KIA Tigers）以 13:1 大胜 LG 双子，系列赛 3 连胜晋级季后赛，金倒永打出满贯本垒打；季后赛首战 10 月 25 日在大邱对阵三星狮。当天 NCT 成员志晟作为“LG 特级救援投手”第二次为 LG 开球，粉丝大规模刷 tag，然而 LG 当晚被淘汰。这也是今年蚕室球场的最后一场比赛。",
+   "why_youth_zh": "KBO 是韩国年轻人（尤其女性观众）近年最热的线下娱乐之一；偶像开球又把 K-pop 粉圈带进了棒球话题，“胜利妖精”这次没灵，成了双方粉丝的共同梗。",
+   "keywords": [
+    "준플레이오프",
+    "플레이오프 진출",
+    "KIA 타이거즈",
+    "LG 트윈스",
+    "만루홈런",
+    "#JISUNGxLGTwinsReturns"
+   ],
+   "trend_hits": [
+    "韩国：잠실야구장、만루홈런、플레이오프 진출、라이온즈"
+   ],
+   "rank": 2,
+   "heat": {
+    "post_count": 16535,
+    "query": "(((준플레이오프 OR 플레이오프) (KIA OR 기아 OR LG OR 삼성)) OR #JISUNGxLGTwinsReturns OR #LG의_특급_구원투수_지성)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112528999146750302",
+     "url": "https://x.com/Kiatigers/status/2112528999146750302",
+     "author": {
+      "username": "Kiatigers",
+      "name": "KIA 타이거즈",
+      "followers": 273585
+     },
+     "created_at": "2026-10-20T12:58:56.000Z",
+     "lang": "ko",
+     "text": "10/20(화) 준PO 3차전 경기 결과\nKIA 13 : 1 LG\n\n[다음 경기 안내]\n플레이오프 1차전\n⏰ 일시: 10/25(일) 14:00 @대구\n⚾️ 상대팀: 삼성 라이온즈 https://t.co/WT1NCN8geZ",
+     "text_zh": "10/20（周二）准季后赛第 3 场比赛结果\nKIA 13 : 1 LG\n\n【下一场比赛】\n季后赛第 1 场\n⏰ 时间：10/25（周日）14:00 @大邱\n⚾️ 对手：三星狮",
+     "metrics": {
+      "likes": 3307,
+      "reposts": 4260,
+      "replies": 21,
+      "quotes": 1491,
+      "views": 179159,
+      "bookmarks": 103
+     },
+     "replies": [
+      {
+       "id": "2112530272948474352",
+       "url": "https://x.com/himenent/status/2112530272948474352",
+       "author": {
+        "username": "himenent",
+        "name": "히메"
+       },
+       "created_at": "2026-10-20T13:04:00.000Z",
+       "lang": null,
+       "text": "@Kiatigers 사랑해요",
+       "text_zh": "爱你们",
+       "likes": 7
+      },
+      {
+       "id": "2112535470232273354",
+       "url": "https://x.com/ssoul4165/status/2112535470232273354",
+       "author": {
+        "username": "ssoul4165",
+        "name": "쏘울"
+       },
+       "created_at": "2026-10-20T13:24:39.000Z",
+       "lang": null,
+       "text": "@Kiatigers 우리팀 사랑해 잘 쉬고 플레이오프에서 봐요",
+       "text_zh": "爱我们队，好好休息，季后赛见",
+       "likes": 0
+      },
+      {
+       "id": "2112534078897689003",
+       "url": "https://x.com/teno13579/status/2112534078897689003",
+       "author": {
+        "username": "teno13579",
+        "name": "에이치_제이(H_J)"
+       },
+       "created_at": "2026-10-20T13:19:08.000Z",
+       "lang": null,
+       "text": "@Kiatigers 사랑한다 기아.\n미치도록 사랑한다.",
+       "text_zh": "爱你起亚。\n爱得发疯。",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112477299610358112",
+     "url": "https://x.com/PJSFEED/status/2112477299610358112",
+     "author": {
+      "username": "PJSFEED",
+      "name": "َ",
+      "followers": 142117
+     },
+     "created_at": "2026-10-20T09:33:30.000Z",
+     "lang": "en",
+     "text": "#JISUNG’S CEREMONIAL FIRST PITCH FOR LG TWINS!\n\nSPECIAL RELIEF PITCHER JISUNG \n#JISUNGxLGTwinsReturns\n#LG의_특급_구원투수_지성 https://t.co/V8jSOFKVR6",
+     "text_zh": "志晟为 LG 双子开球！\n\n特级救援投手 志晟",
+     "metrics": {
+      "likes": 3193,
+      "reposts": 1890,
+      "replies": 21,
+      "quotes": 79,
+      "views": 44458,
+      "bookmarks": 112
+     },
+     "replies": [
+      {
+       "id": "2112533576671739965",
+       "url": "https://x.com/_ddiiin/status/2112533576671739965",
+       "author": {
+        "username": "_ddiiin",
+        "name": "딘딘"
+       },
+       "created_at": "2026-10-20T13:17:08.000Z",
+       "lang": null,
+       "text": "@PJSFEED Good job our jisung\nSPECIAL RELIEF PITCHER JISUNG \n#JISUNGxLGTwinsReturns\n#LG의_특급_구원투수_지성",
+       "text_zh": "我们志晟做得好\n特级救援投手 志晟",
+       "likes": 0
+      }
+     ],
+     "replies_note_zh": "回复几乎都是粉丝统一复制的应援 tag，仅保留一条。"
+    },
+    {
+     "id": "2112532312617603304",
+     "url": "https://x.com/mintcryp/status/2112532312617603304",
+     "author": {
+      "username": "mintcryp",
+      "name": "Mint",
+      "followers": 11130
+     },
+     "created_at": "2026-10-20T13:12:06.000Z",
+     "lang": "ko",
+     "text": "[2026 준플레이오프 3차전 결과]\n\nKIA 타이거즈 3연승!\n기아 플레이오프 진출 확정!\n\nKIA 13 : 1 LG\n\n오늘 경기는 올해 잠실구장의\n마지막 경기라고 하네요.\n\n진짜 굿바이 잠실구장…!! \n\n추운 날씨에도 경기하느라\n양 팀 선수들 모두 고생 많으셨습니다!\n\n-승리투수: 기아 시라카와\n-패전투수: LG https://t.co/LrCR00416X https://t.co/RjYhhipGyX",
+     "text_zh": "【2026 准季后赛第 3 场结果】\n\nKIA 虎 3 连胜！\n起亚确定晋级季后赛！\n\nKIA 13 : 1 LG\n\n听说今天这场是今年蚕室球场的最后一场比赛。\n\n真的再见了蚕室球场……!!\n\n天这么冷还在比赛，两队选手都辛苦了！\n\n- 胜利投手：起亚 白川\n- 失败投手：LG……",
+     "metrics": {
+      "likes": 12,
+      "reposts": 8,
+      "replies": 2,
+      "quotes": 0,
+      "views": 2994,
+      "bookmarks": 1
+     },
+     "replies": [
+      {
+       "id": "2112548665818751004",
+       "url": "https://x.com/Aurora_5100/status/2112548665818751004",
+       "author": {
+        "username": "Aurora_5100",
+        "name": "오로라"
+       },
+       "created_at": "2026-10-20T14:17:05.000Z",
+       "lang": "ko",
+       "text": "@mintcryp 기아승리 축하해요!!",
+       "text_zh": "恭喜起亚获胜！！",
+       "likes": 0
+      },
+      {
+       "id": "2112533693416026599",
+       "url": "https://x.com/247blanc/status/2112533693416026599",
+       "author": {
+        "username": "247blanc",
+        "name": "247blanc"
+       },
+       "created_at": "2026-10-20T13:17:36.000Z",
+       "lang": "ko",
+       "text": "@mintcryp 기아 너무 축하드려요.. 와 야구 잘한다 진짜 ㅋㅋ",
+       "text_zh": "太恭喜起亚了…… 哇棒球打得真好哈哈",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-ive-looks-can-kill",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "IVE 回归《Looks Can Kill》：超级英雄概念，全网“打分”",
+   "summary_zh": "IVE 于 10 月 19 日发布 EP 先行曲《Looks Can Kill》MV，完整 6 曲 EP 将于 10 月 26 日发行，成员 Rei 参与作词。MV 走“英雄训练营”概念，官方连续放出“选择你的角色”“IVE HERO”等物料；过去 24 小时相关帖子约 4.1 万条。",
+   "why_youth_zh": "粉丝在评论区玩“选英雄”、给 MV 打 1-10 分，也有人吐槽“后辈团盖过了她们”“公司放过张员瑛吧”，典型的回归期粉圈大混战。",
+   "keywords": [
+    "IVE",
+    "Looks Can Kill",
+    "#LooksCanKill",
+    "룩스캔킬",
+    "아이브"
+   ],
+   "trend_hits": [
+    "X 新闻：IVE Drops Superhero 'Looks Can Kill' Music Video"
+   ],
+   "rank": 3,
+   "heat": {
+    "post_count": 41385,
+    "query": "(#LooksCanKill OR \"Looks Can Kill\" OR 룩스캔킬)",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "MV 本身发布于 10 月 19 日 09:00 UTC，略早于统计窗口，但相关讨论在窗口内持续。",
+   "posts": [
+    {
+     "id": "2112107106216079715",
+     "url": "https://x.com/AboutMusicYT/status/2112107106216079715",
+     "author": {
+      "username": "AboutMusicYT",
+      "name": "About Music",
+      "followers": 528741
+     },
+     "created_at": "2026-10-19T09:02:29.000Z",
+     "lang": "en",
+     "text": "IVE has officially made their comeback with Looks Can Kill. Rate it from 1 to 10. https://t.co/zTf5n5Cpzn",
+     "text_zh": "IVE 正式以《Looks Can Kill》回归。从 1 到 10 打个分。",
+     "metrics": {
+      "likes": 6029,
+      "reposts": 991,
+      "replies": 212,
+      "quotes": 209,
+      "views": 221765,
+      "bookmarks": 278
+     },
+     "replies": [
+      {
+       "id": "2112117591108141553",
+       "url": "https://x.com/p1zz4_pl4n3t/status/2112117591108141553",
+       "author": {
+        "username": "p1zz4_pl4n3t",
+        "name": "billzz"
+       },
+       "created_at": "2026-10-19T09:44:09.000Z",
+       "lang": null,
+       "text": "@AboutMusicYT ALWAYS A 10/10 FROM THEM QUEENS https://t.co/s75XsC4Ymu",
+       "text_zh": "女王们永远 10/10",
+       "likes": 15
+      },
+      {
+       "id": "2112114629942079917",
+       "url": "https://x.com/Higxhway/status/2112114629942079917",
+       "author": {
+        "username": "Higxhway",
+        "name": "Mayline."
+       },
+       "created_at": "2026-10-19T09:32:23.000Z",
+       "lang": null,
+       "text": "@AboutMusicYT FUN KPOP IS BACK\n\nLCK IS OUT NOW  \n#LCK_IS_OUT \n#LooksCanKill #룩스캔킬",
+       "text_zh": "好玩的 K-pop 回来了\n\nLCK 现已上线",
+       "likes": 3
+      },
+      {
+       "id": "2112454726889705597",
+       "url": "https://x.com/imbakaboto/status/2112454726889705597",
+       "author": {
+        "username": "imbakaboto",
+        "name": "はー"
+       },
+       "created_at": "2026-10-20T08:03:49.000Z",
+       "lang": "en",
+       "text": "@AboutMusicYT Unfortunately one of the rare occasions where the group that followed them overshadows them",
+       "text_zh": "可惜这是少数几次后辈团盖过她们的情况",
+       "likes": 0
+      },
+      {
+       "id": "2112386769450942907",
+       "url": "https://x.com/Pinkyup20/status/2112386769450942907",
+       "author": {
+        "username": "Pinkyup20",
+        "name": "ChanTOADdler"
+       },
+       "created_at": "2026-10-20T03:33:46.000Z",
+       "lang": "en",
+       "text": "@AboutMusicYT It’s bad",
+       "text_zh": "不好听",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112480619787931825",
+     "url": "https://x.com/IVEstarship/status/2112480619787931825",
+     "author": {
+      "username": "IVEstarship",
+      "name": "IVE OFFICIAL",
+      "followers": 1964328
+     },
+     "created_at": "2026-10-20T09:46:42.000Z",
+     "lang": "und",
+     "text": "I̲V̲E̲ H̲E̲R̲O̲ ★\n\n#IVE #아이브 \n#LooksCanKill #룩스캔킬 https://t.co/Xzu8GODlU5",
+     "text_zh": "IVE 英雄 ★（IVE HERO，本次回归的“英雄训练营”概念）",
+     "metrics": {
+      "likes": 5508,
+      "reposts": 844,
+      "replies": 5,
+      "quotes": 18,
+      "views": 48912,
+      "bookmarks": 248
+     },
+     "replies": [
+      {
+       "id": "2112482859663708210",
+       "url": "https://x.com/wirza_anggi/status/2112482859663708210",
+       "author": {
+        "username": "wirza_anggi",
+        "name": "🍂"
+       },
+       "created_at": "2026-10-20T09:55:36.000Z",
+       "lang": null,
+       "text": "@IVEstarship gaeul loooonnggggg haaaanndddsss 😂",
+       "text_zh": "秋天的手好——长——哈哈 😂",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112401184703365528",
+     "url": "https://x.com/IVEstarship/status/2112401184703365528",
+     "author": {
+      "username": "IVEstarship",
+      "name": "IVE OFFICIAL",
+      "followers": 1964328
+     },
+     "created_at": "2026-10-20T04:31:03.000Z",
+     "lang": "en",
+     "text": "[🎥]\nChoose your character 🦸\n\n▶️ https://t.co/xHCH5peRvi\n\n#IVE #아이브 \n#LooksCanKill #룩스캔킬 https://t.co/PutdDE7Hzi",
+     "text_zh": "选择你的角色 🦸",
+     "metrics": {
+      "likes": 4797,
+      "reposts": 1136,
+      "replies": 24,
+      "quotes": 74,
+      "views": 128782,
+      "bookmarks": 269
+     },
+     "replies": [
+      {
+       "id": "2112408705589543079",
+       "url": "https://x.com/pawroses/status/2112408705589543079",
+       "author": {
+        "username": "pawroses",
+        "name": "~"
+       },
+       "created_at": "2026-10-20T05:00:56.000Z",
+       "lang": "en",
+       "text": "@IVEstarship Captain Purple! 💜 https://t.co/KmVGHHowwg",
+       "text_zh": "紫色队长！💜",
+       "likes": 6
+      },
+      {
+       "id": "2112419578055999798",
+       "url": "https://x.com/nanaware55/status/2112419578055999798",
+       "author": {
+        "username": "nanaware55",
+        "name": "まいぶ🐰👿"
+       },
+       "created_at": "2026-10-20T05:44:08.000Z",
+       "lang": "en",
+       "text": "@IVEstarship It's really hard to choose just one hero🥺 https://t.co/M4mxrygrzy",
+       "text_zh": "只选一个英雄真的好难 🥺",
+       "likes": 4
+      },
+      {
+       "id": "2112412730263015853",
+       "url": "https://x.com/highlikethemoon/status/2112412730263015853",
+       "author": {
+        "username": "highlikethemoon",
+        "name": "alexis"
+       },
+       "created_at": "2026-10-20T05:16:56.000Z",
+       "lang": "en",
+       "text": "@IVEstarship we're going to assign you colors but don't worry every outfit will be a shade of pastel pink",
+       "text_zh": "“我们会给你们分配颜色，但别担心，每套衣服都会是某种淡粉色” 【译注：吐槽打歌服配色单一】",
+       "likes": 3
+      },
+      {
+       "id": "2112425232707231836",
+       "url": "https://x.com/TeEsLeMienApr06/status/2112425232707231836",
+       "author": {
+        "username": "TeEsLeMienApr06",
+        "name": "TeEsLeMien"
+       },
+       "created_at": "2026-10-20T06:06:37.000Z",
+       "lang": "zh",
+       "text": "@IVEstarship 贵公司的制作会不会有点太精良了😅",
+       "text_zh": "@IVEstarship 贵公司的制作会不会有点太精良了😅",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-birthdays-k-amaru",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "生日刷屏：&TEAM K 29 岁、KickFlip Amaru 21 岁",
+   "summary_zh": "10 月 21 日（韩国时间）同时是 HYBE 日本男团 &TEAM 队长 K（29 岁）和 JYP 男团 KickFlip 成员 Amaru（21 岁）的生日，#HAPPY_K_DAY、#HAPPYAMARUDAY2026、마루 생일、케이 생일、#축하의_바람이_분다（祝贺之风吹起）等多个 tag 同时霸占韩国趋势。Amaru 自 2025 年 9 月起因焦虑症暂停活动，粉丝祝福里满是“等你健康回来”。",
+   "why_youth_zh": "“生日刷 tag”是 K-pop 粉圈最典型的集体行动，也是韩国趋势榜最常见的内容；韩、日、泰、巴西等多国粉丝同时用多语言刷屏，显示这两支日籍成员为主的团体在全球年轻粉丝中的号召力。",
+   "keywords": [
+    "#HAPPY_K_DAY",
+    "#HAPPYAMARUDAY2026",
+    "&TEAM",
+    "KickFlip",
+    "Amaru",
+    "마루 생일"
+   ],
+   "trend_hits": [
+    "韩国：#HAPPY_K_DAY、#축하의_바람이_분다、#HAPPYAMARUDAY2026、마루 생일、케이 생일"
+   ],
+   "rank": 4,
+   "heat": {
+    "post_count": 31463,
+    "query": "(#HAPPY_K_DAY OR #HappyAmaruDay OR #HAPPYAMARUDAY2026 OR \"마루 생일\" OR \"케이 생일\")",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112559479258824978",
+     "url": "https://x.com/kickflip_jype/status/2112559479258824978",
+     "author": {
+      "username": "kickflip_jype",
+      "name": "KickFlip",
+      "followers": 134773
+     },
+     "created_at": "2026-10-20T15:00:03.000Z",
+     "lang": "en",
+     "text": "♪°•°∞°•°♪°•°∞°•°♪°•°∞°•°♪\n\n𝗛𝗮𝗽𝗽𝘆 𝗔𝗺𝗮𝗿𝘂 𝗗𝗮𝘆\n\n♪°•°∞°•°♪°•°∞°•°♪°•°∞°•°♪\n\n#아마루 #Amaru\n#KickFlip #킥플립\n#HappyAmaruDay\n#1021배_나이스할_아마루데이 https://t.co/pBk4Bdg0xQ",
+     "text_zh": "Amaru 生日快乐\n\n#1021倍_nice的_Amaru日",
+     "metrics": {
+      "likes": 5056,
+      "reposts": 2401,
+      "replies": 185,
+      "quotes": 1281,
+      "views": 102595,
+      "bookmarks": 132
+     },
+     "replies": [
+      {
+       "id": "2112586142704886267",
+       "url": "https://x.com/xvelxn/status/2112586142704886267",
+       "author": {
+        "username": "xvelxn",
+        "name": "ev ♰"
+       },
+       "created_at": "2026-10-20T16:46:01.000Z",
+       "lang": "en",
+       "text": "@kickflip_jype @mattmaeum0 happy amaru day !!! hope you're doing well and i'm excited to see you again soon! https://t.co/V93IOD1Ybq",
+       "text_zh": "Amaru 生日快乐！！！希望你一切都好，很期待早日再见到你！",
+       "likes": 2
+      },
+      {
+       "id": "2112582381446340732",
+       "url": "https://x.com/soowithluv/status/2112582381446340732",
+       "author": {
+        "username": "soowithluv",
+        "name": "kyeichuuu"
+       },
+       "created_at": "2026-10-20T16:31:04.000Z",
+       "lang": "en",
+       "text": "@kickflip_jype happy birthday amaru 🤍 though i joined the fandom late when you aren't around, i still felt your presence deeply~ miss you, let's be happy together and I'll wait for you to come back healthily 🤍  #HAPPYAMARUDAY2026\n#おめでとうの風が吹く\n#축하의_바람이_분다\n@kickflip_jype",
+       "text_zh": "Amaru 生日快乐 🤍 虽然我入坑晚，在你不在的时候才加入，但依然深深感受到你的存在～想你，我们一起开心吧，我会等你健康地回来 🤍",
+       "likes": 1
+      },
+      {
+       "id": "2112590305169920259",
+       "url": "https://x.com/Stay_mimi19_/status/2112590305169920259",
+       "author": {
+        "username": "Stay_mimi19_",
+        "name": "🦁🐯 Fool in love era ꨄ"
+       },
+       "created_at": "2026-10-20T17:02:33.000Z",
+       "lang": "es",
+       "text": "@kickflip_jype Amaru te amo, ya volvé por favor 😭\n#HAPPYAMARUDAY2026\n#おめでとうの風が吹く\n#축하의_바람이_분다",
+       "text_zh": "Amaru 我爱你，快回来吧 😭【译注：西班牙语】",
+       "likes": 1
+      },
+      {
+       "id": "2112568149606375505",
+       "url": "https://x.com/lehorinomine/status/2112568149606375505",
+       "author": {
+        "username": "lehorinomine",
+        "name": "zeyo 🐾"
+       },
+       "created_at": "2026-10-20T15:34:31.000Z",
+       "lang": null,
+       "text": "@kickflip_jype あまる、大好きだよ。早く元気になって、みんなで待ってるからね！🥹🩷",
+       "text_zh": "阿丸，最喜欢你了。早点好起来，大家都在等你哦！🥹🩷",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112563237623664671",
+     "url": "https://x.com/kfpboys/status/2112563237623664671",
+     "author": {
+      "username": "kfpboys",
+      "name": "냥 🧩 AMARU DAY!",
+      "followers": 4799
+     },
+     "created_at": "2026-10-20T15:15:00.000Z",
+     "lang": "en",
+     "text": "kickflip members’ messages to maru ♡ \n\nI LOVE THEM SO MUCH 🥹💗 https://t.co/dQ5vqKLW6C https://t.co/urA4UmthlO",
+     "text_zh": "KickFlip 成员们给阿丸的留言 ♡\n\n我太爱他们了 🥹💗",
+     "metrics": {
+      "likes": 223,
+      "reposts": 81,
+      "replies": 2,
+      "quotes": 7,
+      "views": 2826,
+      "bookmarks": 6
+     },
+     "replies": [
+      {
+       "id": "2112564748902617490",
+       "url": "https://x.com/FazAmaruKFP/status/2112564748902617490",
+       "author": {
+        "username": "FazAmaruKFP",
+        "name": "FAZ KFP 🧸"
+       },
+       "created_at": "2026-10-20T15:21:00.000Z",
+       "lang": "en",
+       "text": "@kfpboys Thank you always nia 🥹💗",
+       "text_zh": "一直以来谢谢你 nia 🥹💗",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112569512558023147",
+     "url": "https://x.com/andTEAMluneGBL/status/2112569512558023147",
+     "author": {
+      "username": "andTEAMluneGBL",
+      "name": "&TEAM LUNÉ GLOBAL",
+      "followers": 48705
+     },
+     "created_at": "2026-10-20T15:39:56.000Z",
+     "lang": "ja",
+     "text": "🌐 [HAPPY K DAY] 261021\n\nHAPPY BIRTHDAY &TEAM K👑\nWe hope to see more &teamazing quest & exciting moments with &TEAM members with you.\nHave a blast on your special day!\n\n-&TEAM LUNÉ GLOBAL-\n\n#HAPPY_K_DAY\n#29_もちの王様_ケイくん\n#케이가말하면이루어지는날\nandTEAM ケイくん誕生日2026 https://t.co/7ngMtqjmgX",
+     "text_zh": "🌐【HAPPY K DAY】261021\n\n&TEAM K 生日快乐👑\n希望和你一起看到更多 &TEAM 成员们的精彩冒险和激动时刻。\n祝你度过一个超棒的特别日子！\n\n—&TEAM LUNÉ GLOBAL—\n\n#29岁_麻薯之王_K君 #K说什么就会成真的日子",
+     "metrics": {
+      "likes": 47,
+      "reposts": 10,
+      "replies": 0,
+      "quotes": 0,
+      "views": 1519,
+      "bookmarks": 0
+     },
+     "replies": [],
+     "replies_note_zh": "该帖暂无回复。"
+    }
+   ]
+  },
+  {
+   "id": "kr-bigbang-bts-pave-the-way",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "大声一句“GD 开辟了道路”，引爆 BIGBANG 与 BTS 粉丝的“谁开辟了 K-pop 之路”大战",
+   "summary_zh": "BIGBANG 以三人体制开启 XX: Cosmos 世界巡演，大声在演唱会上称赞队长 G-Dragon“开辟了道路（paved the way）”。部分 BTS 粉丝认为这是抢功，搬出 BTS 打入欧美、体育场巡演等成绩反驳；BIGBANG 粉丝则强调那只是庆祝场合里对自家队长的玩笑式夸奖，并没有点名任何团体。",
+   "why_youth_zh": "“Who paved the way（谁开辟了道路）”是 K-pop 粉圈的永恒话题，代际粉丝（二代团 vs 三代团）互相不服；争吵在英语圈粉丝中最激烈，也有不少人呼吁“两团本人互相尊重，粉丝别再丢人了”。",
+   "keywords": [
+    "Daesung",
+    "G-Dragon",
+    "BIGBANG",
+    "BTS",
+    "paved the way",
+    "ARMY"
+   ],
+   "trend_hits": [
+    "X 新闻：Daesung's Praise for G-Dragon Draws Fan Clash Over K-pop Legacy"
+   ],
+   "rank": 5,
+   "heat": {
+    "post_count": 2554,
+    "query": "((Daesung OR 대성) (\"paved the way\" OR GD OR \"G-Dragon\" OR gdragon OR BTS))",
+    "window": {
+     "start": "2026-10-19T17:10:00Z",
+     "end": "2026-10-20T17:15:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "该话题主要在英语粉圈发酵，帖子量较小（约 2500 条），但单帖互动高。部分帖子含人身攻击，已尽量选取观点型内容。",
+   "posts": [
+    {
+     "id": "2112251530556457352",
+     "url": "https://x.com/seungt0phyun/status/2112251530556457352",
+     "author": {
+      "username": "seungt0phyun",
+      "name": "sha",
+      "followers": 7127
+     },
+     "created_at": "2026-10-19T18:36:23.000Z",
+     "lang": "en",
+     "text": "daesung said as a joke that gdragon paved the way because he wanted to praise his leader and armys’ respond is to harass him and send him death threats…just a bunch of evil losers https://t.co/MebFu3V8kU",
+     "text_zh": "大声只是开玩笑说 GD 开辟了道路，因为他想夸自己的队长，结果 ARMY 的回应是骚扰他、给他发死亡威胁……就是一群恶毒的失败者",
+     "metrics": {
+      "likes": 6617,
+      "reposts": 970,
+      "replies": 1,
+      "quotes": 261,
+      "views": 99130,
+      "bookmarks": 208
+     },
+     "replies": [],
+     "replies_note_zh": "回复极少（1 条），未单独抓取。"
+    },
+    {
+     "id": "2112447903977668986",
+     "url": "https://x.com/Pansy752313/status/2112447903977668986",
+     "author": {
+      "username": "Pansy752313",
+      "name": "starcandy ^_−☆ ⁷",
+      "followers": 278
+     },
+     "created_at": "2026-10-20T07:36:42.000Z",
+     "lang": "en",
+     "text": "so yall know its a joke😭😭 imagine an artist bullshiting about “paving the way” and his fans are like “hes jokingggg” 😭😭😭😭 https://t.co/BiMjaQb6Dz",
+     "text_zh": "所以你们都知道那是个玩笑😭😭 想象一下一个艺人胡扯“开辟道路”，然后他的粉丝说“他在开玩笑啦～”😭😭😭😭",
+     "metrics": {
+      "likes": 997,
+      "reposts": 51,
+      "replies": 4,
+      "quotes": 2,
+      "views": 8905,
+      "bookmarks": 18
+     },
+     "replies": [
+      {
+       "id": "2112472701260468691",
+       "url": "https://x.com/Jiyongiyee/status/2112472701260468691",
+       "author": {
+        "username": "Jiyongiyee",
+        "name": "Alea 🎃🦇"
+       },
+       "created_at": "2026-10-20T09:15:14.000Z",
+       "lang": null,
+       "text": "@Pansy752313 youre so stupid. the full video with context has been posted but your fandom just wants to victimise themselves, nothing he said was wrong anyway",
+       "text_zh": "你真蠢。带完整上下文的视频已经发出来了，但你们粉圈就是想把自己当受害者，何况他说的也没有错",
+       "likes": 19
+      },
+      {
+       "id": "2112494165888213431",
+       "url": "https://x.com/SudanTavne9761/status/2112494165888213431",
+       "author": {
+        "username": "SudanTavne9761",
+        "name": "SPY OFFICER BLINGY IS PRESSING PLAY"
+       },
+       "created_at": "2026-10-20T10:40:32.000Z",
+       "lang": null,
+       "text": "@Pansy752313 yall take this pave the way argument sooo fucking seriously as if yall will die if someone said otherwise",
+       "text_zh": "你们把这个“开辟道路”的争论看得太他妈认真了，好像有人说了不同意见你们就会死一样",
+       "likes": 4
+      },
+      {
+       "id": "2112503162141577601",
+       "url": "https://x.com/Anywayszzzzz/status/2112503162141577601",
+       "author": {
+        "username": "Anywayszzzzz",
+        "name": "Anywayzzz"
+       },
+       "created_at": "2026-10-20T11:16:16.000Z",
+       "lang": null,
+       "text": "@Pansy752313 You are absolutely embarrassing yourself. With the way you army’s act on social media is so worrying.. you really think bts appreciates or enjoys this type of content? They feel shame when they see army act like this.. especially since bts and bigbang respect each other",
+       "text_zh": "你真的是在丢人现眼。你们 ARMY 在社交媒体上的表现太让人担心了……你真觉得 BTS 会欣赏或喜欢这种内容吗？他们看到 ARMY 这样会觉得丢脸的……尤其是 BTS 和 BIGBANG 互相尊重",
+       "likes": 4
+      }
+     ]
+    },
+    {
+     "id": "2112503640074469438",
+     "url": "https://x.com/gdragonalterego/status/2112503640074469438",
+     "author": {
+      "username": "gdragonalterego",
+      "name": "iona | STREAM BiiiG 🚦",
+      "followers": 413
+     },
+     "created_at": "2026-10-20T11:18:10.000Z",
+     "lang": "en",
+     "text": "i mean correct me if i’m wrong because i deadass don’t care but when have bigbang ever beefed bts up???? https://t.co/x9xowsu8Vy",
+     "text_zh": "如果我说错了请纠正，因为我是真的不在乎，但 BIGBANG 什么时候跟 BTS 有过节了？？？？",
+     "metrics": {
+      "likes": 599,
+      "reposts": 59,
+      "replies": 24,
+      "quotes": 22,
+      "views": 12225,
+      "bookmarks": 22
+     },
+     "replies": [
+      {
+       "id": "2112520357328638377",
+       "url": "https://x.com/peace_plus_sun/status/2112520357328638377",
+       "author": {
+        "username": "peace_plus_sun",
+        "name": "coᦠოos 🇫🇷"
+       },
+       "created_at": "2026-10-20T12:24:36.000Z",
+       "lang": "en",
+       "text": "@gdragonalterego It just confuses me cause like why would daesung hype BTS up at a bigbang concert. I’m sure the members of each group genuinely like each other, but it be pretty weird for them to stand up there and be like “bts paved the way” at a concert that has nothing to do with bts.",
+       "text_zh": "这让我很困惑：大声为什么要在 BIGBANG 的演唱会上吹 BTS？我相信两个团的成员是真心喜欢彼此的，但在一场和 BTS 毫无关系的演唱会上站上台说“BTS 开辟了道路”才奇怪吧。",
+       "likes": 53
+      },
+      {
+       "id": "2112516885053104586",
+       "url": "https://x.com/dongibuoksik/status/2112516885053104586",
+       "author": {
+        "username": "dongibuoksik",
+        "name": "iiidgaf🐬🍚"
+       },
+       "created_at": "2026-10-20T12:10:48.000Z",
+       "lang": "en",
+       "text": "@gdragonalterego is there like a misinformation speedrun contest going on in that fandom like",
+       "text_zh": "那个粉圈是在搞“造谣速通大赛”吗",
+       "likes": 42
+      },
+      {
+       "id": "2112545222743966092",
+       "url": "https://x.com/i_imannx/status/2112545222743966092",
+       "author": {
+        "username": "i_imannx",
+        "name": "xxxibdgrnxx"
+       },
+       "created_at": "2026-10-20T14:03:24.000Z",
+       "lang": "en",
+       "text": "@gdragonalterego The funny thing is that daesung never even said bts so they are just stirring the pot for nothing",
+       "text_zh": "好笑的是大声根本没提 BTS，所以他们完全是在无事生非",
+       "likes": 13
+      },
+      {
+       "id": "2112525984474054685",
+       "url": "https://x.com/cyb3rgigi/status/2112525984474054685",
+       "author": {
+        "username": "cyb3rgigi",
+        "name": "xrd. #GD’s Baby"
+       },
+       "created_at": "2026-10-20T12:46:58.000Z",
+       "lang": "en",
+       "text": "@gdragonalterego to anyone who sees my comment, please explain to me too since when has BIGBANG almost ruined BTS’s career? (that’s what an ARMY told me during the debate earlier) 💁🏻‍♀️",
+       "text_zh": "看到我评论的人能不能给我解释一下，BIGBANG 什么时候差点毁了 BTS 的事业？（刚才吵架时一个 ARMY 这么跟我说的）💁🏻‍♀️",
+       "likes": 8
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "x_api_calls": 134,
+  "sources": [
+   "x.get_trends_by_woeid",
+   "x.search_news",
+   "x.search_posts_all",
+   "x.get_posts_by_ids",
+   "x.get_posts_counts_recent"
+  ],
+  "limitations_zh": [
+   "X 无法按年龄筛选用户，“年轻人”属性是根据话题、圈层与语言风格推断的。",
+   "热度为关键词/标签在统计窗口内的帖子数（get_posts_counts_recent），会混入无关帖与刷屏帖，只适合横向比较。",
+   "热门回复取自 X 搜索接口能返回的样本（主要是帖子发布初期与最近的回复），不保证是全部回复中点赞最高的。",
+   "部分长帖被 X 接口截断，原文以“…”结尾。所有译文为人工风格的意译，必要处附译注。"
+  ]
+ }
+}

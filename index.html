@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>全球青年热议 · Global Trends</title>
+<meta name="description" content="每日整理欧美、日本、韩国年轻人在 X 上热议的话题、热帖与热评，全部附中文翻译。">
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">◎</span>
+      <div>
+        <h1>全球青年热议</h1>
+        <p class="sub">X 上欧美 · 日本 · 韩国年轻人在聊什么</p>
+      </div>
+    </div>
+    <div class="datebox">
+      <button id="prevDate" class="iconbtn" title="前一期" aria-label="前一期">‹</button>
+      <select id="dateSelect" aria-label="选择日期"></select>
+      <button id="nextDate" class="iconbtn" title="后一期" aria-label="后一期">›</button>
+    </div>
+  </div>
+  <nav class="controls">
+    <div class="seg" id="regionTabs" role="tablist" aria-label="地区"></div>
+    <div class="seg small" id="langMode" role="group" aria-label="显示方式">
+      <button data-mode="zh" class="on">译文</button>
+      <button data-mode="orig">原文</button>
+      <button data-mode="both">对照</button>
+    </div>
+  </nav>
+  <div class="chips" id="catChips" aria-label="分类筛选"></div>
+</header>
+
+<main id="app">
+  <section id="overview" class="overview"></section>
+  <section id="topics" class="topics" aria-live="polite"></section>
+</main>
+
+<footer class="footer">
+  <h3>数据说明</h3>
+  <ul id="limits">
+    <li>数据全部来自 X（趋势、新闻聚合、帖子搜索与帖子计数接口），每期由编辑筛选并翻译。</li>
+    <li>X 无法按年龄筛选用户，“年轻人”是根据话题圈层、语言风格与参与人群推断的，不代表精确的人口统计。</li>
+    <li>“热度”为关键词/标签在统计窗口内的帖子数量，会混入无关帖与刷屏帖，只适合同期横向比较。</li>
+    <li>热评取自接口能返回的回复样本，不保证是该帖全部回复中最高赞的；点赞等数字为抓取时快照。</li>
+  </ul>
+  <p class="fine">已过滤垃圾信息、成人内容、机器人刷屏及仇恨言论。原文版权归原作者所有，点击“在 X 查看”访问原帖。</p>
+</footer>
+
+<script src="static/app.js"></script>
+</body>
+</html>
