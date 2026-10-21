@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-20",
+ "latest": "2026-10-21",
  "issues": [
+  {
+   "date": "2026-10-21",
+   "topic_count": 16,
+   "post_count": 57,
+   "reply_count": 147,
+   "regions": {
+    "west": 6,
+    "jp": 5,
+    "kr": 5
+   },
+   "headline_zh": "欧冠巴黎 4:2 巴萨：杜埃首开纪录，2007 年小将埃斯帕特欧冠首球"
+  },
   {
    "date": "2026-10-20",
    "topic_count": 16,

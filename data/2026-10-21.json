@@ -1,0 +1,3911 @@
+{
+ "schema_version": 1,
+ "date": "2026-10-21",
+ "generated_at": "2026-10-21T00:23:40Z",
+ "window": {
+  "start": "2026-10-20T00:05:00Z",
+  "end": "2026-10-21T00:05:00Z"
+ },
+ "regions": [
+  {
+   "id": "west",
+   "name_zh": "欧美"
+  },
+  {
+   "id": "jp",
+   "name_zh": "日本"
+  },
+  {
+   "id": "kr",
+   "name_zh": "韩国"
+  }
+ ],
+ "observations_zh": [
+  "欧美年轻人今天几乎被体育“包场”：欧冠巴黎 4:2 巴萨（相关帖子 129 万+，全站最热）、利物浦 4:3 逆转比利亚雷亚尔，再加上 NBA 开幕日活塞 22 分逆转凯尔特人、詹姆斯 76 人首秀前后的各种场外梗。",
+  "“00 后新星”是今天的共同关键词：年轻边锋恩古莫哈成为利物浦欧冠最年轻助攻者，2007 年出生的拉玛西亚小将哈维·埃斯帕特打进欧冠首球，网友直接把他们和亚马尔放在一起比较。",
+  "日本这边是“老 IP 回归”的一天：停播 10 年的《晨曦公主》确定由 PIERROT FILMS 制作续篇、荒木飞吕彦为 JOJO 大阪展新画卡兹、是枝裕和真人版《蓦然回首》放出北美预告，评论区大量“这是我的青春”。",
+  "韩国榜单仍以粉圈为主：BOYNEXTDOOR 李韩生日、温流首张单曲《错觉》、BABYMONSTER 新歌剧照倒计时；比较“出圈”的是伯贤未发行歌曲《Trojan Horse》在 Mnet 街舞综艺决赛里被用作舞曲，粉丝集体喊话“快上架”。",
+  "需要留意：《老大哥》英国版的 Omar/Rhianna 情节被反家暴机构 Women’s Aid 点名为“把控制行为当娱乐”，回复区情绪激烈；SpaceX 财报相关讨论则高度政治化，本页只收录与财报本身相关的回复。"
+ ],
+ "trends_snapshot": {
+  "US": [
+   "Drummond",
+   "Knicks",
+   "Tatum",
+   "Sixers",
+   "Embiid",
+   "EAGLE-4",
+   "Maxey",
+   "Celtics",
+   "Paul George",
+   "76ers",
+   "Pistons",
+   "Jaylen Brown",
+   "Vivek",
+   "#NewYorkForever",
+   "Nick Shirley",
+   "Duncan Robinson",
+   "Shamet",
+   "#NBAOpeningNight",
+   "#throwtheballup",
+   "Brunson"
+  ],
+  "UK": [
+   "#bbuk",
+   "Yasmin",
+   "Barca",
+   "Drummond",
+   "Rio Ngumoha",
+   "Rochelle",
+   "#swfc",
+   "Yamal",
+   "Catrin",
+   "Gordon",
+   "Barcelona",
+   "#oafc",
+   "#wwfc",
+   "Macca",
+   "Tatum",
+   "Knicks",
+   "Sixers",
+   "Omar",
+   "Vitinha",
+   "Dembele"
+  ],
+  "JP": [
+   "#マックにジューシーなチキンバーガー爆誕",
+   "あかりの日",
+   "#あさイチ",
+   "チーズトルティーヤ新発売",
+   "週の真ん中",
+   "EAGLE-4",
+   "スペースX",
+   "白熱電球",
+   "エジソン",
+   "#モーニングショー",
+   "#説得王",
+   "#のじゃEnglish",
+   "ドラモンド",
+   "すいようび",
+   "クラシコ",
+   "はいふにょ",
+   "オハジル",
+   "エスパルト",
+   "笑いのツボ",
+   "淳太くん"
+  ],
+  "KR": [
+   "EAGLE-4",
+   "오하욘사",
+   "스페이스X",
+   "#이한의_바다에_별이_뜨는날",
+   "만루홈런",
+   "#TwoTwoTwo21",
+   "#HAPPY_K_DAY",
+   "모의고사",
+   "생일 축하",
+   "영상 1000만",
+   "평생인연",
+   "#축하의_바람이_분다",
+   "#HAPPYAMARUDAY2026",
+   "안겹침 신기",
+   "작귀 최애",
+   "엣지러너",
+   "단체버블",
+   "마루 생일"
+  ],
+  "WORLD": [
+   "Drummond",
+   "#NordestinosComLula",
+   "Knicks",
+   "EAGLE-4",
+   "Tatum",
+   "Barca",
+   "Sixers",
+   "Barcelona",
+   "Gordon",
+   "Celtics",
+   "Embiid",
+   "Paul George",
+   "LeBron",
+   "Maxey",
+   "Pedri",
+   "#マックにジューシーなチキンバーガー爆誕",
+   "Flick",
+   "Pistons",
+   "76ers",
+   "Yamal"
+  ]
+ },
+ "topics": [
+  {
+   "id": "west-psg-barcelona-4-2",
+   "region": "west",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "欧冠巴黎 4:2 巴萨：杜埃首开纪录，2007 年小将埃斯帕特欧冠首球",
+   "summary_zh": "欧冠联赛阶段第 3 轮，巴黎圣日耳曼主场 4:2 击败此前不败的巴塞罗那。杜埃首开纪录，巴萨的哈维·埃斯帕特和亚马尔两度扳平，之后卢卡斯·埃尔南德斯、维蒂尼亚和法比安·鲁伊斯连续破门。全场 40 次射门，登贝莱早早伤退，赛后拉菲尼亚表示“只是丢了三分，接下来专注国家德比”。",
+   "why_youth_zh": "这是今天全站讨论量最大的话题。年轻球迷一边刷巴黎球迷看台上的搞笑照片（10 万+ 赞），一边拿巴萨赛前那句“你们最可怕的噩梦来了”反讽官号，皇马球迷也趁机加入嘲讽，标准的欧洲足球互联网狂欢。",
+   "keywords": [
+    "PSG",
+    "Barcelona",
+    "Barça",
+    "Yamal",
+    "Vitinha",
+    "Xavi Espart",
+    "Raphinha",
+    "El Clásico"
+   ],
+   "trend_hits": [
+    "英国：Barca / Barcelona / Yamal / Vitinha / Dembele / Gordon",
+    "日本：クラシコ / エスパルト",
+    "全球：Barca / Barcelona / Pedri / Flick / Yamal / Gordon"
+   ],
+   "rank": 1,
+   "heat": {
+    "post_count": 1296314,
+    "query": "(PSG OR Barcelona OR Barça OR Barca OR Yamal OR Vitinha OR Doué)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "热度计数的查询包含“Barcelona/Barca”等宽泛词，会混入其他巴萨相关讨论，数字偏高，仅作量级参考。",
+   "posts": [
+    {
+     "id": "2112632783621214366",
+     "url": "https://x.com/thecasualultra/status/2112632783621214366",
+     "author": {
+      "username": "thecasualultra",
+      "name": "𝐂𝐚𝐬𝐮𝐚𝐥 𝐔𝐥𝐭𝐫𝐚 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+      "followers": 308130
+     },
+     "created_at": "2026-10-20T19:51:21.000Z",
+     "lang": "en",
+     "text": "Paris SG fans during the match vs FC Barcelona tonight 😂 https://t.co/3KdQpI4nXh",
+     "text_zh": "今晚对阵巴塞罗那时的巴黎圣日耳曼球迷 😂",
+     "metrics": {
+      "likes": 109523,
+      "reposts": 8691,
+      "replies": 594,
+      "quotes": 952,
+      "views": 2057466,
+      "bookmarks": 3557
+     },
+     "replies": [
+      {
+       "id": "2112640066971668942",
+       "url": "https://x.com/eva03____/status/2112640066971668942",
+       "author": {
+        "username": "eva03____",
+        "name": "TATARFORAS"
+       },
+       "created_at": "2026-10-20T20:20:17.000Z",
+       "lang": "en",
+       "text": "@thecasualultra god please don't let this be ai pic",
+       "text_zh": "老天，千万别告诉我这是 AI 图",
+       "likes": 272
+      },
+      {
+       "id": "2112641303284490590",
+       "url": "https://x.com/pleistergernot/status/2112641303284490590",
+       "author": {
+        "username": "pleistergernot",
+        "name": "🩹"
+       },
+       "created_at": "2026-10-20T20:25:12.000Z",
+       "lang": "en",
+       "text": "@thecasualultra This is disrespect to the amazing ultras of psg",
+       "text_zh": "这是对巴黎那帮了不起的死忠球迷（ultras）的不尊重",
+       "likes": 63
+      },
+      {
+       "id": "2112693195259965589",
+       "url": "https://x.com/markevanjacobs/status/2112693195259965589",
+       "author": {
+        "username": "markevanjacobs",
+        "name": "mark j"
+       },
+       "created_at": "2026-10-20T23:51:24.000Z",
+       "lang": null,
+       "text": "@thecasualultra That is brilliant",
+       "text_zh": "太绝了",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112657864829387085",
+     "url": "https://x.com/FabrizioRomano/status/2112657864829387085",
+     "author": {
+      "username": "FabrizioRomano",
+      "name": "Fabrizio Romano",
+      "followers": 29142664
+     },
+     "created_at": "2026-10-20T21:31:00.000Z",
+     "lang": "en",
+     "text": "🚨 Raphinha: “We’ve only lost three points. Now we need to be ready for El Clásico. Focus”. https://t.co/TBcSrCUwMS",
+     "text_zh": "🚨 拉菲尼亚：“我们只是丢了三分。现在要为国家德比做好准备。专注。”",
+     "metrics": {
+      "likes": 47064,
+      "reposts": 1762,
+      "replies": 605,
+      "quotes": 259,
+      "views": 1036369,
+      "bookmarks": 288
+     },
+     "replies": [
+      {
+       "id": "2112667500894916760",
+       "url": "https://x.com/AtshaShaban/status/2112667500894916760",
+       "author": {
+        "username": "AtshaShaban",
+        "name": "Atepo Shafiq شعبان"
+       },
+       "created_at": "2026-10-20T22:09:18.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano Madrid listening. https://t.co/8pvK6gHzyE",
+       "text_zh": "皇马正听着呢。",
+       "likes": 9
+      },
+      {
+       "id": "2112667445341155340",
+       "url": "https://x.com/Blessing_Olivi/status/2112667445341155340",
+       "author": {
+        "username": "Blessing_Olivi",
+        "name": "Olivia 💞"
+       },
+       "created_at": "2026-10-20T22:09:05.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano You'll still lose",
+       "text_zh": "你们照样会输",
+       "likes": 9
+      },
+      {
+       "id": "2112696487947698186",
+       "url": "https://x.com/masterdavid001/status/2112696487947698186",
+       "author": {
+        "username": "masterdavid001",
+        "name": "BIG DAVE"
+       },
+       "created_at": "2026-10-21T00:04:29.000Z",
+       "lang": null,
+       "text": "@FabrizioRomano Overall Barcelona thought they are the better side before the match lol",
+       "text_zh": "总的来说，巴萨赛前还以为自己是更强的一方，笑死",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112656436572414234",
+     "url": "https://x.com/vitinha/status/2112656436572414234",
+     "author": {
+      "username": "vitinha",
+      "name": "Vitinha",
+      "followers": 232876
+     },
+     "created_at": "2026-10-20T21:25:20.000Z",
+     "lang": "fr",
+     "text": "Quelle soirée de ouf chez nous 🤪❤️💙 https://t.co/ieg2F5Nurc",
+     "text_zh": "我们主场这一晚太疯狂了 🤪❤️💙",
+     "metrics": {
+      "likes": 43566,
+      "reposts": 5783,
+      "replies": 580,
+      "quotes": 255,
+      "views": 255070,
+      "bookmarks": 461
+     },
+     "replies": [
+      {
+       "id": "2112691913853731133",
+       "url": "https://x.com/YeiTone/status/2112691913853731133",
+       "author": {
+        "username": "YeiTone",
+        "name": "✞"
+       },
+       "created_at": "2026-10-20T23:46:18.000Z",
+       "lang": "tl",
+       "text": "@vitinha @ibrag_different @PSG_inside @ChampionsLeague Agba baller!",
+       "text_zh": "大佬级球员！【译注：Agba 是尼日利亚俚语，意为“老大、大佬”】",
+       "likes": 1
+      },
+      {
+       "id": "2112696610916549065",
+       "url": "https://x.com/YannickE96094/status/2112696610916549065",
+       "author": {
+        "username": "YannickE96094",
+        "name": "Yannick Edward"
+       },
+       "created_at": "2026-10-21T00:04:58.000Z",
+       "lang": "fr",
+       "text": "@vitinha @PSG_inside @ChampionsLeague Lui c'est l'artiste un vrai",
+       "text_zh": "他才是真正的艺术家",
+       "likes": 0
+      },
+      {
+       "id": "2112693740603109425",
+       "url": "https://x.com/ImaSysLey/status/2112693740603109425",
+       "author": {
+        "username": "ImaSysLey",
+        "name": "ImaSysLey"
+       },
+       "created_at": "2026-10-20T23:53:34.000Z",
+       "lang": "fr",
+       "text": "@vitinha @icparissg_ @PSG_inside @ChampionsLeague Trop fort vitigoat",
+       "text_zh": "太强了，vitigoat【译注：Vitinha + GOAT（史上最佳）的合成词】",
+       "likes": 0
+      },
+      {
+       "id": "2112696490145845729",
+       "url": "https://x.com/Vickslog/status/2112696490145845729",
+       "author": {
+        "username": "Vickslog",
+        "name": "Davick💥⚽️"
+       },
+       "created_at": "2026-10-21T00:04:29.000Z",
+       "lang": "en",
+       "text": "@vitinha @PSG_inside @ChampionsLeague Proper baller",
+       "text_zh": "真正的球星",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112649188974698568",
+     "url": "https://x.com/FCBarcelona/status/2112649188974698568",
+     "author": {
+      "username": "FCBarcelona",
+      "name": "FC Barcelona",
+      "followers": 46879271
+     },
+     "created_at": "2026-10-20T20:56:32.000Z",
+     "lang": "en",
+     "text": "Full time.\nWe move on. https://t.co/6ASrbLMYg7",
+     "text_zh": "全场结束。\n我们继续前进。",
+     "metrics": {
+      "likes": 40179,
+      "reposts": 3471,
+      "replies": 5204,
+      "quotes": 3704,
+      "views": 1269377,
+      "bookmarks": 691
+     },
+     "replies": [
+      {
+       "id": "2112654723165696260",
+       "url": "https://x.com/ntonghapraiz/status/2112654723165696260",
+       "author": {
+        "username": "ntonghapraiz",
+        "name": "Praise George"
+       },
+       "created_at": "2026-10-20T21:18:31.000Z",
+       "lang": "en",
+       "text": "@FCBarcelona Luis Enrique gleefully returning to thank Ferran Torres for giving him clues: https://t.co/ZxTnt0rMbF",
+       "text_zh": "路易斯·恩里克兴高采烈地回来感谢费兰·托雷斯给他“透露情报”：【译注：费兰今夏从巴萨转会巴黎，恩里克也是巴萨前主帅】",
+       "likes": 88
+      },
+      {
+       "id": "2112658103061905724",
+       "url": "https://x.com/Abdelwaheb_rez/status/2112658103061905724",
+       "author": {
+        "username": "Abdelwaheb_rez",
+        "name": "Abdelwaheb"
+       },
+       "created_at": "2026-10-20T21:31:57.000Z",
+       "lang": "en",
+       "text": "@FCBarcelona « your worst nightmare » https://t.co/Xu7AjbxKQM",
+       "text_zh": "“你们最可怕的噩梦”【译注：反讽巴萨官号赛前发的“Your worst nightmare is here”】",
+       "likes": 65
+      },
+      {
+       "id": "2112654352192344286",
+       "url": "https://x.com/customwyd/status/2112654352192344286",
+       "author": {
+        "username": "customwyd",
+        "name": "custom7"
+       },
+       "created_at": "2026-10-20T21:17:03.000Z",
+       "lang": "en",
+       "text": "@FCBarcelona talk now admin https://t.co/GaNpEUOpTS",
+       "text_zh": "小编，现在说话啊",
+       "likes": 43
+      },
+      {
+       "id": "2112655318131904625",
+       "url": "https://x.com/KatiaItzel_/status/2112655318131904625",
+       "author": {
+        "username": "KatiaItzel_",
+        "name": "𝗞𝗮𝘁𝗶𝗮 𝗜𝘁𝘇𝗲𝗹 𝗚𝗮𝗿𝗰í𝗮"
+       },
+       "created_at": "2026-10-20T21:20:53.000Z",
+       "lang": "es",
+       "text": "@lautarodeIcampo @FCBarcelona Ay gordito gordito qué pasó no le pudieron ganar a tu  papá psg cuando quieras el Real Madrid les da clases de cómo ganarle al psg https://t.co/qj76cAoFbt",
+       "text_zh": "哎哟小胖子小胖子，怎么了？赢不了你们“爸爸”巴黎啊。啥时候让皇马给你们上一课，教教你们怎么赢巴黎",
+       "likes": 38
+      }
+     ]
+    },
+    {
+     "id": "2112640077654634712",
+     "url": "https://x.com/FabrizioRomano/status/2112640077654634712",
+     "author": {
+      "username": "FabrizioRomano",
+      "name": "Fabrizio Romano",
+      "followers": 29142664
+     },
+     "created_at": "2026-10-20T20:20:20.000Z",
+     "lang": "ca",
+     "text": "🔵🔴 First Champions League goal for Xavi Espart! Born in 2007, La Masia product scores for Barça against PSG. https://t.co/ediS1VE3Fd",
+     "text_zh": "🔵🔴 哈维·埃斯帕特的欧冠首球！这位 2007 年出生、拉玛西亚青训出品的球员在对阵巴黎的比赛中为巴萨破门。",
+     "metrics": {
+      "likes": 34044,
+      "reposts": 1481,
+      "replies": 206,
+      "quotes": 76,
+      "views": 947297,
+      "bookmarks": 168
+     },
+     "replies": [
+      {
+       "id": "2112648965657329762",
+       "url": "https://x.com/Blessing_Olivi/status/2112648965657329762",
+       "author": {
+        "username": "Blessing_Olivi",
+        "name": "Olivia 💞"
+       },
+       "created_at": "2026-10-20T20:55:39.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano How much do you charge?",
+       "text_zh": "你（发这条）收多少钱？",
+       "likes": 4
+      },
+      {
+       "id": "2112664876422156408",
+       "url": "https://x.com/Doljjonghanie/status/2112664876422156408",
+       "author": {
+        "username": "Doljjonghanie",
+        "name": "m"
+       },
+       "created_at": "2026-10-20T21:58:52.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano He was incredible tonight. What a performance! He gave it his all, ran nonstop and none of his runs were wasted, brilliant both defensively and offensively. As a fan I feel so proud of Xavi and I feel so lucky and happy to have witnessed to his first champions league goal live.",
+       "text_zh": "他今晚太出色了，多么精彩的表现！他拼尽全力、一刻不停地跑，而且每次跑动都没有白费，攻守两端都很出色。作为球迷我为哈维感到骄傲，也很幸运、很开心能现场见证他的欧冠首球。",
+       "likes": 1
+      },
+      {
+       "id": "2112691363011514491",
+       "url": "https://x.com/JavierA95440196/status/2112691363011514491",
+       "author": {
+        "username": "JavierA95440196",
+        "name": "ArmandoCdMx"
+       },
+       "created_at": "2026-10-20T23:44:07.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano Good for him but 8 minutes later  he sent a pass to no one when there wherevtwo teammates alone in the area",
+       "text_zh": "替他高兴，但 8 分钟后禁区里明明有两个队友无人盯防，他却把球传给了空气",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-sixers-knicks-opener-buzz",
+   "region": "west",
+   "categories": [
+    "体育",
+    "梗"
+   ],
+   "title_zh": "76 人做客尼克斯开幕战：詹姆斯、恩比德“限时 30 分钟”，Tracy Morgan 升旗夜嘲讽布朗尼",
+   "summary_zh": "卫冕冠军尼克斯在麦迪逊广场花园升起 53 年来首面总冠军旗帜，对手是詹姆斯首秀的新 76 人。赛前 Shams 爆料 76 人计划在赛季初把詹姆斯和恩比德的出场时间限制在 30 分钟左右；升旗仪式上，喜剧演员 Tracy Morgan 接受采访时调侃布朗尼“一看就是打社区大学篮球的料”，身边的卡梅隆·安东尼笑出了声。比赛开打后，沙梅特与詹姆斯、恩比德发生推搡。",
+   "why_youth_zh": "昨天已经聊过开幕夜本身，今天的热度来自“场外”：限时消息被玩成“等大家下完注才放消息”的博彩梗，Tracy Morgan 的一句玩笑则引发“喜剧演员该不该拿球员儿子开涮”“甜瓜笑了算不算塑料兄弟”的争论。",
+   "keywords": [
+    "Sixers",
+    "Knicks",
+    "LeBron",
+    "Embiid",
+    "Tracy Morgan",
+    "Bronny",
+    "Shamet"
+   ],
+   "trend_hits": [
+    "美国：Knicks / Sixers / Embiid / Maxey / 76ers / Shamet / Drummond / #NewYorkForever / #throwtheballup",
+    "全球：Knicks / Sixers / LeBron / Embiid / Maxey"
+   ],
+   "rank": 2,
+   "heat": {
+    "post_count": 111924,
+    "query": "(Knicks OR Sixers OR 76ers OR Embiid OR Maxey OR Drummond OR #throwtheballup OR #NewYorkForever)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "昨天一期已收录开幕夜话题，本期只收录昨天截稿后新出现的帖子；抓取时尼克斯对 76 人仍在进行中，本页不涉及比赛结果。",
+   "posts": [
+    {
+     "id": "2112618860788744560",
+     "url": "https://x.com/PolymarketHoops/status/2112618860788744560",
+     "author": {
+      "username": "PolymarketHoops",
+      "name": "Polymarket Hoops",
+      "followers": 60010
+     },
+     "created_at": "2026-10-20T18:56:01.000Z",
+     "lang": "en",
+     "text": "JUST IN: The Sixers plan to limit LeBron James & Joel Embiid to 30 minutes per game to start the season, per @ShamsCharania. 🚨 https://t.co/mDAqRH1eez",
+     "text_zh": "最新消息：据 @ShamsCharania，76 人计划在赛季初把勒布朗·詹姆斯和乔尔·恩比德的上场时间限制在每场 30 分钟。🚨",
+     "metrics": {
+      "likes": 6808,
+      "reposts": 274,
+      "replies": 151,
+      "quotes": 196,
+      "views": 518256,
+      "bookmarks": 294
+     },
+     "replies": [
+      {
+       "id": "2112623796486324551",
+       "url": "https://x.com/saintxpierre/status/2112623796486324551",
+       "author": {
+        "username": "saintxpierre",
+        "name": "🅂🄰🄸🄽🅃 ™"
+       },
+       "created_at": "2026-10-20T19:15:38.000Z",
+       "lang": "en",
+       "text": "@PolymarketHoops @ShamsCharania Waited until everyone locked in their bets to stop this news 😂",
+       "text_zh": "等所有人都下完注了才放出这条消息 😂",
+       "likes": 482
+      },
+      {
+       "id": "2112625310302941668",
+       "url": "https://x.com/AkaDreBK/status/2112625310302941668",
+       "author": {
+        "username": "AkaDreBK",
+        "name": "Dre"
+       },
+       "created_at": "2026-10-20T19:21:39.000Z",
+       "lang": "en",
+       "text": "@PolymarketHoops @ShamsCharania Bron snd Embid muscles if they play more than 30 mins this season. https://t.co/HdNaqyCQKY",
+       "text_zh": "詹姆斯和恩比德的肌肉：如果这赛季每场打超过 30 分钟的话（配图）",
+       "likes": 205
+      },
+      {
+       "id": "2112627628037328900",
+       "url": "https://x.com/themostklutch/status/2112627628037328900",
+       "author": {
+        "username": "themostklutch",
+        "name": "Klutch Sports Consultant"
+       },
+       "created_at": "2026-10-20T19:30:51.000Z",
+       "lang": "en",
+       "text": "@PolymarketHoops @ShamsCharania Expected. That’s why JB and Tyrese gonna carry the load",
+       "text_zh": "意料之中。所以杰伦·布朗和泰瑞斯（马克西）要扛起重担了",
+       "likes": 45
+      },
+      {
+       "id": "2112626450696438216",
+       "url": "https://x.com/flashwiz07/status/2112626450696438216",
+       "author": {
+        "username": "flashwiz07",
+        "name": "Jmarz"
+       },
+       "created_at": "2026-10-20T19:26:11.000Z",
+       "lang": "en",
+       "text": "@PolymarketHoops @ShamsCharania Last time somebody tried to limit Bron’s min it didn’t end well.",
+       "text_zh": "上一个想限制詹姆斯出场时间的人，下场可不太好。",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112678464427847806",
+     "url": "https://x.com/big_business_/status/2112678464427847806",
+     "author": {
+      "username": "big_business_",
+      "name": "Ahmed/The Ears/IG: BigBizTheGod 🇸🇴",
+      "followers": 200607
+     },
+     "created_at": "2026-10-20T22:52:52.000Z",
+     "lang": "en",
+     "text": "Tracy Morgan dissing Bronny James during the Knicks Banner Night ceremony:\n\n\"Bronny look like he got JUCO ball written all over him\" https://t.co/3aSL3nprKh",
+     "text_zh": "Tracy Morgan 在尼克斯升旗仪式上嘲讽布朗尼·詹姆斯：\n\n“布朗尼看着就是一副打 JUCO 篮球的料”",
+     "metrics": {
+      "likes": 1833,
+      "reposts": 197,
+      "replies": 110,
+      "quotes": 146,
+      "views": 136306,
+      "bookmarks": 359
+     },
+     "replies": [
+      {
+       "id": "2112688436918603971",
+       "url": "https://x.com/NoIGLuck/status/2112688436918603971",
+       "author": {
+        "username": "NoIGLuck",
+        "name": "Lucky 🍀"
+       },
+       "created_at": "2026-10-20T23:32:29.000Z",
+       "lang": null,
+       "text": "@big_business_ Might be Tracy’s last joke fucking with bron 🤣",
+       "text_zh": "这可能是 Tracy 最后一次拿詹姆斯开涮了 🤣",
+       "likes": 54
+      },
+      {
+       "id": "2112687095559188524",
+       "url": "https://x.com/thisisnotturbo/status/2112687095559188524",
+       "author": {
+        "username": "thisisnotturbo",
+        "name": "turboooo"
+       },
+       "created_at": "2026-10-20T23:27:10.000Z",
+       "lang": null,
+       "text": "@bitrii6 @big_business_ he a comedian he talks shit for a career",
+       "text_zh": "人家是喜剧演员，嘴炮就是他的职业",
+       "likes": 37
+      },
+      {
+       "id": "2112687351633744027",
+       "url": "https://x.com/itsalwayscraig/status/2112687351633744027",
+       "author": {
+        "username": "itsalwayscraig",
+        "name": "Craig"
+       },
+       "created_at": "2026-10-20T23:28:11.000Z",
+       "lang": null,
+       "text": "@big_business_ Way to change the subject Melo😭😭😭😭",
+       "text_zh": "甜瓜你这转移话题的方式可真行😭😭😭😭【译注：甜瓜即卡梅隆·安东尼，詹姆斯的好友，视频里他在旁边笑】",
+       "likes": 24
+      },
+      {
+       "id": "2112685950635491759",
+       "url": "https://x.com/Greg_Alexson/status/2112685950635491759",
+       "author": {
+        "username": "Greg_Alexson",
+        "name": "Greg_Alexson"
+       },
+       "created_at": "2026-10-20T23:22:37.000Z",
+       "lang": null,
+       "text": "@bitrii6 @big_business_ He's not wrong.",
+       "text_zh": "他说得也没错。",
+       "likes": 8
+      }
+     ],
+     "note_zh": "译注：JUCO 即 junior college（美国两年制社区大学），这里是说布朗尼只配打社区大学联赛。"
+    },
+    {
+     "id": "2112670384495509919",
+     "url": "https://x.com/MindOfBron/status/2112670384495509919",
+     "author": {
+      "username": "MindOfBron",
+      "name": "MAL",
+      "followers": 16523
+     },
+     "created_at": "2026-10-20T22:20:45.000Z",
+     "lang": "en",
+     "text": "did Tracy morgan diss BRONNY WTF HELL NAH https://t.co/u5N2cZKSx1",
+     "text_zh": "Tracy Morgan 是在嘲讽布朗尼吗？？搞什么，绝对不行",
+     "metrics": {
+      "likes": 1068,
+      "reposts": 64,
+      "replies": 60,
+      "quotes": 49,
+      "views": 207430,
+      "bookmarks": 407
+     },
+     "replies": [
+      {
+       "id": "2112696904966434816",
+       "url": "https://x.com/outthewaytre/status/2112696904966434816",
+       "author": {
+        "username": "outthewaytre",
+        "name": "۟"
+       },
+       "created_at": "2026-10-21T00:06:08.000Z",
+       "lang": null,
+       "text": "@hatingssadude @idcstfumaynee @MindOfBron @carmeloanthony Supposed to dead that talk right away and check him if you really fw Bron and his fam like that. Melo fake",
+       "text_zh": "要是真跟詹姆斯一家关系那么铁，就该当场把话头掐住、怼回去。甜瓜太假了",
+       "likes": 1
+      },
+      {
+       "id": "2112697006095569374",
+       "url": "https://x.com/hitdogsholler/status/2112697006095569374",
+       "author": {
+        "username": "hitdogsholler",
+        "name": "ronny"
+       },
+       "created_at": "2026-10-21T00:06:32.000Z",
+       "lang": null,
+       "text": "@BarberIsia92114 @MindOfBron that shit ain’t hard as you think, it’s a confidence thing. something that bronny tremendously lacks",
+       "text_zh": "那其实没你想的那么难，关键在于自信，而布朗尼恰恰最缺自信",
+       "likes": 1
+      },
+      {
+       "id": "2112698663369613327",
+       "url": "https://x.com/OzunaJames23/status/2112698663369613327",
+       "author": {
+        "username": "OzunaJames23",
+        "name": "LeZuna♠️"
+       },
+       "created_at": "2026-10-21T00:13:08.000Z",
+       "lang": null,
+       "text": "@MindOfBron Tracy got a second chance at life and this the route he wanna go smh",
+       "text_zh": "Tracy 捡回了第二条命，结果选择走这条路，唉",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-paul-george-pistons-comeback",
+   "region": "west",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "保罗·乔治凯尔特人首秀砍 38 分破队史纪录，活塞却完成 22 分大逆转",
+   "summary_zh": "新赛季揭幕战凯尔特人做客底特律。用杰伦·布朗换来的保罗·乔治 21 投 12 中、三分 12 中 7 砍下 38 分 5 篮板 5 抢断，创凯尔特人新援首秀得分纪录；但上赛季 60 胜的活塞在落后 22 分的情况下完成逆转，奥萨尔·汤普森还打出一记 360 度转身上篮。赛前马祖拉“首发也就打五分钟”的言论也被翻出来嘲讽。",
+   "why_youth_zh": "NBA 开幕首战就上演大逆转，年轻球迷的玩法是梗图和段子：“活塞打出 23-0 时我的外卖还在‘即将送达’”“马祖拉把第一节当免费试用期”，同时塔图姆再次成为被吐槽的焦点。",
+   "keywords": [
+    "Paul George",
+    "Celtics",
+    "Pistons",
+    "Ausar Thompson",
+    "Mazzulla",
+    "Tatum"
+   ],
+   "trend_hits": [
+    "美国：Paul George / Celtics / Pistons / Tatum / Jaylen Brown",
+    "全球：Paul George / Celtics / Pistons / Tatum"
+   ],
+   "rank": 3,
+   "heat": {
+    "post_count": 103729,
+    "query": "(Celtics OR Pistons OR \"Paul George\" OR \"Ausar Thompson\" OR Mazzulla)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112659348031955309",
+     "url": "https://x.com/TheDunkCentral/status/2112659348031955309",
+     "author": {
+      "username": "TheDunkCentral",
+      "name": "NBACentral",
+      "followers": 2251435
+     },
+     "created_at": "2026-10-20T21:36:54.000Z",
+     "lang": "en",
+     "text": "PAUL GEORGE JUST SET THE RECORD FOR MOST POINTS IN A CELTIC DEBUT:\n\n38 POINTS \n5 REBOUNDS \n5 STEALS\n12/21 FG\n7/12 3PM\n7/8 FT https://t.co/dB5ej3OwpZ",
+     "text_zh": "保罗·乔治刚刚创造了凯尔特人新援首秀得分纪录：\n\n38 分\n5 篮板\n5 抢断\n投篮 21 中 12\n三分 12 中 7\n罚球 8 中 7",
+     "metrics": {
+      "likes": 30507,
+      "reposts": 2054,
+      "replies": 316,
+      "quotes": 470,
+      "views": 536758,
+      "bookmarks": 1363
+     },
+     "replies": [
+      {
+       "id": "2112667246031970528",
+       "url": "https://x.com/adrianlauc_/status/2112667246031970528",
+       "author": {
+        "username": "adrianlauc_",
+        "name": "🐐"
+       },
+       "created_at": "2026-10-20T22:08:17.000Z",
+       "lang": "en",
+       "text": "@OkBallOut @TheDunkCentral tatum is awful asf",
+       "text_zh": "塔图姆烂透了",
+       "likes": 45
+      },
+      {
+       "id": "2112668183387914678",
+       "url": "https://x.com/BrunsonBurnerZ/status/2112668183387914678",
+       "author": {
+        "username": "BrunsonBurnerZ",
+        "name": "BZ🐐"
+       },
+       "created_at": "2026-10-20T22:12:01.000Z",
+       "lang": "en",
+       "text": "@Fitzmagic9 @DeyLuvHuggy @TheDunkCentral Tatum gotta stop playing like a casual basketball player then😭",
+       "text_zh": "那塔图姆就别再打得像个业余选手了😭",
+       "likes": 22
+      },
+      {
+       "id": "2112667316634652896",
+       "url": "https://x.com/ghost_jenkins/status/2112667316634652896",
+       "author": {
+        "username": "ghost_jenkins",
+        "name": "The Ghost of Thomas Jenkins"
+       },
+       "created_at": "2026-10-20T22:08:34.000Z",
+       "lang": "en",
+       "text": "@Wiggs4Pres @TheDunkCentral let me catch you up.  he'll have a game like this.  maybe several.  then by the time the playoffs roll around, he'll be injured or playing like crap.",
+       "text_zh": "我给你剧透一下：他会有这样的比赛，可能还不止一场。然后等到季后赛，他要么受伤，要么打得一塌糊涂。",
+       "likes": 15
+      }
+     ]
+    },
+    {
+     "id": "2112661108834353419",
+     "url": "https://x.com/BleacherReport/status/2112661108834353419",
+     "author": {
+      "username": "BleacherReport",
+      "name": "Bleacher Report",
+      "followers": 20866937
+     },
+     "created_at": "2026-10-20T21:43:54.000Z",
+     "lang": "en",
+     "text": "PISTONS PULLED OFF WILD 22-PT COMEBACK TO BEAT THE CELTICS 🤯🤯\n\nFIRST GAME OF THE YEAR 🔥 https://t.co/XZfexTzoJO",
+     "text_zh": "活塞完成疯狂的 22 分大逆转，击败凯尔特人 🤯🤯\n\n赛季第一场 🔥",
+     "metrics": {
+      "likes": 25145,
+      "reposts": 2263,
+      "replies": 246,
+      "quotes": 341,
+      "views": 356965,
+      "bookmarks": 466
+     },
+     "replies": [
+      {
+       "id": "2112668595327254814",
+       "url": "https://x.com/TheVegasBros/status/2112668595327254814",
+       "author": {
+        "username": "TheVegasBros",
+        "name": "Vegas Bros"
+       },
+       "created_at": "2026-10-20T22:13:39.000Z",
+       "lang": "en",
+       "text": "@BleacherReport Somewhere on the Strip there's a guy who bet Celtics live when they were up 22, and he's staring at the ceiling of his room at the Flamingo right now.",
+       "text_zh": "此刻拉斯维加斯大道上，某个在凯尔特人领先 22 分时下了滚球注的哥们，正躺在火烈鸟酒店的房间里盯着天花板发呆。",
+       "likes": 10
+      },
+      {
+       "id": "2112668509364953163",
+       "url": "https://x.com/toniokeion/status/2112668509364953163",
+       "author": {
+        "username": "toniokeion",
+        "name": "Tonio"
+       },
+       "created_at": "2026-10-20T22:13:18.000Z",
+       "lang": "en",
+       "text": "@BleacherReport pistons went on a 23-0 run in under 5 minutes and my doordash still says arriving soon",
+       "text_zh": "活塞不到 5 分钟打出 23-0，我的外卖还显示“即将送达”",
+       "likes": 3
+      },
+      {
+       "id": "2112668503744622920",
+       "url": "https://x.com/DJ_WIN_100/status/2112668503744622920",
+       "author": {
+        "username": "DJ_WIN_100",
+        "name": "REALTRAPDJ_WIN🤤"
+       },
+       "created_at": "2026-10-20T22:13:17.000Z",
+       "lang": "en",
+       "text": "@BleacherReport Down 22 and never blinked. The East runs through Detroit until somebody proves otherwise.",
+       "text_zh": "落后 22 分眼都不眨。在有人证明之前，东部就是底特律说了算。",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112630217974095943",
+     "url": "https://x.com/TheHoopCentral/status/2112630217974095943",
+     "author": {
+      "username": "TheHoopCentral",
+      "name": "Hoop Central",
+      "followers": 1681853
+     },
+     "created_at": "2026-10-20T19:41:09.000Z",
+     "lang": "en",
+     "text": "AUSAR THOMPSON 360 LAYUP\n\nNO WAY. 🔥🤯 https://t.co/VwLOpHHUjH",
+     "text_zh": "奥萨尔·汤普森 360 度转身上篮\n\n不可能吧。🔥🤯",
+     "metrics": {
+      "likes": 12909,
+      "reposts": 707,
+      "replies": 52,
+      "quotes": 92,
+      "views": 412456,
+      "bookmarks": 412
+     },
+     "replies": [
+      {
+       "id": "2112631117211685361",
+       "url": "https://x.com/DonDawkin/status/2112631117211685361",
+       "author": {
+        "username": "DonDawkin",
+        "name": "DonDawkins"
+       },
+       "created_at": "2026-10-20T19:44:43.000Z",
+       "lang": "en",
+       "text": "@TheHoopCentral John Wall influence 😍",
+       "text_zh": "有约翰·沃尔那味了 😍",
+       "likes": 48
+      },
+      {
+       "id": "2112630493896430017",
+       "url": "https://x.com/sheppardsz13764/status/2112630493896430017",
+       "author": {
+        "username": "sheppardsz13764",
+        "name": "ReedSheppardszn"
+       },
+       "created_at": "2026-10-20T19:42:15.000Z",
+       "lang": "en",
+       "text": "@TheHoopCentral If MJ did this shit It’d be called the layup that defied newtons laws of gravity",
+       "text_zh": "要是乔丹做出这个动作，肯定会被叫做“违背牛顿万有引力定律的上篮”",
+       "likes": 48
+      },
+      {
+       "id": "2112637253214155151",
+       "url": "https://x.com/MidWestInIre/status/2112637253214155151",
+       "author": {
+        "username": "MidWestInIre",
+        "name": "MidWestInIreland"
+       },
+       "created_at": "2026-10-20T20:09:06.000Z",
+       "lang": "en",
+       "text": "@TheHoopCentral Full 360 in midair. I did one on black ice in Des Moines once. No replay.",
+       "text_zh": "空中完整转 360 度。我有一次在得梅因的黑冰路面上也转过一圈，可惜没有回放。【译注：黑冰指路面上透明的薄冰，意思是自己滑倒/打滑转了一圈】",
+       "likes": 9
+      }
+     ]
+    },
+    {
+     "id": "2112615166189944880",
+     "url": "https://x.com/LegionHoops/status/2112615166189944880",
+     "author": {
+      "username": "LegionHoops",
+      "name": "Legion Hoops",
+      "followers": 993953
+     },
+     "created_at": "2026-10-20T18:41:20.000Z",
+     "lang": "en",
+     "text": "Joe Mazzulla on starting lineups: “I think people care too much, it only lasts five minutes.” (@NoaDalzell)",
+     "text_zh": "乔·马祖拉谈首发阵容：“我觉得大家太在意了，首发也就打五分钟。”（@NoaDalzell）",
+     "metrics": {
+      "likes": 12395,
+      "reposts": 285,
+      "replies": 62,
+      "quotes": 113,
+      "views": 342693,
+      "bookmarks": 256
+     },
+     "replies": [
+      {
+       "id": "2112617071557423247",
+       "url": "https://x.com/Big12Pokes/status/2112617071557423247",
+       "author": {
+        "username": "Big12Pokes",
+        "name": "PokeNation"
+       },
+       "created_at": "2026-10-20T18:48:55.000Z",
+       "lang": null,
+       "text": "@LegionHoops @NoaDalzell 5 minutes is a long time Joe",
+       "text_zh": "五分钟已经很长了，乔",
+       "likes": 235
+      },
+      {
+       "id": "2112623459125932254",
+       "url": "https://x.com/2shaimless/status/2112623459125932254",
+       "author": {
+        "username": "2shaimless",
+        "name": "🎬2️⃣⚡️"
+       },
+       "created_at": "2026-10-20T19:14:17.000Z",
+       "lang": null,
+       "text": "@LegionHoops @NoaDalzell Joe took glass half empty to another level.",
+       "text_zh": "乔把“杯子只剩一半”的悲观主义提升到了新高度。",
+       "likes": 62
+      },
+      {
+       "id": "2112618624280109078",
+       "url": "https://x.com/CurseMuse/status/2112618624280109078",
+       "author": {
+        "username": "CurseMuse",
+        "name": "CurseMuse 🇲🇽"
+       },
+       "created_at": "2026-10-20T18:55:05.000Z",
+       "lang": null,
+       "text": "@LegionHoops @NoaDalzell This nonchalant gimmick ain’t gonna work anymore",
+       "text_zh": "这种云淡风轻的人设已经不管用了",
+       "likes": 13
+      },
+      {
+       "id": "2112618886084415629",
+       "url": "https://x.com/noirogalaxy/status/2112618886084415629",
+       "author": {
+        "username": "noirogalaxy",
+        "name": "noirogalaxy"
+       },
+       "created_at": "2026-10-20T18:56:07.000Z",
+       "lang": null,
+       "text": "@LegionHoops @NoaDalzell mazzulla said starting lineups only last five minutes, coach really treating the first quarter like a free trial 😭",
+       "text_zh": "马祖拉说首发只打五分钟，教练简直把第一节当成免费试用期了 😭",
+       "likes": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-liverpool-villarreal-ngumoha",
+   "region": "west",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "利物浦 4:3 逆转比利亚雷亚尔，恩古莫哈成队史欧冠最年轻助攻者",
+   "summary_zh": "利物浦轮换六人出战，一度 0:2 落后比利亚雷亚尔。麦卡利斯特梅开二度，阿劳霍头球扳平，替补登场的维尔茨打进第四球，最终 4:3 取胜，欧冠联赛阶段三战全胜。年轻边锋里奥·恩古莫哈送出两次助攻，成为利物浦欧冠历史上最年轻的助攻者，赛后他表示“利物浦是世界上最伟大的俱乐部”。",
+   "why_youth_zh": "英国趋势榜上“Rio Ngumoha”“Macca”同时上榜。年轻球迷热衷“造星”，直接把他和巴萨的亚马尔相提并论，阿劳霍进球后跑上看台和球迷一起庆祝的画面也被疯转。",
+   "keywords": [
+    "Liverpool",
+    "Villarreal",
+    "Ngumoha",
+    "Araújo",
+    "Wirtz",
+    "Mac Allister"
+   ],
+   "trend_hits": [
+    "英国：Rio Ngumoha / Macca"
+   ],
+   "rank": 4,
+   "heat": {
+    "post_count": 56475,
+    "query": "(Ngumoha OR (Liverpool Villarreal) OR #LIVVIL)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112642298299256894",
+     "url": "https://x.com/FabrizioRomano/status/2112642298299256894",
+     "author": {
+      "username": "FabrizioRomano",
+      "name": "Fabrizio Romano",
+      "followers": 29142664
+     },
+     "created_at": "2026-10-20T20:29:09.000Z",
+     "lang": "en",
+     "text": "💫 Rio Ngumoha becomes the youngest player ever to deliver an assist for Liverpool in Champions League…\n\n…and he makes it two. 🅰️🅰️ https://t.co/OHrXq7CRSz",
+     "text_zh": "💫 里奥·恩古莫哈成为利物浦欧冠历史上送出助攻的最年轻球员……\n\n……而且他一场送出了两次。🅰️🅰️",
+     "metrics": {
+      "likes": 29575,
+      "reposts": 1898,
+      "replies": 191,
+      "quotes": 101,
+      "views": 917962,
+      "bookmarks": 233
+     },
+     "replies": [
+      {
+       "id": "2112649208108884369",
+       "url": "https://x.com/Scarzoni/status/2112649208108884369",
+       "author": {
+        "username": "Scarzoni",
+        "name": "Scarzoni"
+       },
+       "created_at": "2026-10-20T20:56:36.000Z",
+       "lang": null,
+       "text": "@FabrizioRomano HE WAS UNPLAYABLE",
+       "text_zh": "他今晚根本防不住",
+       "likes": 13
+      },
+      {
+       "id": "2112649617061941250",
+       "url": "https://x.com/Ismai4455/status/2112649617061941250",
+       "author": {
+        "username": "Ismai4455",
+        "name": "khamilu Isah"
+       },
+       "created_at": "2026-10-20T20:58:14.000Z",
+       "lang": null,
+       "text": "@FabrizioRomano Rio Ngumoha is a SPECIAL talent! Two assists on a historic Champions League night. Liverpool have a gem on their hands! 💎🔥",
+       "text_zh": "里奥·恩古莫哈是个特别的天才！在载入史册的欧冠之夜送出两次助攻，利物浦捡到宝了！💎🔥",
+       "likes": 8
+      },
+      {
+       "id": "2112652141060141150",
+       "url": "https://x.com/PhilipMiriya/status/2112652141060141150",
+       "author": {
+        "username": "PhilipMiriya",
+        "name": "grand_deeh 🇩🇪🇩🇪"
+       },
+       "created_at": "2026-10-20T21:08:16.000Z",
+       "lang": null,
+       "text": "@FabrizioRomano Barca have yamal\n we have  have ngumoha",
+       "text_zh": "巴萨有亚马尔\n我们有恩古莫哈",
+       "likes": 4
+      }
+     ]
+    },
+    {
+     "id": "2112636075844002126",
+     "url": "https://x.com/brfootball/status/2112636075844002126",
+     "author": {
+      "username": "brfootball",
+      "name": "B/R Football",
+      "followers": 7769900
+     },
+     "created_at": "2026-10-20T20:04:26.000Z",
+     "lang": "en",
+     "text": "Ronald Araújo celebrated in the stands after equalizing vs. Villarreal 🏟️ https://t.co/Labc9AjaTi",
+     "text_zh": "罗纳德·阿劳霍扳平比分后跑到看台上庆祝 🏟️",
+     "metrics": {
+      "likes": 19111,
+      "reposts": 1029,
+      "replies": 31,
+      "quotes": 65,
+      "views": 203519,
+      "bookmarks": 247
+     },
+     "replies": [
+      {
+       "id": "2112642250073407872",
+       "url": "https://x.com/ipankaj369/status/2112642250073407872",
+       "author": {
+        "username": "ipankaj369",
+        "name": "Pankaj Ojha"
+       },
+       "created_at": "2026-10-20T20:28:58.000Z",
+       "lang": "en",
+       "text": "@brfootball Araújo knows what it means. Not just a goal, it's a statement at El Madrigal. Defender turned fan with the ultras - you love to see it.",
+       "text_zh": "阿劳霍懂这意味着什么。这不只是一个进球，而是一份宣言。后卫变身球迷、和死忠看台站在一起，就爱看这种画面。",
+       "likes": 93
+      },
+      {
+       "id": "2112651040344654319",
+       "url": "https://x.com/darenface/status/2112651040344654319",
+       "author": {
+        "username": "darenface",
+        "name": "𝕯𝖆𝖗𝖊𝖓 "
+       },
+       "created_at": "2026-10-20T21:03:53.000Z",
+       "lang": "en",
+       "text": "@brfootball He's a Liverpool man now 🫣",
+       "text_zh": "他现在是利物浦人了 🫣",
+       "likes": 20
+      },
+      {
+       "id": "2112650575711994135",
+       "url": "https://x.com/hereliescote/status/2112650575711994135",
+       "author": {
+        "username": "hereliescote",
+        "name": "Here-Lies-C.O.T.E"
+       },
+       "created_at": "2026-10-20T21:02:03.000Z",
+       "lang": "en",
+       "text": "@brfootball I’ve seen enough, just sign the long term contract bro 👌",
+       "text_zh": "我看够了，赶紧签长约吧兄弟 👌",
+       "likes": 15
+      },
+      {
+       "id": "2112646109415813632",
+       "url": "https://x.com/sothkalegirltor/status/2112646109415813632",
+       "author": {
+        "username": "sothkalegirltor",
+        "name": "meghan higgins"
+       },
+       "created_at": "2026-10-20T20:44:18.000Z",
+       "lang": "en",
+       "text": "@brfootball A defender with 0 goals in 10 UCL games in 2025 pulling an equalizer like that is the kind of outlier you rewatch three times",
+       "text_zh": "一个 2025 年欧冠 10 场 0 进球的后卫打进这样的扳平球，属于那种你会反复看三遍的意外",
+       "likes": 12
+      }
+     ]
+    },
+    {
+     "id": "2112667311962567164",
+     "url": "https://x.com/FabrizioRomano/status/2112667311962567164",
+     "author": {
+      "username": "FabrizioRomano",
+      "name": "Fabrizio Romano",
+      "followers": 29142664
+     },
+     "created_at": "2026-10-20T22:08:33.000Z",
+     "lang": "en",
+     "text": "❤️ Rio Ngumoha: “For me, Liverpool is the biggest club in the world”.\n\n“Breaking records here feels special”, told TNT. https://t.co/er06fqUaDu",
+     "text_zh": "❤️ 里奥·恩古莫哈：“对我来说，利物浦是世界上最伟大的俱乐部。”\n\n“在这里打破纪录感觉很特别”，他对 TNT 说道。",
+     "metrics": {
+      "likes": 18264,
+      "reposts": 1263,
+      "replies": 254,
+      "quotes": 110,
+      "views": 708752,
+      "bookmarks": 238
+     },
+     "replies": [
+      {
+       "id": "2112692812105863312",
+       "url": "https://x.com/IfeanyiOny95278/status/2112692812105863312",
+       "author": {
+        "username": "IfeanyiOny95278",
+        "name": "Spiritual~knowledge"
+       },
+       "created_at": "2026-10-20T23:49:52.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano ❤️🔥 That’s the Liverpool mentality! Ngumoha is proud to wear the badge, and breaking records at such a young age makes it even more special. Anfield could have a serious superstar in the making! 👀🔴⚽",
+       "text_zh": "❤️🔥 这就是利物浦精神！恩古莫哈以身披这枚队徽为荣，这么年轻就打破纪录更显珍贵。安菲尔德可能正在诞生一位真正的超级巨星！👀🔴⚽",
+       "likes": 1
+      },
+      {
+       "id": "2112688711708078117",
+       "url": "https://x.com/Gracie_Blue89/status/2112688711708078117",
+       "author": {
+        "username": "Gracie_Blue89",
+        "name": "Gracie💙"
+       },
+       "created_at": "2026-10-20T23:33:35.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano No it isn't 🤣🤣",
+       "text_zh": "才不是呢 🤣🤣",
+       "likes": 1
+      },
+      {
+       "id": "2112696498370597290",
+       "url": "https://x.com/AlHail1/status/2112696498370597290",
+       "author": {
+        "username": "AlHail1",
+        "name": "Salman AlHail 🇶🇦"
+       },
+       "created_at": "2026-10-21T00:04:31.000Z",
+       "lang": "en",
+       "text": "@FabrizioRomano Our star boy Rio 🩵🔴⚪️",
+       "text_zh": "我们的明星男孩里奥 🩵🔴⚪️",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112642101338890313",
+     "url": "https://x.com/LFC/status/2112642101338890313",
+     "author": {
+      "username": "LFC",
+      "name": "Liverpool FC",
+      "followers": 24240437
+     },
+     "created_at": "2026-10-20T20:28:22.000Z",
+     "lang": "en",
+     "text": "Flo gets our fourth! 👏 https://t.co/ReRPbuGa2d",
+     "text_zh": "弗洛（维尔茨）打进我们的第四球！👏",
+     "metrics": {
+      "likes": 15108,
+      "reposts": 1445,
+      "replies": 174,
+      "quotes": 236,
+      "views": 201351,
+      "bookmarks": 70
+     },
+     "replies": [
+      {
+       "id": "2112644238974595371",
+       "url": "https://x.com/chrisinspires1/status/2112644238974595371",
+       "author": {
+        "username": "chrisinspires1",
+        "name": "Uchechukwu"
+       },
+       "created_at": "2026-10-20T20:36:52.000Z",
+       "lang": "en",
+       "text": "@LFC I hope Arne Slot is watching this game. Nyoni, Rio and Koumas .. Great talents!!! #LFC",
+       "text_zh": "希望阿尔内·斯洛特在看这场比赛。尼奥尼、里奥和库马斯……都是很棒的天才！！！#LFC【译注：据当天 X 新闻摘要，本场利物浦主帅为伊拉奥拉】",
+       "likes": 3
+      },
+      {
+       "id": "2112650017215221859",
+       "url": "https://x.com/IsaksARed/status/2112650017215221859",
+       "author": {
+        "username": "IsaksARed",
+        "name": "IsaksARed"
+       },
+       "created_at": "2026-10-20T20:59:49.000Z",
+       "lang": "en",
+       "text": "@LFC I screamed like a pre pubescent girl",
+       "text_zh": "我尖叫得像个还没到青春期的小女孩",
+       "likes": 2
+      },
+      {
+       "id": "2112659784360948128",
+       "url": "https://x.com/sliimjoe_/status/2112659784360948128",
+       "author": {
+        "username": "sliimjoe_",
+        "name": "Sliimjoe🪂"
+       },
+       "created_at": "2026-10-20T21:38:38.000Z",
+       "lang": "en",
+       "text": "@LFC Long awaited. So happy for my boy Wirtz !!",
+       "text_zh": "等了好久了，真为我的维尔茨高兴！！",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-spacex-q3-tesla-merger",
+   "region": "west",
+   "categories": [
+    "科技/AI"
+   ],
+   "title_zh": "SpaceX 三季度营收 146 亿美元超预期，马斯克谈与特斯拉合并“不是板上钉钉”",
+   "summary_zh": "SpaceX 公布 2026 年第三季度业绩：营收约 146 亿美元，同比增长 161%，据 X 新闻摘要，其中 AI 业务（Super Intelligence）收入超过星链。马斯克在电话会上表示特斯拉和 SpaceX 已应股东要求各自成立特别委员会讨论合并，但“不应假定合并是确定的事”，并称 2028 年万亿美元营收“不再是不可能”。",
+   "why_youth_zh": "日本、韩国趋势榜都出现了“スペースX / 스페이스X”。科技圈年轻人一边转发“万亿营收”的豪言，一边玩梗吐槽（“飞行汽车都来了我还没女朋友”），讨论也迅速政治化。",
+   "keywords": [
+    "SpaceX",
+    "Q3",
+    "earnings",
+    "Tesla",
+    "merger",
+    "Elon Musk",
+    "Starlink"
+   ],
+   "trend_hits": [
+    "日本：スペースX",
+    "韩国：스페이스X"
+   ],
+   "rank": 5,
+   "heat": {
+    "post_count": 33667,
+    "query": "((SpaceX (earnings OR Q3 OR revenue OR merger OR Tesla)) OR スペースX OR 스페이스X)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112666467712073815",
+     "url": "https://x.com/elonmusk/status/2112666467712073815",
+     "author": {
+      "username": "elonmusk",
+      "name": "Elon Musk",
+      "followers": 241515995
+     },
+     "created_at": "2026-10-20T22:05:12.000Z",
+     "lang": "en",
+     "text": "As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible https://t.co/jF3Wue95nL",
+     "text_zh": "听起来很疯狂，但 SpaceX 在 2028 年实现 1 万亿美元营收已经不再是不可能的了",
+     "metrics": {
+      "likes": 26541,
+      "reposts": 2293,
+      "replies": 1982,
+      "quotes": 414,
+      "views": 1224720,
+      "bookmarks": 873
+     },
+     "replies": [
+      {
+       "id": "2112676476944527469",
+       "url": "https://x.com/FreeDriftwood/status/2112676476944527469",
+       "author": {
+        "username": "FreeDriftwood",
+        "name": "Zak"
+       },
+       "created_at": "2026-10-20T22:44:58.000Z",
+       "lang": "en",
+       "text": "@elonmusk The left are going full Shania Twain....no matter what Elon does it's,  \"ThAt DoNt ImPrEsS mE mUcH\"",
+       "text_zh": "左派现在全成了仙妮亚·唐恩……不管埃隆做什么，都是“那也没让我多佩服”【译注：化用 Shania Twain 的歌《That Don't Impress Me Much》】",
+       "likes": 7
+      },
+      {
+       "id": "2112676520783405303",
+       "url": "https://x.com/XMANLIVE/status/2112676520783405303",
+       "author": {
+        "username": "XMANLIVE",
+        "name": "XMAN LIVE"
+       },
+       "created_at": "2026-10-20T22:45:08.000Z",
+       "lang": "en",
+       "text": "@elonmusk Starlink, launch, and AI compute all scaling at the same time makes that number feel a lot less crazy. Houston will be watching every quarter. 🚀",
+       "text_zh": "星链、发射和 AI 算力同时在扩张，这个数字就没那么疯狂了。休斯敦会盯着每一个季度。🚀",
+       "likes": 3
+      },
+      {
+       "id": "2112676350691565784",
+       "url": "https://x.com/245svj/status/2112676350691565784",
+       "author": {
+        "username": "245svj",
+        "name": "245 svj ¢‿¢"
+       },
+       "created_at": "2026-10-20T22:44:28.000Z",
+       "lang": "en",
+       "text": "@elonmusk We got flying cars before I got a girlfriend (not even held a girl hand tbh 22 years)",
+       "text_zh": "飞行汽车都来了，我还没交到女朋友（说实话活了 22 年连女生的手都没牵过）",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112637226173472826",
+     "url": "https://x.com/Polymarket/status/2112637226173472826",
+     "author": {
+      "username": "Polymarket",
+      "name": "Polymarket",
+      "followers": 2030661
+     },
+     "created_at": "2026-10-20T20:09:00.000Z",
+     "lang": "en",
+     "text": "BREAKING: SpaceX crushes Wall Street revenue expectations, bringing in $14,580,000,000.00 in Q3.",
+     "text_zh": "突发：SpaceX 第三季度营收 145.8 亿美元，大幅超出华尔街预期。",
+     "metrics": {
+      "likes": 10156,
+      "reposts": 610,
+      "replies": 108,
+      "quotes": 74,
+      "views": 361153,
+      "bookmarks": 253
+     },
+     "replies": [
+      {
+       "id": "2112645469340127468",
+       "url": "https://x.com/JustinSS55/status/2112645469340127468",
+       "author": {
+        "username": "JustinSS55",
+        "name": "YVY"
+       },
+       "created_at": "2026-10-20T20:41:45.000Z",
+       "lang": null,
+       "text": "@Polymarket And when the dems win midterms does that go to zero",
+       "text_zh": "等民主党赢了中期选举，这会不会归零",
+       "likes": 4
+      },
+      {
+       "id": "2112642067578892611",
+       "url": "https://x.com/RealAndrewEy/status/2112642067578892611",
+       "author": {
+        "username": "RealAndrewEy",
+        "name": "AJ"
+       },
+       "created_at": "2026-10-20T20:28:14.000Z",
+       "lang": null,
+       "text": "@Polymarket Is this revenue in the room with us now",
+       "text_zh": "这营收现在跟我们在同一个房间里吗【译注：“X is in the room with us now?”是质疑某物是否真实存在的网络梗】",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112641741937635789",
+     "url": "https://x.com/SpaceX/status/2112641741937635789",
+     "author": {
+      "username": "SpaceX",
+      "name": "SpaceX",
+      "followers": 41929348
+     },
+     "created_at": "2026-10-20T20:26:56.000Z",
+     "lang": "en",
+     "text": "Q3 2026 Financial and Operational Results https://t.co/Qrb0qeVG15",
+     "text_zh": "2026 年第三季度财务与运营业绩",
+     "metrics": {
+      "likes": 9501,
+      "reposts": 1321,
+      "replies": 779,
+      "quotes": 262,
+      "views": 425986,
+      "bookmarks": 1421
+     },
+     "replies": [
+      {
+       "id": "2112651365818544341",
+       "url": "https://x.com/adamwash/status/2112651365818544341",
+       "author": {
+        "username": "adamwash",
+        "name": "Adam Washburn"
+       },
+       "created_at": "2026-10-20T21:05:11.000Z",
+       "lang": "en",
+       "text": "@SpaceX If all I do is win was an earnings call. Sheesh.",
+       "text_zh": "如果《All I Do Is Win》是一场财报电话会。啧啧。【译注：《All I Do Is Win》意为“我只会赢”，是一首说唱歌曲】",
+       "likes": 4
+      },
+      {
+       "id": "2112681252696240372",
+       "url": "https://x.com/LoveIbiza123/status/2112681252696240372",
+       "author": {
+        "username": "LoveIbiza123",
+        "name": "Larissa ❤️"
+       },
+       "created_at": "2026-10-20T23:03:57.000Z",
+       "lang": null,
+       "text": "@SpaceX $14.6B in revenue, up 161% year over year, plus the first revenue-generating Starship mission. What a quarter, SpaceX team! Reading this after midnight with the biggest smile 🚀",
+       "text_zh": "营收 146 亿美元，同比增长 161%，外加首次产生收入的星舰任务。多么出色的一个季度，SpaceX 团队！半夜读到这个笑得合不拢嘴 🚀",
+       "likes": 2
+      },
+      {
+       "id": "2112687042639634550",
+       "url": "https://x.com/Osa_fan/status/2112687042639634550",
+       "author": {
+        "username": "Osa_fan",
+        "name": "Osa Odighizuwa Fan"
+       },
+       "created_at": "2026-10-20T23:26:57.000Z",
+       "lang": null,
+       "text": "@SpaceX That’s what a well-run corporation looks like.",
+       "text_zh": "这才是一家经营良好的公司该有的样子。",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112656640180904002",
+     "url": "https://x.com/SawyerMerritt/status/2112656640180904002",
+     "author": {
+      "username": "SawyerMerritt",
+      "name": "Sawyer Merritt",
+      "followers": 1149505
+     },
+     "created_at": "2026-10-20T21:26:08.000Z",
+     "lang": "en",
+     "text": "Elon Musk today on a potential merger between SpaceX and Tesla:\n\n\"Both Tesla and SpaceX have formed special committees at the request of shareholders. Because I'm a conflicted party I can't be in on these discussions. I don't think we should assume that a merger is a certainty. https://t.co/Aerc1PxA8P",
+     "text_zh": "埃隆·马斯克今天谈 SpaceX 与特斯拉的潜在合并：\n\n“特斯拉和 SpaceX 都已应股东要求成立了特别委员会。因为我是利益冲突方，所以不能参与这些讨论。我认为不应该假定合并是板上钉钉的事。【原文被截断】",
+     "metrics": {
+      "likes": 5305,
+      "reposts": 503,
+      "replies": 146,
+      "quotes": 107,
+      "views": 242579,
+      "bookmarks": 577
+     },
+     "replies": [
+      {
+       "id": "2112665435279630375",
+       "url": "https://x.com/bigpoppad66/status/2112665435279630375",
+       "author": {
+        "username": "bigpoppad66",
+        "name": "Mark"
+       },
+       "created_at": "2026-10-20T22:01:05.000Z",
+       "lang": null,
+       "text": "@SawyerMerritt I wish he would do a tesla earning call like this one.   I can hear him in this one",
+       "text_zh": "真希望他也能像这样开一次特斯拉财报会，这次我能听清他在说什么",
+       "likes": 73
+      },
+      {
+       "id": "2112664010063757315",
+       "url": "https://x.com/Cyb3rBeast/status/2112664010063757315",
+       "author": {
+        "username": "Cyb3rBeast",
+        "name": "AD e/acc"
+       },
+       "created_at": "2026-10-20T21:55:26.000Z",
+       "lang": null,
+       "text": "@SawyerMerritt This is HUGE. Special committees at both Tesla and SpaceX already actively discussing a merger puts this much further along than I expected. Tesla has two major products coming online that will raise its value and make it harder to acquire in the future, now is the time to do",
+       "text_zh": "这是大事。特斯拉和 SpaceX 的特别委员会都已经在积极讨论合并，进展比我预想的快得多。特斯拉有两大产品即将上线，会推高估值、让它未来更难被收购，现在正是时候【原文被截断】",
+       "likes": 11
+      },
+      {
+       "id": "2112665839317250150",
+       "url": "https://x.com/grilldad321/status/2112665839317250150",
+       "author": {
+        "username": "grilldad321",
+        "name": "Eric"
+       },
+       "created_at": "2026-10-20T22:02:42.000Z",
+       "lang": null,
+       "text": "@SawyerMerritt Bad idea. Creates a huge target for Dems when they regain power. They will break it up and it will be distracting and expensive for the missions of the companies.",
+       "text_zh": "馊主意。等民主党重新掌权，这就成了一个巨大的靶子。他们会把它拆分，既分散精力又代价高昂，影响两家公司的使命。",
+       "likes": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west-bbuk-omar-rhianna",
+   "region": "west",
+   "categories": [
+    "娱乐/追星",
+    "社会"
+   ],
+   "title_zh": "英国《老大哥》风波：Omar 对 Rhianna 的“控制行为”被反家暴机构点名，提名反转再惹众怒",
+   "summary_zh": "ITV 版《老大哥》本季中，Omar 多次指责 Rhianna 与其他男性的互动、要求她别跟别人谈论自己，Rhianna 提出分手后节目组在日记室关心了她的状况。观众批评这是胁迫控制，反家暴机构 Women’s Aid 发声警告节目“有把虐待包装成娱乐的风险”，ITV 则表示有 24 小时监控和福利保障。10 月 20 日的提名反转最终让 Catrin、Harry、Sam 和 Twinks 待淘汰，许多观众认为这保护了他们想送走的人。",
+   "why_youth_zh": "英国趋势榜前列几乎被 #bbuk、Yasmin、Rochelle、Catrin、Omar 包场。年轻观众把真人秀当作讨论亲密关系中“控制行为”的现实案例，同时也在吵节目组是否该干预。",
+   "keywords": [
+    "#BBUK",
+    "Big Brother",
+    "Omar",
+    "Rhianna",
+    "Women's Aid",
+    "Twinks",
+    "Yasmin"
+   ],
+   "trend_hits": [
+    "英国：#bbuk / Yasmin / Rochelle / Catrin / Omar"
+   ],
+   "rank": 6,
+   "heat": {
+    "post_count": 25273,
+    "query": "(#BBUK OR \"Big Brother UK\" OR (\"Big Brother\" (Omar OR Rhianna OR Twinks)))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "涉及真人秀中的亲密关系争议，回复区有大量对选手的激烈指责，本页已过滤人身攻击类回复。",
+   "posts": [
+    {
+     "id": "2112528526859546961",
+     "url": "https://x.com/superTV247/status/2112528526859546961",
+     "author": {
+      "username": "superTV247",
+      "name": "sᴜᴘᴇʀ ᴛᴠ",
+      "followers": 60700
+     },
+     "created_at": "2026-10-20T12:57:04.000Z",
+     "lang": "en",
+     "text": "🚨 Women’s Aid have responded to the ‘controlling behaviour being platformed on Big Brother.’ #BBUK\n\n“Not only does Big Brother risk minimising survivors’ experiences, it also risks presenting abuse as a form of entertainment. We must do better to call out and reject abuse as https://t.co/BSq8SurovQ",
+     "text_zh": "🚨 反家暴机构 Women’s Aid 回应了“《老大哥》为控制行为提供舞台”一事。#BBUK\n\n“《老大哥》不仅有淡化幸存者经历的风险，还有把虐待包装成娱乐的风险。我们必须做得更好，在看到虐待时就指出并拒绝它【原文被截断】",
+     "metrics": {
+      "likes": 2776,
+      "reposts": 345,
+      "replies": 28,
+      "quotes": 21,
+      "views": 63475,
+      "bookmarks": 140
+     },
+     "replies": [
+      {
+       "id": "2112611970675335400",
+       "url": "https://x.com/KaiAnders_/status/2112611970675335400",
+       "author": {
+        "username": "KaiAnders_",
+        "name": "Kai Anders"
+       },
+       "created_at": "2026-10-20T18:28:38.000Z",
+       "lang": null,
+       "text": "@superTV247 Am I the only one that thinks it’s sometimes necessary to air these moments? It brings LIGHT to coercive issues and might help others to recognise this in their own circumstances. Big Brother did intervene too?",
+       "text_zh": "只有我觉得有时候播出这些片段是必要的吗？这能让胁迫控制的问题被看见，也许还能帮其他人在自己的生活里认出这种行为。而且《老大哥》也确实介入了吧？",
+       "likes": 3
+      },
+      {
+       "id": "2112639075039781354",
+       "url": "https://x.com/reallycheesytoe/status/2112639075039781354",
+       "author": {
+        "username": "reallycheesytoe",
+        "name": "g 🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+       },
+       "created_at": "2026-10-20T20:16:21.000Z",
+       "lang": null,
+       "text": "@KaiAnders_ @superTV247 yeah but rhianna isn’t an actor, she’s a real person who will be affected by this afterwards",
+       "text_zh": "话是这么说，但 Rhianna 不是演员，她是真实的人，节目结束后她会受到影响的",
+       "likes": 1
+      },
+      {
+       "id": "2112607442865688603",
+       "url": "https://x.com/jonathan_lumb/status/2112607442865688603",
+       "author": {
+        "username": "jonathan_lumb",
+        "name": "Jonathan Lumb"
+       },
+       "created_at": "2026-10-20T18:10:39.000Z",
+       "lang": null,
+       "text": "@superTV247 I think as a social experiment it's good that women can observe this behaviour and protect themselves in the future. The main issue is when will Omar be held accountable on live TV. He needs to learn how disgusting his behaviour is in the full spotlight of a TV interview.",
+       "text_zh": "作为一场社会实验，我觉得让女性看清这种行为、以后懂得保护自己是好事。主要问题是 Omar 什么时候会在直播里被问责。他需要在电视采访的聚光灯下认识到自己的行为有多恶心。",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112643534851633196",
+     "url": "https://x.com/superTV247/status/2112643534851633196",
+     "author": {
+      "username": "superTV247",
+      "name": "sᴜᴘᴇʀ ᴛᴠ",
+      "followers": 60700
+     },
+     "created_at": "2026-10-20T20:34:04.000Z",
+     "lang": "en",
+     "text": "YASMIN SAVED PHILIP AND ROCHELLE? #BBUK https://t.co/w4GLTZvcwb",
+     "text_zh": "Yasmin 救了 Philip 和 Rochelle？#BBUK",
+     "metrics": {
+      "likes": 2308,
+      "reposts": 89,
+      "replies": 64,
+      "quotes": 29,
+      "views": 50266,
+      "bookmarks": 31
+     },
+     "replies": [
+      {
+       "id": "2112648564266684698",
+       "url": "https://x.com/sabrinajaine/status/2112648564266684698",
+       "author": {
+        "username": "sabrinajaine",
+        "name": "Scare-brina 🎃"
+       },
+       "created_at": "2026-10-20T20:54:03.000Z",
+       "lang": "en",
+       "text": "@superTV247 This is a sad indictment of her self-worth tbh, if she had any respect for herself she'd want Rochelle out after all the fat-shaming comments she's made",
+       "text_zh": "说实话这挺可悲的，说明她太不看重自己了。如果她有一点自尊，Rochelle 说了那么多身材羞辱的话，她就该想让 Rochelle 走人",
+       "likes": 31
+      },
+      {
+       "id": "2112648675344130152",
+       "url": "https://x.com/Lili7381864265/status/2112648675344130152",
+       "author": {
+        "username": "Lili7381864265",
+        "name": "Botkon 🐯"
+       },
+       "created_at": "2026-10-20T20:54:29.000Z",
+       "lang": "en",
+       "text": "@superTV247 She is no longer my winner. Sam or twinks to win.",
+       "text_zh": "她不再是我心中的冠军了。Sam 或 Twinks 夺冠吧。",
+       "likes": 10
+      },
+      {
+       "id": "2112652390872580134",
+       "url": "https://x.com/Rindercella10/status/2112652390872580134",
+       "author": {
+        "username": "Rindercella10",
+        "name": "MirabelAtom"
+       },
+       "created_at": "2026-10-20T21:09:15.000Z",
+       "lang": "en",
+       "text": "@superTV247 Yep.  She is so utterly disappointing.",
+       "text_zh": "是啊，她太让人失望了。",
+       "likes": 5
+      }
+     ]
+    },
+    {
+     "id": "2112519826027475087",
+     "url": "https://x.com/bbuk/status/2112519826027475087",
+     "author": {
+      "username": "bbuk",
+      "name": "Big Brother UK",
+      "followers": 1146961
+     },
+     "created_at": "2026-10-20T12:22:29.000Z",
+     "lang": "en",
+     "text": "Sneak Peek 👀 It's time for a Nominations twist... and the Housemates are ticked off 😵‍💫 #BBUK https://t.co/T7LiHVB05h",
+     "text_zh": "抢先看 👀 提名环节要来个反转了……室友们都气坏了 😵‍💫 #BBUK",
+     "metrics": {
+      "likes": 1117,
+      "reposts": 49,
+      "replies": 168,
+      "quotes": 72,
+      "views": 265084,
+      "bookmarks": 227
+     },
+     "replies": [
+      {
+       "id": "2112529250297303204",
+       "url": "https://x.com/YorkshireMag_/status/2112529250297303204",
+       "author": {
+        "username": "YorkshireMag_",
+        "name": "."
+       },
+       "created_at": "2026-10-20T12:59:56.000Z",
+       "lang": "en",
+       "text": "@bbuk Just give us a public vote that has EVERYONE up for eviction so we can show the outsiders they are actually liked!",
+       "text_zh": "直接搞个所有人都待淘汰的公开投票吧，让我们向那些被孤立的人证明观众其实喜欢他们！",
+       "likes": 98
+      },
+      {
+       "id": "2112528956461355144",
+       "url": "https://x.com/xelocin/status/2112528956461355144",
+       "author": {
+        "username": "xelocin",
+        "name": "don’t even joke, lad 🐥"
+       },
+       "created_at": "2026-10-20T12:58:46.000Z",
+       "lang": "en",
+       "text": "@bbuk Where is Philip’s formal warning Where is Rochelle’s formal warning? Philchelle are busy discussing nominations and they go unpunished. How come?",
+       "text_zh": "Philip 的正式警告呢？Rochelle 的正式警告呢？Philchelle 忙着讨论提名却不受任何惩罚，凭什么？【译注：Philchelle 是 Philip 和 Rochelle 的组合称呼】",
+       "likes": 95
+      },
+      {
+       "id": "2112528748595605714",
+       "url": "https://x.com/PostFromProtest/status/2112528748595605714",
+       "author": {
+        "username": "PostFromProtest",
+        "name": "Postcards From Protest"
+       },
+       "created_at": "2026-10-20T12:57:57.000Z",
+       "lang": "en",
+       "text": "@bbuk Messing with nominations is a viewer turn off. Failure to act on Omar's behaviour is also a turn off. Fast becoming one of the least enjoyable series ever.",
+       "text_zh": "乱改提名规则会劝退观众，对 Omar 的行为不作为也一样劝退。这季正迅速变成史上最难看的一季之一。",
+       "likes": 68
+      },
+      {
+       "id": "2112526656459928055",
+       "url": "https://x.com/xxncisaddictxx/status/2112526656459928055",
+       "author": {
+        "username": "xxncisaddictxx",
+        "name": "💜⁷🫰Kerry J ⫩💙 ⊙⊝⊜"
+       },
+       "created_at": "2026-10-20T12:49:38.000Z",
+       "lang": "en",
+       "text": "@bbuk Listen to the fans for once @ITV @bbuk Omar should have been kicked out! Your so called respect training did nothing 🤦‍♀️",
+       "text_zh": "@ITV @bbuk 就听粉丝一次吧！Omar 早该被赶出去了！你们所谓的“尊重培训”一点用都没有 🤦‍♀️",
+       "likes": 36
+      }
+     ]
+    },
+    {
+     "id": "2112644698053730534",
+     "url": "https://x.com/superTV247/status/2112644698053730534",
+     "author": {
+      "username": "superTV247",
+      "name": "sᴜᴘᴇʀ ᴛᴠ",
+      "followers": 60700
+     },
+     "created_at": "2026-10-20T20:38:41.000Z",
+     "lang": "en",
+     "text": "🚨 CATRIN, HARRY, SAM & TWINKS have been nominated for eviction this week 🚨 \n\nThis Friday, ONE HOUSEMATE will be evicted from the Big Brother House. #BBUK https://t.co/COUZM85ucQ",
+     "text_zh": "🚨 CATRIN、HARRY、SAM 和 TWINKS 本周被提名待淘汰 🚨\n\n本周五，将有一名室友被淘汰出《老大哥》之家。#BBUK",
+     "metrics": {
+      "likes": 725,
+      "reposts": 23,
+      "replies": 272,
+      "quotes": 229,
+      "views": 176529,
+      "bookmarks": 53
+     },
+     "replies": [
+      {
+       "id": "2112649013350592949",
+       "url": "https://x.com/ESCMattUK/status/2112649013350592949",
+       "author": {
+        "username": "ESCMattUK",
+        "name": "ESC Matt UK 🇬🇧"
+       },
+       "created_at": "2026-10-20T20:55:50.000Z",
+       "lang": "en",
+       "text": "@superTV247 Rhianna nominating Twinks and Catrin even when they were trying to help her deal with her abusive partner #bbuk",
+       "text_zh": "Twinks 和 Catrin 一直在帮 Rhianna 应对她那个施虐的伴侣，结果 Rhianna 还是提名了她俩 #bbuk",
+       "likes": 582
+      },
+      {
+       "id": "2112650968928231661",
+       "url": "https://x.com/NathanLomaxFay/status/2112650968928231661",
+       "author": {
+        "username": "NathanLomaxFay",
+        "name": "Nathan Lomax-Fay"
+       },
+       "created_at": "2026-10-20T21:03:36.000Z",
+       "lang": "en",
+       "text": "@superTV247 My God, the final is going to be full of the most vile, abysmal group of people in Big Brother history at this rate. 😩",
+       "text_zh": "天哪，照这样下去，决赛圈将是《老大哥》史上最恶劣、最糟糕的一群人。😩",
+       "likes": 85
+      },
+      {
+       "id": "2112654085988200631",
+       "url": "https://x.com/darrenfisher/status/2112654085988200631",
+       "author": {
+        "username": "darrenfisher",
+        "name": "Darren"
+       },
+       "created_at": "2026-10-20T21:15:59.000Z",
+       "lang": "en",
+       "text": "@superTV247 Yasmin out next week I’ve never seen a housemate fall from grace so fast",
+       "text_zh": "下周 Yasmin 出局。我从没见过哪个室友人设崩得这么快",
+       "likes": 30
+      },
+      {
+       "id": "2112654075502174538",
+       "url": "https://x.com/nae9889/status/2112654075502174538",
+       "author": {
+        "username": "nae9889",
+        "name": "Nae 🦋"
+       },
+       "created_at": "2026-10-20T21:15:57.000Z",
+       "lang": "en",
+       "text": "@superTV247 It’s getting uncomfortable and unbearable to watch, production need to intervene with the bullying also 😴",
+       "text_zh": "越来越让人不适、看不下去了，节目组也得出面管管霸凌 😴",
+       "likes": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-yona-sequel-pierrot-films",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫"
+   ],
+   "title_zh": "《晨曦公主》续篇动画确定由 PIERROT FILMS 制作，粉丝等了 11 年",
+   "summary_zh": "《晨曦公主（暁のヨナ）》动画官方账号宣布，续篇动画由 PIERROT FILMS（《死神：千年血战篇》制作方）负责。据 X 新闻摘要，消息恰逢草凪瑞穗连载 16 年的原作漫画最终第 48 卷发售；第一季 24 集于 2014–2015 年播出，续篇的制作阵容和播出时间尚未公布。",
+   "why_youth_zh": "“这是我的青春”是评论区高频句。对二十多岁的动画粉来说，停播十多年的作品被同一家公司接回来，是“童年回来了”的集体情绪，英文圈也在刷“下一部该轮到哪部老番了”。",
+   "keywords": [
+    "暁のヨナ",
+    "Yona of the Dawn",
+    "Akatsuki no Yona",
+    "PIERROT FILMS"
+   ],
+   "trend_hits": [],
+   "rank": 1,
+   "heat": {
+    "post_count": 23795,
+    "query": "(暁のヨナ OR \"Yona of the Dawn\" OR \"Akatsuki no Yona\")",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112348074282541400",
+     "url": "https://x.com/yona_anime/status/2112348074282541400",
+     "author": {
+      "username": "yona_anime",
+      "name": "TVアニメ「暁のヨナ」公式",
+      "followers": 64814
+     },
+     "created_at": "2026-10-20T01:00:01.000Z",
+     "lang": "ja",
+     "text": ".˚⊹⁺‧┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n「暁のヨナ」新情報解禁！\n続編のアニメーション制作は\n「PIERROT FILMS」に決定！\n\n.˚⊹⁺‧┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n#暁のヨナ",
+     "text_zh": ".˚⊹⁺‧┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n「晨曦公主」新消息解禁！\n续篇的动画制作\n确定由「PIERROT FILMS」负责！\n\n.˚⊹⁺‧┈┈┈┈┈┈┈┈‧⁺ ⊹˚.\n\n#暁のヨナ",
+     "metrics": {
+      "likes": 33859,
+      "reposts": 9533,
+      "replies": 86,
+      "quotes": 2540,
+      "views": 1468783,
+      "bookmarks": 1853
+     },
+     "replies": [
+      {
+       "id": "2112352965336150494",
+       "url": "https://x.com/amuto_rei0/status/2112352965336150494",
+       "author": {
+        "username": "amuto_rei0",
+        "name": "wotaku_daze"
+       },
+       "created_at": "2026-10-20T01:19:27.000Z",
+       "lang": "ja",
+       "text": "@yona_anime めちゃくちゃ嬉しい\n楽しみすぎます\n24話ずつ是非、最終巻までアニメで\n拝見できますように🙇‍♀️\nわがままなお願いですが、どうか作画もシーンもそのままで！！\nまずは火の部族、水の部族のナダイ編などなど。美しいアクションシーンや、心理描写、舞のシーンがカット無しで見れますように…お願いします",
+       "text_zh": "超级开心\n太期待了\n希望每季 24 集，一直做到最终卷\n让我能看到🙇‍♀️\n这是个任性的请求，但请务必保持作画和剧情原汁原味！！\n先从火之部族、水之部族的那岱篇等等开始。希望那些美丽的动作场面、心理描写和舞蹈场景都能不删减地呈现……拜托了",
+       "likes": 123
+      },
+      {
+       "id": "2112358128927101213",
+       "url": "https://x.com/QCgljlXW6q52ueB/status/2112358128927101213",
+       "author": {
+        "username": "QCgljlXW6q52ueB",
+        "name": "らら"
+       },
+       "created_at": "2026-10-20T01:39:58.000Z",
+       "lang": "ja",
+       "text": "@yona_anime すごく嬉しいです！前回のアニメが神で、いまだ繰り返し観ています。原作もアニメも両方愛せて、本当に幸せです。楽しみに続報お待ちしております✨",
+       "text_zh": "太开心了！上一部动画简直是神作，我到现在还在反复看。原作和动画都能爱，真的很幸福。期待后续消息✨",
+       "likes": 19
+      },
+      {
+       "id": "2112493615637471720",
+       "url": "https://x.com/CECIL13618145/status/2112493615637471720",
+       "author": {
+        "username": "CECIL13618145",
+        "name": "CECIL🍑"
+       },
+       "created_at": "2026-10-20T10:38:20.000Z",
+       "lang": "ja",
+       "text": "@yona_anime 嬉しいです😭😭\n私の青春でした✨✨\n声優さんはそのままで完結までお願いします🙇🏻‍♀️",
+       "text_zh": "好开心😭😭\n这是我的青春✨✨\n请保持原班声优一直做到完结🙇🏻‍♀️",
+       "likes": 2
+      },
+      {
+       "id": "2112559012671803646",
+       "url": "https://x.com/AniWireDaily/status/2112559012671803646",
+       "author": {
+        "username": "AniWireDaily",
+        "name": "AniWire"
+       },
+       "created_at": "2026-10-20T14:58:12.000Z",
+       "lang": "en",
+       "text": "@yona_anime a decade of waiting and PIERROT FILMS gets the keys. yona fans are SO back",
+       "text_zh": "等了十年，钥匙交到了 PIERROT FILMS 手里。Yona 粉丝们全回来了",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112381328461078795",
+     "url": "https://x.com/animetv_jp/status/2112381328461078795",
+     "author": {
+      "username": "animetv_jp",
+      "name": "AnimeTV チェーン",
+      "followers": 1647877
+     },
+     "created_at": "2026-10-20T03:12:09.000Z",
+     "lang": "en",
+     "text": "Studio PIERROT FILMS to animate the sequel to Yona of the Dawn!\n\nStay tuned for more information. \n\n✨More: https://t.co/5eWtszL2XQ https://t.co/6ztodJWMSP",
+     "text_zh": "PIERROT FILMS 工作室将制作《晨曦公主》续篇动画！\n\n更多消息敬请期待。",
+     "metrics": {
+      "likes": 4251,
+      "reposts": 623,
+      "replies": 28,
+      "quotes": 171,
+      "views": 112782,
+      "bookmarks": 295
+     },
+     "replies": [
+      {
+       "id": "2112400844045844829",
+       "url": "https://x.com/QEDreal/status/2112400844045844829",
+       "author": {
+        "username": "QEDreal",
+        "name": "Q.E.D"
+       },
+       "created_at": "2026-10-20T04:29:42.000Z",
+       "lang": null,
+       "text": "@animetv_jp The real slow burn in Yona of the Dawn was never Hak and Yona. It's a production committee taking 11 years to greenlight the sequel to an anime that basically ended on 'read the manga.' Four dragons got recruited faster than one season 2.",
+       "text_zh": "《晨曦公主》里真正的“慢热”从来不是哈克和尤娜，而是制作委员会花了 11 年才批准续篇——而第一季基本上是以“去看漫画吧”收尾的。招齐四龙都比等第二季快。",
+       "likes": 12
+      },
+      {
+       "id": "2112530879771980222",
+       "url": "https://x.com/AniGemExplorer/status/2112530879771980222",
+       "author": {
+        "username": "AniGemExplorer",
+        "name": "Anime Gems | アニジェム"
+       },
+       "created_at": "2026-10-20T13:06:25.000Z",
+       "lang": null,
+       "text": "@animetv_jp I love seeing older anime finally getting another chance to continue their stories. More than 10 years is quite a wait!",
+       "text_zh": "很高兴看到老动画终于有机会把故事续下去。等了十多年，真是太久了！",
+       "likes": 2
+      },
+      {
+       "id": "2112530280527319197",
+       "url": "https://x.com/YUMEp_off/status/2112530280527319197",
+       "author": {
+        "username": "YUMEp_off",
+        "name": "YUME☁️||🧋🍅🍡||"
+       },
+       "created_at": "2026-10-20T13:04:02.000Z",
+       "lang": null,
+       "text": "@babykatakuri @animetv_jp Season 1 was Pierrot too, so we can only hope they will treat it carefully as a big title in the industry.",
+       "text_zh": "第一季也是 Pierrot 做的，只能希望他们把它当作业内大作好好对待。",
+       "likes": 2
+      }
+     ]
+    },
+    {
+     "id": "2112363576845271172",
+     "url": "https://x.com/AnimeTokki/status/2112363576845271172",
+     "author": {
+      "username": "AnimeTokki",
+      "name": "Anime Tokki",
+      "followers": 79764
+     },
+     "created_at": "2026-10-20T02:01:37.000Z",
+     "lang": "en",
+     "text": "Studio Pierrot Films has now brought back 2 Major Titles that were on hiatus for 10+ years.\n\n- BLEACH: Thousand-Year Blood War\n- Akatsuki no Yona (Season 2) https://t.co/0yqUHLuJKU",
+     "text_zh": "Pierrot Films 工作室已经让两部停播 10 年以上的大作回归了：\n\n- 《死神：千年血战篇》\n- 《晨曦公主》（第二季）",
+     "metrics": {
+      "likes": 1971,
+      "reposts": 240,
+      "replies": 12,
+      "quotes": 66,
+      "views": 27961,
+      "bookmarks": 176
+     },
+     "replies": [
+      {
+       "id": "2112546256346087617",
+       "url": "https://x.com/DrPocchama/status/2112546256346087617",
+       "author": {
+        "username": "DrPocchama",
+        "name": "Dr Nekketsu🧑🏻‍⚕️"
+       },
+       "created_at": "2026-10-20T14:07:31.000Z",
+       "lang": null,
+       "text": "@AnimeTokki Now they only have one last show to bring back(and the most important one)😌 https://t.co/H3IHhAlki4",
+       "text_zh": "现在他们只剩最后一部要带回来了（也是最重要的一部）😌",
+       "likes": 11
+      },
+      {
+       "id": "2112508520960835782",
+       "url": "https://x.com/lil_dragneel8/status/2112508520960835782",
+       "author": {
+        "username": "lil_dragneel8",
+        "name": "death dragneel"
+       },
+       "created_at": "2026-10-20T11:37:34.000Z",
+       "lang": null,
+       "text": "@AnimeTokki Please bring back twin star exorcist🙏🙏🙏🙏",
+       "text_zh": "求求把《双星之阴阳师》也带回来🙏🙏🙏🙏",
+       "likes": 2
+      },
+      {
+       "id": "2112654135527194728",
+       "url": "https://x.com/prophecy_profit/status/2112654135527194728",
+       "author": {
+        "username": "prophecy_profit",
+        "name": "Profit_of_Prophecy"
+       },
+       "created_at": "2026-10-20T21:16:11.000Z",
+       "lang": null,
+       "text": "@AnimeTokki Can Studio Pierrot get the rights to Magi? https://t.co/yBx3tYMzBA",
+       "text_zh": "Pierrot 能拿到《魔笛 MAGI》的版权吗？",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-jojo-world-osaka-kars",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫"
+   ],
+   "title_zh": "荒木飞吕彦为“THE★JOJO WORLD OSAKA”新画卡兹，大阪展主打反派",
+   "summary_zh": "JOJO 主题设施“THE★JOJO WORLD OSAKA”将于 2026 年 12 月 4 日开业，官方公开了荒木飞吕彦全新绘制的第二部反派卡兹。据 X 新闻摘要，大阪店以“恶之世界”为主题，与东京店主打主角不同，设有迪奥雕像、反派诊断等内容，后续还会公开更多新图。",
+   "why_youth_zh": "荒木的新图每次都会被 JOJO 粉逐帧研究：卡兹这次拿的是不是剑、为什么画得这么性感、头巾是不是越画越小，以及“什么时候画迪亚波罗”。",
+   "keywords": [
+    "THE★JOJO WORLD",
+    "荒木飛呂彦",
+    "カーズ",
+    "Kars",
+    "JOJO"
+   ],
+   "trend_hits": [],
+   "rank": 2,
+   "heat": {
+    "post_count": 3700,
+    "query": "(THEJOJOWORLD OR \"JOJO WORLD\" OR (荒木 カーズ) OR (Araki Kars))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "本话题仅找到 2 条高互动帖子（官方公告及英文搬运），按规则减量收录。",
+   "posts": [
+    {
+     "id": "2112378283903848784",
+     "url": "https://x.com/THE_JOJO_WORLD/status/2112378283903848784",
+     "author": {
+      "username": "THE_JOJO_WORLD",
+      "name": "【公式】THE★JOJO WORLD(ザ ジョジョワールド)／『ジョジョの奇妙な冒険』公式ショップ",
+      "followers": 97409
+     },
+     "created_at": "2026-10-20T03:00:03.000Z",
+     "lang": "ja",
+     "text": "★━━━━━━━━━━━━★\n　　  THE★JOJO WORLD 　 \n   荒木先生新規描き下ろし公開 \n　 　  　　   カーズ\n★━━━━━━━━━━━━★\n\n2026年12月4日(金)\nTHE★JOJO WORLD OSAKA OPEN！\n\n☑️公式サイト\nhttps://t.co/YSf25Icven\n\n#THEJOJOWORLD #jojo_anime https://t.co/rtxCzJBjy4",
+     "text_zh": "★━━━━━━━━━━━━★\n　THE★JOJO WORLD\n　荒木老师全新绘制插画公开\n　卡兹\n★━━━━━━━━━━━━★\n\n2026 年 12 月 4 日（周五）\nTHE★JOJO WORLD OSAKA 开幕！\n\n☑️官方网站（见链接）\n\n#THEJOJOWORLD #jojo_anime",
+     "metrics": {
+      "likes": 17520,
+      "reposts": 2842,
+      "replies": 180,
+      "quotes": 1088,
+      "views": 899908,
+      "bookmarks": 1060
+     },
+     "replies": [
+      {
+       "id": "2112385602184442283",
+       "url": "https://x.com/monf_SIRO/status/2112385602184442283",
+       "author": {
+        "username": "monf_SIRO",
+        "name": "モンフシロウ"
+       },
+       "created_at": "2026-10-20T03:29:08.000Z",
+       "lang": "ja",
+       "text": "@THE_JOJO_WORLD 「武器は剣なのか？」",
+       "text_zh": "“武器是剑吗？”",
+       "likes": 39
+      },
+      {
+       "id": "2112386852724314240",
+       "url": "https://x.com/Jeromino_/status/2112386852724314240",
+       "author": {
+        "username": "Jeromino_",
+        "name": "Jeromino🧈"
+       },
+       "created_at": "2026-10-20T03:34:06.000Z",
+       "lang": "en",
+       "text": "@THE_JOJO_WORLD @jojo_wiki So we’re finally getting the confirmation that Howler is the main antagonist of part 9, riiiiight?",
+       "text_zh": "所以我们终于得到确认，Howler 就是第 9 部的主要反派了，对吧？",
+       "likes": 25
+      },
+      {
+       "id": "2112388008041431523",
+       "url": "https://x.com/O1zUzJJYRn7WDbi/status/2112388008041431523",
+       "author": {
+        "username": "O1zUzJJYRn7WDbi",
+        "name": "堕落辺獄"
+       },
+       "created_at": "2026-10-20T03:38:42.000Z",
+       "lang": "ja",
+       "text": "@THE_JOJO_WORLD なんかやたらセクシーで草",
+       "text_zh": "怎么画得格外性感，笑死",
+       "likes": 11
+      },
+      {
+       "id": "2112386213441138801",
+       "url": "https://x.com/felix_mcfelix/status/2112386213441138801",
+       "author": {
+        "username": "felix_mcfelix",
+        "name": "𝕛𝕒𝕕𝕖𝕟 ツ "
+       },
+       "created_at": "2026-10-20T03:31:34.000Z",
+       "lang": "en",
+       "text": "@THE_JOJO_WORLD YES WE ARE GETTING ALL THE VILLAINS",
+       "text_zh": "太好了，所有反派都要画了",
+       "likes": 5
+      }
+     ]
+    },
+    {
+     "id": "2112385833168945542",
+     "url": "https://x.com/jojo_wiki/status/2112385833168945542",
+     "author": {
+      "username": "jojo_wiki",
+      "name": "JoJo's Bizarre Encyclopedia",
+      "followers": 103816
+     },
+     "created_at": "2026-10-20T03:30:03.000Z",
+     "lang": "tl",
+     "text": "Hirohiko Araki's new art of Kars for THE★JOJO WORLD OSAKA https://t.co/EH0m0nZCDB https://t.co/xDJt4Okys9",
+     "text_zh": "荒木飞吕彦为 THE★JOJO WORLD OSAKA 新画的卡兹",
+     "metrics": {
+      "likes": 8330,
+      "reposts": 919,
+      "replies": 34,
+      "quotes": 142,
+      "views": 131807,
+      "bookmarks": 538
+     },
+     "replies": [
+      {
+       "id": "2112460897109049426",
+       "url": "https://x.com/YoFlaqz/status/2112460897109049426",
+       "author": {
+        "username": "YoFlaqz",
+        "name": "Flaqz"
+       },
+       "created_at": "2026-10-20T08:28:20.000Z",
+       "lang": null,
+       "text": "@jojo_wiki Cant wait for Toru",
+       "text_zh": "等不及看到 Toru 了",
+       "likes": 8
+      },
+      {
+       "id": "2112492087966867819",
+       "url": "https://x.com/Eli_DEVITTwo/status/2112492087966867819",
+       "author": {
+        "username": "Eli_DEVITTwo",
+        "name": "Elijah Campbell"
+       },
+       "created_at": "2026-10-20T10:32:16.000Z",
+       "lang": null,
+       "text": "@jojo_wiki Every single expo his head wrap shrinks. Araki really regretted drawing that shit lmmmaoooo.",
+       "text_zh": "每次展览他的头巾都在变小。荒木真的后悔画那玩意儿了哈哈哈哈",
+       "likes": 1
+      },
+      {
+       "id": "2112691878869287200",
+       "url": "https://x.com/PissAnderson/status/2112691878869287200",
+       "author": {
+        "username": "PissAnderson",
+        "name": "Piss Anderson Redux"
+       },
+       "created_at": "2026-10-20T23:46:10.000Z",
+       "lang": null,
+       "text": "@jojo_wiki Draw Diavolo! It's been decades! The poor bastard's literally stuck in time!",
+       "text_zh": "画画迪亚波罗吧！都几十年了！这可怜的家伙真的被困在时间里了！【译注：迪亚波罗在第五部结局中陷入无限死亡的循环】",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-gymnastics-world-team-title",
+   "region": "jp",
+   "categories": [
+    "体育"
+   ],
+   "title_zh": "体操世锦赛男团：日本以 1.6 分优势卫冕，俄罗斯、中国分获银铜",
+   "summary_zh": "鹿特丹举行的体操世锦赛男子团体决赛中，日本以 251.928 分夺冠，实现连续两届世锦赛团体夺冠；以“World Gymnastics 2”名义参赛的俄罗斯队 250.329 分获银，中国 249.193 分获铜。据 X 新闻摘要，前三名均直接获得 2028 年洛杉矶奥运会团体资格，美国排名第六，英国第四。",
+   "why_youth_zh": "讨论量不算大，但在体操圈年轻粉丝里刷屏：一边是“失误那么多还能拿金牌”，一边是“最后 15 秒的煎熬与荣耀”，还有人认真追问奥运资格规则。",
+   "keywords": [
+    "#Rotterdam2026",
+    "#WorldGymnastics",
+    "体操",
+    "世界選手権",
+    "団体"
+   ],
+   "trend_hits": [],
+   "rank": 3,
+   "heat": {
+    "post_count": 2428,
+    "query": "(#Rotterdam2026 OR #WorldGymnastics OR (体操 団体) OR (体操 世界選手権))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "帖子互动量较低（几百到一千多赞），按规则收录；部分帖子未抓到有效回复。",
+   "posts": [
+    {
+     "id": "2112649442834698404",
+     "url": "https://x.com/gymnastics/status/2112649442834698404",
+     "author": {
+      "username": "gymnastics",
+      "name": "World Gymnastics",
+      "followers": 89229
+     },
+     "created_at": "2026-10-20T20:57:32.000Z",
+     "lang": "en",
+     "text": "Here is your CHAMPION TEAM! 🔥\n\n#WorldGymnastics #Gymnastics #Rotterdam2026 https://t.co/D1cE4DaDR6",
+     "text_zh": "你们的冠军队伍来了！🔥\n\n#WorldGymnastics #Gymnastics #Rotterdam2026",
+     "metrics": {
+      "likes": 430,
+      "reposts": 107,
+      "replies": 1,
+      "quotes": 8,
+      "views": 6818,
+      "bookmarks": 19
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    },
+    {
+     "id": "2112645442584379443",
+     "url": "https://x.com/Gymnastics_Now/status/2112645442584379443",
+     "author": {
+      "username": "Gymnastics_Now",
+      "name": "Gymnastics Now",
+      "followers": 16097
+     },
+     "created_at": "2026-10-20T20:41:39.000Z",
+     "lang": "en",
+     "text": "Japan wins its second consecutive world team title! \n\n🥇 Japan\n🥈 WG2 (Russia)\n🥉 China\n\nThe U.S. finishes sixth.\n\n#Rotterdam2026 https://t.co/xs5plVfeQz",
+     "text_zh": "日本连续第二次夺得世锦赛团体冠军！\n\n🥇 日本\n🥈 WG2（俄罗斯）\n🥉 中国\n\n美国第六。\n\n#Rotterdam2026",
+     "metrics": {
+      "likes": 210,
+      "reposts": 33,
+      "replies": 0,
+      "quotes": 1,
+      "views": 3525,
+      "bookmarks": 8
+     },
+     "replies": [],
+     "note_zh": "译注：WG2 即“World Gymnastics 2”，俄罗斯队以该中立名义参赛。",
+     "replies_note_zh": "本期未抓取该帖回复。"
+    },
+    {
+     "id": "2112644823794503761",
+     "url": "https://x.com/thegymterdotnet/status/2112644823794503761",
+     "author": {
+      "username": "thegymterdotnet",
+      "name": "The Gymternet",
+      "followers": 37673
+     },
+     "created_at": "2026-10-20T20:39:11.000Z",
+     "lang": "en",
+     "text": "World Championships | MAG Team Final\n\n🥇 Japan 251.928\n🥈 Russia 250.329\n🥉 China 249.193",
+     "text_zh": "世锦赛 | 男子团体决赛\n\n🥇 日本 251.928\n🥈 俄罗斯 250.329\n🥉 中国 249.193",
+     "metrics": {
+      "likes": 170,
+      "reposts": 20,
+      "replies": 5,
+      "quotes": 14,
+      "views": 8885,
+      "bookmarks": 3
+     },
+     "replies": [
+      {
+       "id": "2112646057582833839",
+       "url": "https://x.com/GeorgeR4102/status/2112646057582833839",
+       "author": {
+        "username": "GeorgeR4102",
+        "name": "George Royce"
+       },
+       "created_at": "2026-10-20T20:44:05.000Z",
+       "lang": null,
+       "text": "@thegymterdotnet Thank you sooo much for your coverage. \n\nReally sad Team GB tho :(",
+       "text_zh": "非常感谢你们的报道。\n\n不过英国队真可惜 :(",
+       "likes": 6
+      },
+      {
+       "id": "2112671986589577393",
+       "url": "https://x.com/daeblues/status/2112671986589577393",
+       "author": {
+        "username": "daeblues",
+        "name": "ale ‘ポラリス’"
+       },
+       "created_at": "2026-10-20T22:27:07.000Z",
+       "lang": null,
+       "text": "@janarulfova only top3",
+       "text_zh": "只有前三",
+       "likes": 1
+      },
+      {
+       "id": "2112651395258327296",
+       "url": "https://x.com/JpnGymjksw/status/2112651395258327296",
+       "author": {
+        "username": "JpnGymjksw",
+        "name": "JpnGym"
+       },
+       "created_at": "2026-10-20T21:05:18.000Z",
+       "lang": null,
+       "text": "@thegymterdotnet @GymCoaching Japan won the gold with many falls !!! 😬",
+       "text_zh": "日本失误那么多还拿了金牌！！！😬",
+       "likes": 0
+      },
+      {
+       "id": "2112669077369938060",
+       "url": "https://x.com/janarulfova/status/2112669077369938060",
+       "author": {
+        "username": "janarulfova",
+        "name": "Rulfova 🩵"
+       },
+       "created_at": "2026-10-20T22:15:34.000Z",
+       "lang": null,
+       "text": "@thegymterdotnet Do all these teams automatically qualify for LA ? Or just the top three ?",
+       "text_zh": "这些队伍都自动获得洛杉矶奥运会资格吗？还是只有前三？",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112680274194768221",
+     "url": "https://x.com/gymnastics/status/2112680274194768221",
+     "author": {
+      "username": "gymnastics",
+      "name": "World Gymnastics",
+      "followers": 89229
+     },
+     "created_at": "2026-10-20T23:00:03.000Z",
+     "lang": "en",
+     "text": "15 seconds of agony and glory. 😮‍💨🔥🇯🇵\n\n#WorldGymnastics #Gymnastics #Rotterdam2026 https://t.co/PomdO8iTU9",
+     "text_zh": "15 秒的煎熬与荣耀。😮‍💨🔥🇯🇵\n\n#WorldGymnastics #Gymnastics #Rotterdam2026",
+     "metrics": {
+      "likes": 97,
+      "reposts": 32,
+      "replies": 1,
+      "quotes": 1,
+      "views": 2257,
+      "bookmarks": 8
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    }
+   ]
+  },
+  {
+   "id": "jp-look-back-live-action-trailer",
+   "region": "jp",
+   "categories": [
+    "娱乐/追星",
+    "游戏/动漫"
+   ],
+   "title_zh": "是枝裕和真人版《蓦然回首》放出北美预告，12 月 30 日起上映",
+   "summary_zh": "改编自藤本树短篇漫画《蓦然回首（ルックバック）》的真人电影由是枝裕和执导，据 X 新闻摘要由出口夏希（饰藤野）、莳田彩珠（饰京本）主演，讲述两位立志画漫画的少女之间的友情与悲剧。发行方 GKIDS 宣布影片 12 月 30 日在北美部分影院上映、1 月 15 日扩大上映，片长约 100 分钟，此前已在威尼斯和多伦多电影节获得好评。",
+   "why_youth_zh": "《蓦然回首》2024 年动画版让很多年轻观众“58 分钟哭到破防”，这次大家最关心的是：一部短篇怎么拍成 100 分钟、能不能承受这么高的期待，以及英国到底什么时候上映。",
+   "keywords": [
+    "Look Back",
+    "ルックバック",
+    "是枝裕和",
+    "Kore-eda",
+    "藤本タツキ",
+    "GKIDS"
+   ],
+   "trend_hits": [],
+   "rank": 4,
+   "heat": {
+    "post_count": 2121,
+    "query": "((\"Look Back\" (Koreeda OR Kore-eda OR trailer OR Fujimoto)) OR ルックバック)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112591718289707013",
+     "url": "https://x.com/DiscussingFilm/status/2112591718289707013",
+     "author": {
+      "username": "DiscussingFilm",
+      "name": "DiscussingFilm",
+      "followers": 3255191
+     },
+     "created_at": "2026-10-20T17:08:10.000Z",
+     "lang": "en",
+     "text": "New trailer for the live-action adaptation of ‘LOOK BACK’.\n\nDirected by Hirokazu Kore-eda. https://t.co/TG4O6dZhPQ",
+     "text_zh": "真人版《蓦然回首》（LOOK BACK）新预告发布。\n\n导演：是枝裕和。",
+     "metrics": {
+      "likes": 13976,
+      "reposts": 2007,
+      "replies": 74,
+      "quotes": 503,
+      "views": 392693,
+      "bookmarks": 2489
+     },
+     "replies": [
+      {
+       "id": "2112601071805747489",
+       "url": "https://x.com/ishowrenzy/status/2112601071805747489",
+       "author": {
+        "username": "ishowrenzy",
+        "name": "Renzy"
+       },
+       "created_at": "2026-10-20T17:45:20.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm The original story was already emotionally devastating. This live action adaptation has some serious expectations to live up to.",
+       "text_zh": "原作本身就已经足够催泪了，这部真人版要承担的期待可不小。",
+       "likes": 55
+      },
+      {
+       "id": "2112594106438537453",
+       "url": "https://x.com/ShareStudio_/status/2112594106438537453",
+       "author": {
+        "username": "ShareStudio_",
+        "name": "Share Studio"
+       },
+       "created_at": "2026-10-20T17:17:39.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm Fujimoto wrote Look Back as a one shot, and the 2024 anime ran under an hour. Curious how Kore-eda stretches it.",
+       "text_zh": "藤本树把《蓦然回首》写成了一部短篇，2024 年的动画还不到一小时。很好奇是枝裕和会怎么把它拉长。",
+       "likes": 24
+      },
+      {
+       "id": "2112592304716316860",
+       "url": "https://x.com/FOSTER7864/status/2112592304716316860",
+       "author": {
+        "username": "FOSTER7864",
+        "name": "FOSTER DVB"
+       },
+       "created_at": "2026-10-20T17:10:30.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm Hirokazu Kore-eda directing a live-action adaptation of Fujimoto's Look Back is an absolute dream combination for a devastating emotional drama.",
+       "text_zh": "是枝裕和执导藤本树的《蓦然回首》真人版，对一部催泪情感片来说简直是梦幻组合。",
+       "likes": 17
+      },
+      {
+       "id": "2112593494099283972",
+       "url": "https://x.com/ProfitingApp/status/2112593494099283972",
+       "author": {
+        "username": "ProfitingApp",
+        "name": "PROFITING"
+       },
+       "created_at": "2026-10-20T17:15:13.000Z",
+       "lang": null,
+       "text": "@DiscussingFilm the anime wrecked me in 58 min and this one's 99?? i did not budget for 41 extra minutes of crying",
+       "text_zh": "动画 58 分钟就把我整破防了，这部要 99 分钟？？我可没预留多哭 41 分钟的预算",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112589914403737701",
+     "url": "https://x.com/GKIDSfilms/status/2112589914403737701",
+     "author": {
+      "username": "GKIDSfilms",
+      "name": "GKIDS Films",
+      "followers": 95740
+     },
+     "created_at": "2026-10-20T17:01:00.000Z",
+     "lang": "en",
+     "text": "Every line, every page, every moment matters.\n\nLOOK BACK from Hirokazu Koreeda\nBased on the novel by Tatsuki Fujimoto\n\nIn select theatres in North America December 30\nIn theatres nationwide January 15\nhttps://t.co/ynLbjy1TDt https://t.co/JjjWAwIiWE",
+     "text_zh": "每一句台词、每一页、每一刻都有意义。\n\n是枝裕和导演作品《LOOK BACK》\n改编自藤本树的原作\n\n12 月 30 日北美部分影院上映\n1 月 15 日全国上映",
+     "metrics": {
+      "likes": 547,
+      "reposts": 150,
+      "replies": 4,
+      "quotes": 24,
+      "views": 289714,
+      "bookmarks": 87
+     },
+     "replies": [
+      {
+       "id": "2112640549391929664",
+       "url": "https://x.com/k9522_/status/2112640549391929664",
+       "author": {
+        "username": "k9522_",
+        "name": "lily!"
+       },
+       "created_at": "2026-10-20T20:22:12.000Z",
+       "lang": null,
+       "text": "@GKIDSfilms when will the select theaters for december be announced / tickets on sale ?",
+       "text_zh": "12 月的部分影院名单什么时候公布？什么时候开票？",
+       "likes": 4
+      },
+      {
+       "id": "2112631680305635808",
+       "url": "https://x.com/darkdragon8888/status/2112631680305635808",
+       "author": {
+        "username": "darkdragon8888",
+        "name": "Troy"
+       },
+       "created_at": "2026-10-20T19:46:58.000Z",
+       "lang": null,
+       "text": "@GKIDSfilms So excited for a theatrical release! Can't wait to watch it again",
+       "text_zh": "能在影院上映太激动了！等不及要再看一遍",
+       "likes": 0
+      }
+     ],
+     "note_zh": "译注：原文写作“based on the novel”，但原作实为藤本树的短篇漫画。"
+    },
+    {
+     "id": "2112618942447378635",
+     "url": "https://x.com/Chainsawpedia/status/2112618942447378635",
+     "author": {
+      "username": "Chainsawpedia",
+      "name": "Delta",
+      "followers": 5591
+     },
+     "created_at": "2026-10-20T18:56:21.000Z",
+     "lang": "en",
+     "text": "Look Back Live Action releases on January 15th, 2027 on Canada and America theaters and its runtime is 1h 40m.\n\nFun fact: Look Back had problems with its runtime being too low for theaters to show until they updated it to 1h 15m on Oct 4th, but for only 3 days. (Being released by https://t.co/GgRHWDTduF",
+     "text_zh": "真人版《蓦然回首》将于 2027 年 1 月 15 日在加拿大和美国院线上映，片长 1 小时 40 分钟。\n\n冷知识：《蓦然回首》（动画版）当初因为片长太短，影院没法排片，直到 10 月 4 日更新成 1 小时 15 分钟的版本，但也只上映了 3 天。（由……发行【原文被截断】",
+     "metrics": {
+      "likes": 371,
+      "reposts": 34,
+      "replies": 3,
+      "quotes": 3,
+      "views": 6563,
+      "bookmarks": 39
+     },
+     "replies": [
+      {
+       "id": "2112623185032098080",
+       "url": "https://x.com/MathieuBadrici/status/2112623185032098080",
+       "author": {
+        "username": "MathieuBadrici",
+        "name": "zebb"
+       },
+       "created_at": "2026-10-20T19:13:12.000Z",
+       "lang": null,
+       "text": "@Chainsawpedia How did they add 15 minutes of content out of thin air ?",
+       "text_zh": "他们是怎么凭空多加出 15 分钟内容的？",
+       "likes": 2
+      },
+      {
+       "id": "2112638412826046598",
+       "url": "https://x.com/theamview/status/2112638412826046598",
+       "author": {
+        "username": "theamview",
+        "name": "A.M"
+       },
+       "created_at": "2026-10-20T20:13:43.000Z",
+       "lang": null,
+       "text": "@Chainsawpedia We don’t even have a release date for the uk yet ? 😭",
+       "text_zh": "英国连上映日期都还没有？😭",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112602866762317893",
+     "url": "https://x.com/acacinema/status/2112602866762317893",
+     "author": {
+      "username": "acacinema",
+      "name": "Asian Cinema Archive",
+      "followers": 22295
+     },
+     "created_at": "2026-10-20T17:52:28.000Z",
+     "lang": "en",
+     "text": "Look Back was our favourite watch at TIFF, which is pretty insane given how good the animated adaptation was. https://t.co/2OdXOcnh0x",
+     "text_zh": "《蓦然回首》是我们在多伦多国际电影节（TIFF）上最喜欢的一部，考虑到动画版有多好，这真的很夸张。",
+     "metrics": {
+      "likes": 298,
+      "reposts": 19,
+      "replies": 3,
+      "quotes": 0,
+      "views": 4829,
+      "bookmarks": 36
+     },
+     "replies": [
+      {
+       "id": "2112603867439366509",
+       "url": "https://x.com/KM_Zencat/status/2112603867439366509",
+       "author": {
+        "username": "KM_Zencat",
+        "name": "Kitty"
+       },
+       "created_at": "2026-10-20T17:56:26.000Z",
+       "lang": "en",
+       "text": "@acacinema Loved it!",
+       "text_zh": "超喜欢！",
+       "likes": 0
+      },
+      {
+       "id": "2112614087356195316",
+       "url": "https://x.com/human__behavior/status/2112614087356195316",
+       "author": {
+        "username": "human__behavior",
+        "name": "humanbehavior"
+       },
+       "created_at": "2026-10-20T18:37:03.000Z",
+       "lang": "en",
+       "text": "@acacinema Exciting",
+       "text_zh": "好期待",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jp-oricon-2025-manga-ranking-dandadan",
+   "region": "jp",
+   "categories": [
+    "游戏/动漫",
+    "梗"
+   ],
+   "title_zh": "Oricon 2025 年度漫画销量榜：《胆大党》挤进前三，“只有 5 个粉丝”梗再现",
+   "summary_zh": "英文漫画圈热转 Oricon 2025 年度漫画销量榜。据 X 新闻摘要，系列销量前三为《海贼王》约 421 万册、《咒术回战》约 392 万册、《胆大党》约 352 万册，前十还有《蓝色监狱》《王者天下》《青之箱》《坂本日常》《药屋少女的呢喃》等。《胆大党》粉丝借机回击“烂尾/走下坡路”的说法。",
+   "why_youth_zh": "这是典型的粉圈“打榜吵架”：《胆大党》粉丝用“我们 5 个粉丝真能扛销量”的自嘲梗回应唱衰者，其他人则提醒这是 2025 年的数据、当时动画正在热播。",
+   "keywords": [
+    "Oricon",
+    "Dandadan",
+    "ダンダダン",
+    "One Piece",
+    "Sakamoto Days",
+    "manga sales"
+   ],
+   "trend_hits": [],
+   "rank": 5,
+   "heat": {
+    "post_count": 34,
+    "query": "((Oricon (manga OR ranking OR sales)) OR (オリコン (コミック OR 漫画)) OR (Dandadan (sales OR ranking)))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "该话题主要在英文动漫圈传播，按关键词计数的帖子量很低（几十条），但榜单帖本身有近千赞，作为日本 ACG 话题收录。",
+   "posts": [
+    {
+     "id": "2112607376675418610",
+     "url": "https://x.com/WSJ_manga/status/2112607376675418610",
+     "author": {
+      "username": "WSJ_manga",
+      "name": "Shonen Jump News",
+      "followers": 349274
+     },
+     "created_at": "2026-10-20T18:10:23.000Z",
+     "lang": "en",
+     "text": "Oricon's 2025 Yearly Comic Sales Ranking - Top 50\n\nImmense thanks to @Rand0manga for providing all this information! https://t.co/jA1SQdeNj0",
+     "text_zh": "Oricon 2025 年度漫画销量排行榜——前 50\n\n非常感谢 @Rand0manga 提供这些信息！",
+     "metrics": {
+      "likes": 884,
+      "reposts": 115,
+      "replies": 28,
+      "quotes": 50,
+      "views": 60319,
+      "bookmarks": 210
+     },
+     "replies": [
+      {
+       "id": "2112641197218963630",
+       "url": "https://x.com/I_Leumas1/status/2112641197218963630",
+       "author": {
+        "username": "I_Leumas1",
+        "name": "I. Leumas"
+       },
+       "created_at": "2026-10-20T20:24:47.000Z",
+       "lang": null,
+       "text": "@ojiisaac22lf @mrlakiya @WSJ_manga @Rand0manga That was 2025 numbers, not 2026 (that would be pubblished in november but probably only the top 10 series and top 50 volumes as usual) so Kagurabachi did not had the anime trailer nor the announcement.",
+       "text_zh": "那是 2025 年的数据，不是 2026 年的（2026 年的要 11 月才公布，而且照例可能只公布前 10 系列和前 50 单卷），所以当时《神乐钵》既没有动画预告也没有官宣。",
+       "likes": 5
+      },
+      {
+       "id": "2112641020122832978",
+       "url": "https://x.com/will_9605/status/2112641020122832978",
+       "author": {
+        "username": "will_9605",
+        "name": "Will9605"
+       },
+       "created_at": "2026-10-20T20:24:04.000Z",
+       "lang": null,
+       "text": "@Pudimon @WSJ_manga Sakamoto is quite popular in Japan \n\nThe manga will likely remain in the top 10 this year as well. https://t.co/QbTPBD0Fwb",
+       "text_zh": "《坂本日常》在日本挺受欢迎的\n\n今年这部漫画大概率也会留在前 10。",
+       "likes": 3
+      },
+      {
+       "id": "2112654981631238488",
+       "url": "https://x.com/rimuru463439/status/2112654981631238488",
+       "author": {
+        "username": "rimuru463439",
+        "name": "rimuru"
+       },
+       "created_at": "2026-10-20T21:19:33.000Z",
+       "lang": null,
+       "text": "@WSJ_manga @Rand0manga The best isekai 😮‍💨 https://t.co/iLVyyVFULw",
+       "text_zh": "最好的异世界作品 😮‍💨",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112615681564782766",
+     "url": "https://x.com/dandadontcare/status/2112615681564782766",
+     "author": {
+      "username": "dandadontcare",
+      "name": "dandadon’t care 🛸✨",
+      "followers": 11077
+     },
+     "created_at": "2026-10-20T18:43:23.000Z",
+     "lang": "en",
+     "text": "for anyone saying dandadan fell off https://t.co/OmLzWG951b https://t.co/cbLyyLqt8n",
+     "text_zh": "献给所有说《胆大党》“走下坡路”的人",
+     "metrics": {
+      "likes": 262,
+      "reposts": 25,
+      "replies": 9,
+      "quotes": 1,
+      "views": 5638,
+      "bookmarks": 18
+     },
+     "replies": [
+      {
+       "id": "2112620763937116249",
+       "url": "https://x.com/coffeeedoggo/status/2112620763937116249",
+       "author": {
+        "username": "coffeeedoggo",
+        "name": "Coffeedoggo"
+       },
+       "created_at": "2026-10-20T19:03:35.000Z",
+       "lang": null,
+       "text": "@VANSHlES @dandadontcare Yet it’s not the early volumes that are in the top 50, but the volumes where the manga supposedly fell off that are selling the most",
+       "text_zh": "而且进前 50 的并不是早期那几卷，反而是被说“走下坡路”的那几卷卖得最好",
+       "likes": 15
+      },
+      {
+       "id": "2112616272869699668",
+       "url": "https://x.com/VANSHlES/status/2112616272869699668",
+       "author": {
+        "username": "VANSHlES",
+        "name": "va ❤️‍🩹"
+       },
+       "created_at": "2026-10-20T18:45:44.000Z",
+       "lang": null,
+       "text": "@dandadontcare This is 2025 though,, when the anime came out",
+       "text_zh": "不过这是 2025 年的数据，那时候动画正在播",
+       "likes": 8
+      },
+      {
+       "id": "2112622752142086249",
+       "url": "https://x.com/otakrue/status/2112622752142086249",
+       "author": {
+        "username": "otakrue",
+        "name": "rue"
+       },
+       "created_at": "2026-10-20T19:11:29.000Z",
+       "lang": null,
+       "text": "@dandadontcare us 5 fans sure do carry a lot of weight",
+       "text_zh": "我们这 5 个粉丝可真能扛销量啊【译注：“《胆大党》只有 5 个粉丝”是粉丝圈的自嘲梗】",
+       "likes": 6
+      },
+      {
+       "id": "2112617537334849914",
+       "url": "https://x.com/hoeswannafccmey/status/2112617537334849914",
+       "author": {
+        "username": "hoeswannafccmey",
+        "name": "Nathy"
+       },
+       "created_at": "2026-10-20T18:50:46.000Z",
+       "lang": null,
+       "text": "@dandadontcare Us and the other 3 fans WILDIN!!!😭",
+       "text_zh": "我们和另外 3 个粉丝要疯了！！！😭",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112607701285097962",
+     "url": "https://x.com/DheeruPra/status/2112607701285097962",
+     "author": {
+      "username": "DheeruPra",
+      "name": "Dhiraj",
+      "followers": 2298
+     },
+     "created_at": "2026-10-20T18:11:40.000Z",
+     "lang": "en",
+     "text": "DANDADAN ON TOP 3 MANGA IN 2025 I KNOW THAT'S RIGHHHHHHHTTTTTTTT https://t.co/VQReZW6MgL https://t.co/vmZDO75xtK",
+     "text_zh": "《胆大党》进了 2025 年漫画前三，我就知道！！！！！！",
+     "metrics": {
+      "likes": 93,
+      "reposts": 7,
+      "replies": 4,
+      "quotes": 0,
+      "views": 1858,
+      "bookmarks": 9
+     },
+     "replies": [
+      {
+       "id": "2112615984049926584",
+       "url": "https://x.com/therealKingta/status/2112615984049926584",
+       "author": {
+        "username": "therealKingta",
+        "name": "Kingta Sakata"
+       },
+       "created_at": "2026-10-20T18:44:35.000Z",
+       "lang": "en",
+       "text": "@DheeruPra Those 5 fans are doing too much now, they need to stop😭",
+       "text_zh": "那 5 个粉丝现在也太拼了，快停下😭",
+       "likes": 7
+      },
+      {
+       "id": "2112611864320614716",
+       "url": "https://x.com/DDafan25/status/2112611864320614716",
+       "author": {
+        "username": "DDafan25",
+        "name": "DanDafan25"
+       },
+       "created_at": "2026-10-20T18:28:13.000Z",
+       "lang": "en",
+       "text": "@DheeruPra Those 5 readers must be broke by now! 🤣",
+       "text_zh": "那 5 个读者现在应该已经破产了吧！🤣",
+       "likes": 5
+      },
+      {
+       "id": "2112691978404036629",
+       "url": "https://x.com/PsychicMomo77/status/2112691978404036629",
+       "author": {
+        "username": "PsychicMomo77",
+        "name": "Psychic Momo! Artist"
+       },
+       "created_at": "2026-10-20T23:46:34.000Z",
+       "lang": "en",
+       "text": "@DheeruPra It's those five incredibly awesome fans wink wink 😉",
+       "text_zh": "就是那 5 个超级厉害的粉丝啦，懂的都懂 😉",
+       "likes": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-100-days-of-deception",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "tvN《100 天的谎言》口碑发酵：金裕贞 × 朴珍荣 1930 年代京城谍战爱情剧",
+   "summary_zh": "据 X 新闻摘要，tvN 新剧《100 天的谎言》于 10 月 10 日开播，讲述 1930 年代京城第一扒手李佳京（金裕贞饰）为独立运动组织执行 100 天卧底任务，与高官养子金泰雄（朴珍荣饰）相遇的故事，收视率从首播 5.3% 涨到第 4 集约 9%。韩媒报道该剧是编剧柳宝利构思约 5 年的作品，制作方 Studio Dragon 因此受益。",
+   "why_youth_zh": "剧本身讨论热，海外粉丝更爱在 Netflix 各地区官号下“玩梗”：菲律宾 Netflix 把一段被反复转发的片段做成 1 小时循环版，评论区直接喊话“也发到 YouTube 上”。",
+   "keywords": [
+    "100일의 거짓말",
+    "100 Days of Deception",
+    "박진영",
+    "Park Jinyoung",
+    "김유정",
+    "Studio Dragon"
+   ],
+   "trend_hits": [],
+   "rank": 1,
+   "heat": {
+    "post_count": 16083,
+    "query": "(\"100 Days of Deception\" OR #100DaysOfDeception OR 100일의거짓말 OR \"100일의 거짓말\" OR 백거짓)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "本话题只找到 2 条在窗口内、互动足够的帖子，按规则减量收录。",
+   "posts": [
+    {
+     "id": "2112380037546876940",
+     "url": "https://x.com/o3o_rookie/status/2112380037546876940",
+     "author": {
+      "username": "o3o_rookie",
+      "name": "루키",
+      "followers": 16464
+     },
+     "created_at": "2026-10-20T03:07:01.000Z",
+     "lang": "ko",
+     "text": "‘100일의 거짓말’ 터졌고, 스튜디오드래곤 신났다https://t.co/Ocq7ijbZ50\n\n류보리 작가가 약 5년간 구상한 작품으로, 2023년 본격적인 집필에 착수했으며 스튜디오드래곤은 2024년부터 대본 기획·개발에 참여했다.\n\n미쳤다.. 백거짓 5년간 구상한 작품이래 https://t.co/mk4TXVgoV9",
+     "text_zh": "《100 天的谎言》大爆，Studio Dragon 乐开了花\n\n（报道称）这是柳宝利编剧构思了约 5 年的作品，2023 年正式动笔，Studio Dragon 从 2024 年起参与剧本策划与开发。\n\n疯了……听说《百谎》构思了 5 年",
+     "metrics": {
+      "likes": 6377,
+      "reposts": 1887,
+      "replies": 0,
+      "quotes": 333,
+      "views": 199601,
+      "bookmarks": 429
+     },
+     "replies": [],
+     "note_zh": "译注：“백거짓（百谎）”是韩国网友对剧名的简称。",
+     "replies_note_zh": "该帖暂无回复。"
+    },
+    {
+     "id": "2112483968008515892",
+     "url": "https://x.com/Netflix_PH/status/2112483968008515892",
+     "author": {
+      "username": "Netflix_PH",
+      "name": "Netflix Philippines",
+      "followers": 378347
+     },
+     "created_at": "2026-10-20T10:00:00.000Z",
+     "lang": "en",
+     "text": "i know you can't help but watch this clip every time it shows up in the tl so here's a 1 hour version 😋\n\n#100DaysOfDeception #ParkJinyoung #박진영 https://t.co/FIBbykGLc9",
+     "text_zh": "我知道每次时间线刷到这段你都忍不住要看，所以这里有个 1 小时版 😋\n\n#100DaysOfDeception #ParkJinyoung #朴珍荣",
+     "metrics": {
+      "likes": 1790,
+      "reposts": 478,
+      "replies": 16,
+      "quotes": 131,
+      "views": 50186,
+      "bookmarks": 299
+     },
+     "replies": [
+      {
+       "id": "2112534104675692885",
+       "url": "https://x.com/stan_gotseven/status/2112534104675692885",
+       "author": {
+        "username": "stan_gotseven",
+        "name": "rita 🐥🪾"
+       },
+       "created_at": "2026-10-20T13:19:14.000Z",
+       "lang": null,
+       "text": "@Netflix_PH You forgot to tag his account so he sees this lmao here ya go @JINYOUNG",
+       "text_zh": "你忘了 @ 他本人让他看到了，笑死，帮你补上 @JINYOUNG",
+       "likes": 9
+      },
+      {
+       "id": "2112672308431048717",
+       "url": "https://x.com/Jinyoungpark__5/status/2112672308431048717",
+       "author": {
+        "username": "Jinyoungpark__5",
+        "name": "🧡PARK JINYOUNG Said & Done🧡🩵💙✨"
+       },
+       "created_at": "2026-10-20T22:28:24.000Z",
+       "lang": null,
+       "text": "@Netflix_PH You’re my fav Netflix account for a reason 🫠 Love it! 🧡✨ Now, how about putting this on your YouTube channel, too? Please… 🙏🏻🤪 https://t.co/TKLxKZ5G2P",
+       "text_zh": "你们是我最喜欢的 Netflix 账号是有原因的 🫠 爱了！🧡✨ 那能不能也发到你们的 YouTube 频道上？拜托……🙏🏻🤪",
+       "likes": 3
+      },
+      {
+       "id": "2112526811892707555",
+       "url": "https://x.com/imcelyah/status/2112526811892707555",
+       "author": {
+        "username": "imcelyah",
+        "name": "Hey Cel"
+       },
+       "created_at": "2026-10-20T12:50:15.000Z",
+       "lang": null,
+       "text": "@Netflix_PH 1 hour, indeed! ☺️",
+       "text_zh": "1 小时，名副其实！☺️",
+       "likes": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-onew-illusion",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "SHINee 温流发行首张单曲专辑《错觉》，从抒情转向舞曲",
+   "summary_zh": "10 月 20 日下午 6 点（韩国时间），SHINee 温流发行首张单曲专辑《착각（错觉）》，收录同名主打歌以及与 YUJU 合作的《Mind Games》、与 ZICO 合作的《Tic Tac Toe》。据 X 新闻摘要，MV 以群舞和“现实与错觉”的反转为看点，这是温流从抒情曲风转向舞曲的一次尝试，10 月 21 日还将登上 it's Live 演出。",
+   "why_youth_zh": "SHINee 粉丝（Shawol）跨语种刷屏，西语、日语、韩语的应援回复都有，“红光剪影”舞台镜头被粉丝反复截图。",
+   "keywords": [
+    "ONEW",
+    "온유",
+    "착각",
+    "Illusion",
+    "#온유착각",
+    "SHINee"
+   ],
+   "trend_hits": [],
+   "rank": 2,
+   "heat": {
+    "post_count": 13575,
+    "query": "(#온유착각 OR (ONEW Illusion) OR (온유 착각))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112468873609920627",
+     "url": "https://x.com/ONEW_GRIFFIN/status/2112468873609920627",
+     "author": {
+      "username": "ONEW_GRIFFIN",
+      "name": "ONEW",
+      "followers": 57478
+     },
+     "created_at": "2026-10-20T09:00:01.000Z",
+     "lang": "ko",
+     "text": "온유 ONEW '착각' MV\n\nhttps://t.co/JzNRwk57h2\n\n2026.10.20 6PM (KST)\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/5PqNOpH6C5",
+     "text_zh": "温流 ONEW《错觉》MV\n\n2026.10.20 下午 6 点（韩国时间）\n\n#温流 #ONEW\n#错觉 #温流错觉",
+     "metrics": {
+      "likes": 3443,
+      "reposts": 1856,
+      "replies": 11,
+      "quotes": 144,
+      "views": 71048,
+      "bookmarks": 120
+     },
+     "replies": [
+      {
+       "id": "2112472488068120695",
+       "url": "https://x.com/anthoomarquez/status/2112472488068120695",
+       "author": {
+        "username": "anthoomarquez",
+        "name": "Anthoo⁷✨🇦🇷"
+       },
+       "created_at": "2026-10-20T09:14:23.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN Me encanta todo, como amo tu voz Jinki 😍♥️\n\nhttps://t.co/rOB73F6aUi\n\n#온유 #ONEW\n#착각 #온유착각",
+       "text_zh": "我好爱这一切，好爱你的声音，珍基 😍♥️【译注：珍基（Jinki）是温流的本名】",
+       "likes": 2
+      },
+      {
+       "id": "2112507314729353635",
+       "url": "https://x.com/aaaaasa1/status/2112507314729353635",
+       "author": {
+        "username": "aaaaasa1",
+        "name": "aaaaasa"
+       },
+       "created_at": "2026-10-20T11:32:46.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN MV　とっても　かっこいいです☺️🕺💜💜💜",
+       "text_zh": "MV 超帅的☺️🕺💜💜💜",
+       "likes": 1
+      },
+      {
+       "id": "2112474114103587270",
+       "url": "https://x.com/Jinki813/status/2112474114103587270",
+       "author": {
+        "username": "Jinki813",
+        "name": "shinee813"
+       },
+       "created_at": "2026-10-20T09:20:51.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN MV　ありがとうございます　とっても　かっこいい～ですね😊🐰🎬🕺💃🎶💐💘💞👏",
+       "text_zh": "谢谢你的 MV，好帅啊～😊🐰🎬🕺💃🎶💐💘💞👏",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112529275693752765",
+     "url": "https://x.com/itsLIVEofficial/status/2112529275693752765",
+     "author": {
+      "username": "itsLIVEofficial",
+      "name": "it's Live",
+      "followers": 132465
+     },
+     "created_at": "2026-10-20T13:00:02.000Z",
+     "lang": "en",
+     "text": "<COMING UP NEXT>\n#온유 - #착각\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#온유착각 #잇츠라이브 #KPOP #itsLive https://t.co/imwADg6r8d",
+     "text_zh": "<下一位>\n#温流 - #错觉\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#温流错觉 #its_Live #KPOP #itsLive",
+     "metrics": {
+      "likes": 2069,
+      "reposts": 1001,
+      "replies": 7,
+      "quotes": 66,
+      "views": 38184,
+      "bookmarks": 105
+     },
+     "replies": [
+      {
+       "id": "2112553419391021514",
+       "url": "https://x.com/laura_plink/status/2112553419391021514",
+       "author": {
+        "username": "laura_plink",
+        "name": "Lau Rosales🫣"
+       },
+       "created_at": "2026-10-20T14:35:59.000Z",
+       "lang": "en",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN the red light silhouette is doing all the work and im not mad about it",
+       "text_zh": "红光剪影真是撑起了全场，我一点意见都没有",
+       "likes": 0
+      },
+      {
+       "id": "2112534994551992479",
+       "url": "https://x.com/yellow5863/status/2112534994551992479",
+       "author": {
+        "username": "yellow5863",
+        "name": "목소리 보컬 = 온유더라(or모더라)"
+       },
+       "created_at": "2026-10-20T13:22:46.000Z",
+       "lang": "ko",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN 와 소진기 대박이요 ㅠㅜ 착각도 찍었다릿!! 와우우우 ㅠ 맨날 갬동 ya",
+       "text_zh": "哇，소진기 太厉害了呜呜，《错觉》也拍了！！哇呜呜呜，每天都被感动 ya",
+       "likes": 0
+      },
+      {
+       "id": "2112626826107560305",
+       "url": "https://x.com/DeepOnew/status/2112626826107560305",
+       "author": {
+        "username": "DeepOnew",
+        "name": "𝕆ℕ𝔼𝕎𝕒𝕪길이모더라¿¡"
+       },
+       "created_at": "2026-10-20T19:27:40.000Z",
+       "lang": "ko",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN 잇츠라이브 진짜 사랑합니다 🩵🩵🩵🩵🩵",
+       "text_zh": "it's Live 我真的爱你们 🩵🩵🩵🩵🩵",
+       "likes": 0
+      }
+     ]
+    },
+    {
+     "id": "2112468883601056250",
+     "url": "https://x.com/ONEW_GRIFFIN/status/2112468883601056250",
+     "author": {
+      "username": "ONEW_GRIFFIN",
+      "name": "ONEW",
+      "followers": 57478
+     },
+     "created_at": "2026-10-20T09:00:04.000Z",
+     "lang": "ko",
+     "text": "온유 ONEW 【착각】 OUT NOW\n\n🎧 https://t.co/VN16rHpUSc\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/SD8tsQc9xa",
+     "text_zh": "温流 ONEW【错觉】现已上线\n\n🎧（链接）\n\n#温流 #ONEW\n#错觉 #温流错觉",
+     "metrics": {
+      "likes": 1521,
+      "reposts": 784,
+      "replies": 2,
+      "quotes": 21,
+      "views": 22178,
+      "bookmarks": 27
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    },
+    {
+     "id": "2112471677888282932",
+     "url": "https://x.com/soompi/status/2112471677888282932",
+     "author": {
+      "username": "soompi",
+      "name": "Soompi",
+      "followers": 6694617
+     },
+     "created_at": "2026-10-20T09:11:10.000Z",
+     "lang": "en",
+     "text": "WATCH: #Onew Gets Caught In A Sweet Illusion In New “Chakgak” MV\nhttps://t.co/YePLLv9H4z https://t.co/MnyeLvpxWM",
+     "text_zh": "观看：温流在新 MV《Chakgak（错觉）》中陷入一场甜蜜的错觉",
+     "metrics": {
+      "likes": 467,
+      "reposts": 132,
+      "replies": 0,
+      "quotes": 1,
+      "views": 21608,
+      "bookmarks": 13
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    }
+   ]
+  },
+  {
+   "id": "kr-babymonster-deserve-stills",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "BABYMONSTER 新单曲《DESERVE》MV 剧照公开，10 月 23 日发行",
+   "summary_zh": "YG 旗下女团 BABYMONSTER 连续公开数码单曲《DESERVE》的 MV 剧照，雨夜、火花、个人特写等画面都标注了 10 月 23 日下午 1 点（韩国时间）的发行时间。据 X 新闻摘要，梁铉锡称这是一首慢节奏但能量强烈的歌曲。",
+   "why_youth_zh": "粉丝在倒计时标签 #2DaysUntilBABYMONSTERDeserve 下逐张解读剧照：Rita 的戏份、Ahyeon 的“演员感”、MV 里的男演员是谁，以及“RAMI 还没回归吗”。",
+   "keywords": [
+    "BABYMONSTER",
+    "DESERVE",
+    "베이비몬스터",
+    "Ahyeon",
+    "Rami",
+    "YG"
+   ],
+   "trend_hits": [],
+   "rank": 3,
+   "heat": {
+    "post_count": 12260,
+    "query": "(((BABYMONSTER OR 베이비몬스터) DESERVE) OR #AHYEON_DESERVE OR #2DaysUntilBABYMONSTERDeserve)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112559863327039514",
+     "url": "https://x.com/YGBABYMONSTER_/status/2112559863327039514",
+     "author": {
+      "username": "YGBABYMONSTER_",
+      "name": "BABYMONSTER",
+      "followers": 1003551
+     },
+     "created_at": "2026-10-20T15:01:35.000Z",
+     "lang": "en",
+     "text": "[DESERVE] M/V STILL CUT 08\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/dh5d3rUonv",
+     "text_zh": "[DESERVE] M/V 剧照 08\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
+     "metrics": {
+      "likes": 7147,
+      "reposts": 2112,
+      "replies": 92,
+      "quotes": 332,
+      "views": 175930,
+      "bookmarks": 123
+     },
+     "replies": [
+      {
+       "id": "2112562129811435537",
+       "url": "https://x.com/spongepatrickss/status/2112562129811435537",
+       "author": {
+        "username": "spongepatrickss",
+        "name": "ZALABIM ZALABAM ZALABOOM"
+       },
+       "created_at": "2026-10-20T15:10:35.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Omg, what kind of MV scene is this? I feel like a lot of people are going to have their hearts broken lol",
+       "text_zh": "天哪，这是什么 MV 场景？感觉会有很多人心碎哈哈",
+       "likes": 30
+      },
+      {
+       "id": "2112565551944159430",
+       "url": "https://x.com/Tracy_Monstiez/status/2112565551944159430",
+       "author": {
+        "username": "Tracy_Monstiez",
+        "name": "𝒯𝓇𝒶𝒸𝓎 ᱬ"
+       },
+       "created_at": "2026-10-20T15:24:11.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Rita what????😱😱",
+       "text_zh": "Rita 什么情况？？？？😱😱",
+       "likes": 6
+      },
+      {
+       "id": "2112563751711068644",
+       "url": "https://x.com/riripear01/status/2112563751711068644",
+       "author": {
+        "username": "riripear01",
+        "name": "karsen"
+       },
+       "created_at": "2026-10-20T15:17:02.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ can that guy fight?",
+       "text_zh": "那男的能打吗？",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112559935196455265",
+     "url": "https://x.com/YGBABYMONSTER_/status/2112559935196455265",
+     "author": {
+      "username": "YGBABYMONSTER_",
+      "name": "BABYMONSTER",
+      "followers": 1003551
+     },
+     "created_at": "2026-10-20T15:01:52.000Z",
+     "lang": "en",
+     "text": "[DESERVE] M/V STILL CUT 11\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/epycGto9CC",
+     "text_zh": "[DESERVE] M/V 剧照 11\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
+     "metrics": {
+      "likes": 6326,
+      "reposts": 1806,
+      "replies": 81,
+      "quotes": 94,
+      "views": 122725,
+      "bookmarks": 130
+     },
+     "replies": [
+      {
+       "id": "2112561904527016368",
+       "url": "https://x.com/Psyche_Ahy/status/2112561904527016368",
+       "author": {
+        "username": "Psyche_Ahy",
+        "name": "ᱬochii Ahy 🦋🌹"
+       },
+       "created_at": "2026-10-20T15:09:42.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Actress Ahyeon on the way!! 😭😭\n\nAHYEON'S VOCALS ARE WHAT WE DESERVE\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
+       "text_zh": "演员 Ahyeon 正在路上！！😭😭\n\nAHYEON 的歌声就是我们应得的（DESERVE）\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
+       "likes": 4
+      },
+      {
+       "id": "2112561537886077285",
+       "url": "https://x.com/yaxianhealings/status/2112561537886077285",
+       "author": {
+        "username": "yaxianhealings",
+        "name": "mira"
+       },
+       "created_at": "2026-10-20T15:08:14.000Z",
+       "lang": "et",
+       "text": "@YGBABYMONSTER_ Ahyeon looks soo sad.....",
+       "text_zh": "Ahyeon 看起来好难过……",
+       "likes": 4
+      },
+      {
+       "id": "2112561614029504925",
+       "url": "https://x.com/yaxianhealings/status/2112561614029504925",
+       "author": {
+        "username": "yaxianhealings",
+        "name": "mira"
+       },
+       "created_at": "2026-10-20T15:08:32.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ THIS LOOKS SOO GOODDDDDD",
+       "text_zh": "看起来好好看啊啊啊",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112560607035523147",
+     "url": "https://x.com/picbaemon/status/2112560607035523147",
+     "author": {
+      "username": "picbaemon",
+      "name": "BABYMONSTER PICS",
+      "followers": 181159
+     },
+     "created_at": "2026-10-20T15:04:32.000Z",
+     "lang": "en",
+     "text": "BABYMONSTER FOR DESERVE https://t.co/gBWeg7qQHZ",
+     "text_zh": "BABYMONSTER 演绎《DESERVE》",
+     "metrics": {
+      "likes": 2511,
+      "reposts": 384,
+      "replies": 10,
+      "quotes": 19,
+      "views": 23484,
+      "bookmarks": 54
+     },
+     "replies": [
+      {
+       "id": "2112561635240141179",
+       "url": "https://x.com/Karina_myVenus/status/2112561635240141179",
+       "author": {
+        "username": "Karina_myVenus",
+        "name": "Nico♡aespa_카리나 🎒🦜"
+       },
+       "created_at": "2026-10-20T15:08:37.000Z",
+       "lang": null,
+       "text": "@picbaemon So, hasn't RAMI returned yet?\n#Rami #신하람 #라미",
+       "text_zh": "所以 RAMI 还没回归吗？\n#Rami #신하람 #라미",
+       "likes": 9
+      },
+      {
+       "id": "2112569983813513591",
+       "url": "https://x.com/Denyefa117613/status/2112569983813513591",
+       "author": {
+        "username": "Denyefa117613",
+        "name": "𓆩🎀𓆪 𝓙𝓾𝓼𝓽_𝓫𝓵𝓮𝓼𝓼𝓲𝓷𝓰 ☾ ✦"
+       },
+       "created_at": "2026-10-20T15:41:48.000Z",
+       "lang": null,
+       "text": "@picbaemon @lamourrdemaviie I think I like the still cuts than those passport photo as concept teasers …\nThe still cuts builds more suspense and I can’t wait to for the MV",
+       "text_zh": "比起那些证件照风格的概念预告，我好像更喜欢这些剧照……剧照更有悬念，等不及看 MV 了",
+       "likes": 4
+      },
+      {
+       "id": "2112566576268582945",
+       "url": "https://x.com/rorasgirlfriend/status/2112566576268582945",
+       "author": {
+        "username": "rorasgirlfriend",
+        "name": "Dainbxuv"
+       },
+       "created_at": "2026-10-20T15:28:16.000Z",
+       "lang": null,
+       "text": "@picbaemon 2 more pics tomorrow?",
+       "text_zh": "明天还有两张？",
+       "likes": 1
+      }
+     ]
+    },
+    {
+     "id": "2112561355115143310",
+     "url": "https://x.com/kchartsmaster/status/2112561355115143310",
+     "author": {
+      "username": "kchartsmaster",
+      "name": "Kpop Charts",
+      "followers": 4325147
+     },
+     "created_at": "2026-10-20T15:07:31.000Z",
+     "lang": "en",
+     "text": "BABYMONSTER drops still cuts from the 'DESERVE' music video. https://t.co/YbeJ9Bl2yA",
+     "text_zh": "BABYMONSTER 公开《DESERVE》MV 剧照。",
+     "metrics": {
+      "likes": 2405,
+      "reposts": 398,
+      "replies": 12,
+      "quotes": 16,
+      "views": 58628,
+      "bookmarks": 47
+     },
+     "replies": [
+      {
+       "id": "2112562120038711474",
+       "url": "https://x.com/yyeenn123/status/2112562120038711474",
+       "author": {
+        "username": "yyeenn123",
+        "name": "Rosieposie ꫂ ၴႅၴ"
+       },
+       "created_at": "2026-10-20T15:10:33.000Z",
+       "lang": null,
+       "text": "@kchartsmaster Ritaaa!!! You're crazy https://t.co/cTTgg80Hnn",
+       "text_zh": "Ritaaa！！！你疯了吧",
+       "likes": 16
+      },
+      {
+       "id": "2112570360264888655",
+       "url": "https://x.com/GautamMimangsha/status/2112570360264888655",
+       "author": {
+        "username": "GautamMimangsha",
+        "name": "BM \"DESERVE oct 23\"🤍"
+       },
+       "created_at": "2026-10-20T15:43:18.000Z",
+       "lang": null,
+       "text": "@kchartsmaster Can't wait\n\nDESERVE ERA IS ALMOST HERE\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_ https://t.co/KgUaZRDPOH",
+       "text_zh": "等不及了\n\nDESERVE 时代马上就来了\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_",
+       "likes": 10
+      },
+      {
+       "id": "2112563049014181925",
+       "url": "https://x.com/babyChels_9/status/2112563049014181925",
+       "author": {
+        "username": "babyChels_9",
+        "name": "✨ #DESERVE"
+       },
+       "created_at": "2026-10-20T15:14:15.000Z",
+       "lang": null,
+       "text": "@kchartsmaster respectfully GET YOUR HANDS OFF HERRRRRRR https://t.co/iZyfnQNePo",
+       "text_zh": "恕我直言，把你的手从她身上拿开！！！！",
+       "likes": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr-baekhyun-trojan-horse-swf",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "伯贤未发行英文歌《Trojan Horse》登上 Mnet 街舞综艺决赛，粉丝喊话“快上架”",
+   "summary_zh": "据 X 新闻摘要，10 月 20 日 Mnet《Street World Fighter: Directors' War》决赛中，编舞师 Kasper 在啦啦队主题舞台上使用了伯贤尚未发行的歌曲《Trojan Horse》。观众被这首歌的洗脑节奏和英文歌词“I’m like a Trojan Horse”圈粉，粉丝随即翻出伯贤另外几首未发行英文歌《Magic on the Floor》《Always You》，要求正式发行。",
+   "why_youth_zh": "综艺舞台意外“带火”一首没发行的歌，是很典型的 K-pop 出圈路径；还有粉丝觉得它很适合当英雄联盟赛事主题曲。",
+   "keywords": [
+    "BAEKHYUN",
+    "백현",
+    "Trojan Horse",
+    "Street World Fighter",
+    "스월파"
+   ],
+   "trend_hits": [],
+   "rank": 4,
+   "heat": {
+    "post_count": 10090,
+    "query": "((\"Trojan Horse\" (Baekhyun OR 백현)) OR \"Street World Fighter\" OR 스월파 OR \"스트릿 월드 파이터\")",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112555198568968455",
+     "url": "https://x.com/qtpiebyunbaek/status/2112555198568968455",
+     "author": {
+      "username": "qtpiebyunbaek",
+      "name": "큐티/백현이",
+      "followers": 123812
+     },
+     "created_at": "2026-10-20T14:43:03.000Z",
+     "lang": "hi",
+     "text": "Trojan Horse, BAEKHYUN (2026) https://t.co/rYLJYxhnHH",
+     "text_zh": "Trojan Horse，伯贤（BAEKHYUN）（2026）",
+     "metrics": {
+      "likes": 4587,
+      "reposts": 2245,
+      "replies": 18,
+      "quotes": 422,
+      "views": 116609,
+      "bookmarks": 939
+     },
+     "replies": [
+      {
+       "id": "2112578685257883790",
+       "url": "https://x.com/CandidBiscuit/status/2112578685257883790",
+       "author": {
+        "username": "CandidBiscuit",
+        "name": "A Simple Soul"
+       },
+       "created_at": "2026-10-20T16:16:23.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek LEAGUE OF LEGEND THEME !! I wanna hear more of that type of music from Baekhyun !",
+       "text_zh": "有英雄联盟主题曲那味了！！我想听伯贤更多这类音乐！",
+       "likes": 41
+      },
+      {
+       "id": "2112595500906188887",
+       "url": "https://x.com/xhanb4ek/status/2112595500906188887",
+       "author": {
+        "username": "xhanb4ek",
+        "name": "xhαη ♡ 백현 ✵ 큥녀 🩷"
+       },
+       "created_at": "2026-10-20T17:23:12.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek Baekhyun insanity MYGOODNESS!!!! 😭🐎 Now release Trojan Horse and Always You on Spotify @B_hundred_Hyun, jebaaaal!!!! The world need to hear those bangers.",
+       "text_zh": "伯贤太疯了我的天！！！！😭🐎 快把 Trojan Horse 和 Always You 上架 Spotify 吧 @B_hundred_Hyun，求求了（jebal）！！！！全世界都需要听到这些神曲。",
+       "likes": 11
+      },
+      {
+       "id": "2112588551292441042",
+       "url": "https://x.com/SunnyByunlr/status/2112588551292441042",
+       "author": {
+        "username": "SunnyByunlr",
+        "name": "SunnyByun"
+       },
+       "created_at": "2026-10-20T16:55:35.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek Can you hear it? This is the voice of K-pop’s King of Vocals, Byun Baekhyun. 👑🎤\n#백현 #BAEKHYUN",
+       "text_zh": "听到了吗？这就是 K-pop“声乐之王”边伯贤的声音。👑🎤\n#백현 #BAEKHYUN",
+       "likes": 11
+      },
+      {
+       "id": "2112567905477087693",
+       "url": "https://x.com/4everkyoong/status/2112567905477087693",
+       "author": {
+        "username": "4everkyoong",
+        "name": "ForeverKyoong💞"
+       },
+       "created_at": "2026-10-20T15:33:32.000Z",
+       "lang": "ko",
+       "text": "@qtpiebyunbaek @design_by_b04 오빠 노래 잘 부르네요~",
+       "text_zh": "哥哥唱得真好呢～",
+       "likes": 9
+      }
+     ]
+    },
+    {
+     "id": "2112559001896722620",
+     "url": "https://x.com/knockknock0408/status/2112559001896722620",
+     "author": {
+      "username": "knockknock0408",
+      "name": "'KNOCK KNOCK!'",
+      "followers": 864305
+     },
+     "created_at": "2026-10-20T14:58:10.000Z",
+     "lang": "in",
+     "text": "BAEKHYUN  https://t.co/gvAiFD7zn5",
+     "text_zh": "伯贤",
+     "metrics": {
+      "likes": 1785,
+      "reposts": 929,
+      "replies": 4,
+      "quotes": 43,
+      "views": 39634,
+      "bookmarks": 138
+     },
+     "replies": [
+      {
+       "id": "2112574540907790668",
+       "url": "https://x.com/mm_tata91/status/2112574540907790668",
+       "author": {
+        "username": "mm_tata91",
+        "name": "Tatá brotinho 🌱"
+       },
+       "created_at": "2026-10-20T15:59:54.000Z",
+       "lang": "en",
+       "text": "@knockknock0408 Amazing, amazing and amazing!!!\nBaekhyun you are the best!!! \n\n@B_hundred_Hyun #BAEKHYUN #백현 https://t.co/GUiesdUtES",
+       "text_zh": "太棒了，太棒了，太棒了！！！伯贤你是最棒的！！！\n\n@B_hundred_Hyun #BAEKHYUN #백현",
+       "likes": 6
+      },
+      {
+       "id": "2112617870303846791",
+       "url": "https://x.com/runtowardyourp/status/2112617870303846791",
+       "author": {
+        "username": "runtowardyourp",
+        "name": "BaekSoo"
+       },
+       "created_at": "2026-10-20T18:52:05.000Z",
+       "lang": "en",
+       "text": "@knockknock0408 @AJIREX9 I miss his voice in power tracks so much!! R&B is great but his voice is also PERFECT for these rock-type songs.",
+       "text_zh": "好想念他唱力量型歌曲的声音！！R&B 很棒，但他的声音也超级适合这种摇滚风的歌。",
+       "likes": 3
+      }
+     ]
+    },
+    {
+     "id": "2112572224574312661",
+     "url": "https://x.com/lightbaek614/status/2112572224574312661",
+     "author": {
+      "username": "lightbaek614",
+      "name": "𝙘𝙖𝙣𝙙𝙮 c🎀(^ㅅ^🎀c)",
+      "followers": 18677
+     },
+     "created_at": "2026-10-20T15:50:42.000Z",
+     "lang": "en",
+     "text": "baekhyun and his unreleased english songs 😭 we need them now sir @B_hundred_Hyun \n\n-magic on the floor\n-always you\n-trojan horse https://t.co/a2rfQ1Ve3D",
+     "text_zh": "伯贤和他那些没发行的英文歌 😭 我们现在就要，先生 @B_hundred_Hyun\n\n- magic on the floor\n- always you\n- trojan horse",
+     "metrics": {
+      "likes": 871,
+      "reposts": 380,
+      "replies": 0,
+      "quotes": 66,
+      "views": 11349,
+      "bookmarks": 127
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    },
+    {
+     "id": "2112643656801042904",
+     "url": "https://x.com/BBHE_/status/2112643656801042904",
+     "author": {
+      "username": "BBHE_",
+      "name": "Night Rain☔",
+      "followers": 9665
+     },
+     "created_at": "2026-10-20T20:34:33.000Z",
+     "lang": "en",
+     "text": "BAEKHYUN REALLY ATE AND LEFT NO CRUMBS IN 2026 🥵🔥 https://t.co/RLEqSN74P6",
+     "text_zh": "伯贤在 2026 年真的杀疯了，渣都不剩 🥵🔥",
+     "metrics": {
+      "likes": 687,
+      "reposts": 230,
+      "replies": 0,
+      "quotes": 8,
+      "views": 6183,
+      "bookmarks": 98
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    }
+   ]
+  },
+  {
+   "id": "kr-boynextdoor-leehan-birthday",
+   "region": "kr",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "#이한의_바다에_별이_뜨는날：BOYNEXTDOOR 李韩 22 岁生日，队友深情祝福",
+   "summary_zh": "10 月 20 日是 BOYNEXTDOOR 成员李韩（LEEHAN，本名东炫）的 22 岁生日。据 X 新闻摘要，官方账号发布了生日图和 Weverse 内容，队友明宰铉称他是“像亲弟弟一样”的存在，泰山祝他“收到 ONEDOOR 满满的爱”，粉丝刷起 #이한의_바다에_별이_뜨는날（李韩的大海升起星星的日子）、#TwoTwoTwo21 等标签。",
+   "why_youth_zh": "生日应援是 K-pop 粉丝最日常的“打榜”：生日标签直接冲上韩国趋势榜，队友的长文祝福被逐句翻译转发，合照则被粉丝当作“糖”反复截图。",
+   "keywords": [
+    "BOYNEXTDOOR",
+    "LEEHAN",
+    "이한",
+    "#이한의_바다에_별이_뜨는날",
+    "#TwoTwoTwo21",
+    "#HAPPY_LEEHAN_DAY"
+   ],
+   "trend_hits": [
+    "韩国：#이한의_바다에_별이_뜨는날 / #TwoTwoTwo21 / 생일 축하"
+   ],
+   "rank": 5,
+   "heat": {
+    "post_count": 8870,
+    "query": "(#이한의_바다에_별이_뜨는날 OR #TwoTwoTwo21 OR #HAPPY_LEEHAN_DAY OR (Leehan birthday))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "回复区以 @好友、标签刷屏为主，缺少有内容的回复，本期回复留空。",
+   "posts": [
+    {
+     "id": "2112425494763454551",
+     "url": "https://x.com/ihanfm/status/2112425494763454551",
+     "author": {
+      "username": "ihanfm",
+      "name": "🍮",
+      "followers": 8126
+     },
+     "created_at": "2026-10-20T06:07:39.000Z",
+     "lang": "en",
+     "text": "JAEHYUN POSTING THIS PHOTO OF HIM WITH LEEHAN HELLO?????? https://t.co/oP3jAcmCG4",
+     "text_zh": "明宰铉发了这张和 LEEHAN 的合照，喂？？？？？？",
+     "metrics": {
+      "likes": 6844,
+      "reposts": 1056,
+      "replies": 22,
+      "quotes": 535,
+      "views": 59059,
+      "bookmarks": 425
+     },
+     "replies": [],
+     "replies_note_zh": "回复多为 @好友 或无实质内容，未收录。"
+    },
+    {
+     "id": "2112427575989670347",
+     "url": "https://x.com/leehancokr/status/2112427575989670347",
+     "author": {
+      "username": "leehancokr",
+      "name": "🖤",
+      "followers": 31153
+     },
+     "created_at": "2026-10-20T06:15:55.000Z",
+     "lang": "en",
+     "text": "261020 #명재현 birthday post for #이한 💌\n\nto my beloved donghyun-ah, who is like a baby brother to me, happy birthday!! ❤️\nhaving you around always brightens my day with your pretty smile and happy vibe, and whenever i seem down, you’re always the very first to notice. thanks to https://t.co/7zdGUh451u",
+     "text_zh": "261020 #明宰铉 为 #李韩 发的生日祝福 💌\n\n致我亲爱的东炫啊，你就像我的亲弟弟一样，生日快乐！！❤️\n有你在身边，你漂亮的笑容和开心的气场总能点亮我的一天；每当我情绪低落时，你总是第一个察觉。多亏了【原文被截断】",
+     "metrics": {
+      "likes": 1426,
+      "reposts": 384,
+      "replies": 1,
+      "quotes": 95,
+      "views": 13320,
+      "bookmarks": 147
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    },
+    {
+     "id": "2112409181135442356",
+     "url": "https://x.com/leehancokr/status/2112409181135442356",
+     "author": {
+      "username": "leehancokr",
+      "name": "🖤",
+      "followers": 31153
+     },
+     "created_at": "2026-10-20T05:02:50.000Z",
+     "lang": "en",
+     "text": "261020 #태산 birthday post for #이한 💌\n\ndonghyun-ah happy birthday\nhope you have the happiest day today, receive tons of love from onedoor and let’s cheer up together\n(i’m) so happy to be your friend, let’s stay close forever https://t.co/jsAMjS6qPQ",
+     "text_zh": "261020 #泰山 为 #李韩 发的生日祝福 💌\n\n东炫啊，生日快乐\n希望你今天过得最开心，收到 ONEDOOR 满满的爱，我们一起加油吧\n（我）很开心能成为你的朋友，我们永远好好相处吧",
+     "metrics": {
+      "likes": 1419,
+      "reposts": 416,
+      "replies": 0,
+      "quotes": 107,
+      "views": 13568,
+      "bookmarks": 80
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "x_api_calls": 151,
+  "sources": [
+   "x.get_trends_by_woeid",
+   "x.search_news",
+   "x.search_posts_all",
+   "x.get_posts_by_ids",
+   "x.get_posts_counts_recent"
+  ],
+  "limitations_zh": [
+   "X 无法按年龄筛选用户，“年轻人”属性是根据话题、圈层与语言风格推断的。",
+   "热度为关键词/标签在统计窗口内的帖子数（get_posts_counts_recent），会混入无关帖与刷屏帖，只适合横向比较。",
+   "热门回复取自 X 搜索接口能返回的样本（主要是帖子发布初期与最近的回复），不保证是全部回复中点赞最高的。",
+   "部分长帖被 X 接口截断，原文以“…”结尾。所有译文为人工风格的意译，必要处附译注。"
+  ]
+ }
+}
