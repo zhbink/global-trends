@@ -4,6 +4,7 @@
   const COUNTRIES = { JP: { name: '日本', flag: '🇯🇵', color: 'var(--jp)' }, KR: { name: '韩国', flag: '🇰🇷', color: 'var(--kr)' } };
   const LEGACY = { jp: 'JP', kr: 'KR' };
   const CATS = ['娱乐/追星', '游戏/动漫', '体育', '科技/AI', '社会', '生活方式', '梗'];
+  const tone = c => { const i = CATS.indexOf(c); return i < 0 ? 'tone-x' : 'tone-' + i; };
   const state = { index: null, issue: null, date: null, region: 'all', cat: 'all', mode: localStorage.getItem('gt-mode') || 'zh', open: new Set() };
   const $ = (s, r = document) => r.querySelector(s);
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -33,7 +34,7 @@
   }
   function who(a, iso, big) {
     const name = a.name || a.username, h = hue(a.username);
-    return `<div class="who"><span class="avatar" style="background:hsl(${h} 55% 52%)">${esc([...name][0] || '?')}</span>
+    return `<div class="who"><span class="avatar" style="--h:${(330 + h % 70) % 360}">${esc([...name][0] || '?')}</span>
       <span class="name">${esc(name)}</span><span class="handle">@${esc(a.username)}</span>
       ${big && a.followers ? `<span class="fol">${fmt(a.followers)} 粉丝</span>` : ''}<span class="time">· ${timeStr(iso)}</span></div>`;
   }
@@ -117,6 +118,9 @@
     catch (e) { $('#topics').innerHTML = `<div class="empty">无法加载 ${esc(date)} 的数据：${esc(e.message)}</div>`; return; }
     state.issue.topics.forEach(t => { if (LEGACY[t.region]) { t.country = t.country || LEGACY[t.region]; t.region = 'east_asia'; } });
     if (state.cat !== 'all' && !CATS.includes(state.cat)) state.cat = 'all';
+    const T0 = state.issue.topics;
+    $('#heroMeta').innerHTML = `<b>${esc(date)}</b> 期 · ${T0.length} 个话题 · 欧美 ${T0.filter(t => t.region === 'west').length} / 日韩 ${T0.filter(t => t.region === 'east_asia').length}`;
+    $('#miniDate').textContent = date;
     renderOverview(); renderFilters(); renderTopics(); renderLimits(); writeHash();
     if (state.focus) { const el = document.getElementById(state.focus); if (el) { el.querySelector('.rbtn')?.click(); setTimeout(() => el.scrollIntoView({ block: 'start' }), 50); } state.focus = null; }
   }
@@ -128,9 +132,9 @@
     const trNames = { US: '美国', UK: '英国', JP: '日本', KR: '韩国', WORLD: '全球' };
     const trHtml = Object.keys(tr).length ? `<div class="trendbox"><details><summary>X 趋势榜快照</summary>${Object.entries(tr).map(([k, v]) => `<div class="tl"><b>${trNames[k] || k}</b>：${esc((v || []).slice(0, 12).join(' · '))}</div>`).join('')}</details></div>` : '';
     $('#overview').innerHTML = `
-      <div class="card obs"><h2>今日观察</h2><ol>${(d.observations_zh || []).map(o => `<li>${esc(o)}</li>`).join('')}</ol></div>
-      <div class="card stats"><h2>本期概况</h2>
-        <div class="statgrid"><div class="stat"><b>${T.length}</b><span>话题</span></div><div class="stat"><b>${nP}</b><span>热帖</span></div><div class="stat"><b>${nR}</b><span>热评</span></div></div>
+      <div class="card obs"><h2><span class="h-ico">✦</span>今日观察</h2><ol>${(d.observations_zh || []).map(o => `<li>${esc(o)}</li>`).join('')}</ol></div>
+      <div class="card stats"><h2><span class="h-ico">◎</span>本期概况</h2>
+        <div class="statgrid"><div class="stat"><b>${T.length}</b><span>话题</span></div><div class="stat"><b>${nP}</b><span>热帖</span></div><div class="stat"><b>${nR}</b><span>热评</span></div><div class="stat"><b>${T.reduce((a, t) => a + t.posts.reduce((b, p) => b + (p.media || []).length + p.replies.reduce((c, r) => c + (r.media || []).length, 0), 0), 0)}</b><span>图片/视频</span></div></div>
         <div class="meta-line">统计窗口：${timeStr(d.window.start)} → ${timeStr(d.window.end)}（本地时间）<br>X 接口调用：${d.meta?.x_api_calls ?? '—'} 次 · 生成于 ${timeStr(d.generated_at)}</div>
         ${trHtml}
       </div>`;
@@ -148,7 +152,7 @@
     $('#regionTabs').querySelectorAll('button').forEach(b => b.onclick = () => { state.region = b.dataset.r; renderFilters(); renderTopics(); writeHash(); });
     const inReg = t => state.region === 'all' || t.region === state.region;
     const cats = ['all', ...CATS.filter(c => T.some(t => t.categories.includes(c)))];
-    $('#catChips').innerHTML = cats.map(c => (n => `<button class="chip ${state.cat === c ? 'on' : ''} ${n ? '' : 'zero'}" data-c="${esc(c)}">${c === 'all' ? '全部分类' : esc(c)} <small>${n}</small></button>`)(T.filter(t => inReg(t) && (c === 'all' || t.categories.includes(c))).length)).join('');
+    $('#catChips').innerHTML = cats.map(c => (n => `<button class="chip ${c === 'all' ? 'tone-all' : tone(c)} ${state.cat === c ? 'on' : ''} ${n ? '' : 'zero'}" data-c="${esc(c)}">${c === 'all' ? '全部分类' : esc(c)} <small>${n}</small></button>`)(T.filter(t => inReg(t) && (c === 'all' || t.categories.includes(c))).length)).join('');
     $('#catChips').querySelectorAll('button').forEach(b => b.onclick = () => { state.cat = b.dataset.c; renderFilters(); renderTopics(); writeHash(); });
   }
 
@@ -168,12 +172,12 @@
     const R = REGIONS[t.region] || { name: t.region, color: 'var(--accent)' }, open = state.open.has(t.id);
     const pc = t.heat?.post_count, w = pc && max ? Math.max(4, Math.round(pc / max * 100)) : 0;
     return `<article class="card topic ${open ? 'open' : ''}" id="${esc(t.id)}" style="--rc:${R.color}">
-      <div class="topic-main"><div class="rank">${String(t.rank).padStart(2, '0')}</div><div>
-        <div class="tags"><span class="tag region">${R.flag || ''} ${R.name}</span>${t.country && COUNTRIES[t.country] ? `<span class="tag country" style="--cc:${COUNTRIES[t.country].color}">${COUNTRIES[t.country].flag} ${COUNTRIES[t.country].name}</span>` : ''}${t.categories.map(c => `<span class="tag">${esc(c)}</span>`).join('')}</div>
+      <div class="topic-main"><div class="rank" aria-label="第 ${t.rank} 名">${String(t.rank).padStart(2, '0')}</div><div>
+        <div class="tags"><span class="tag region">${R.flag || ''} ${R.name}</span>${t.country && COUNTRIES[t.country] ? `<span class="tag country" style="--cc:${COUNTRIES[t.country].color}">${COUNTRIES[t.country].flag} ${COUNTRIES[t.country].name}</span>` : ''}${t.categories.map(c => `<span class="tag cat ${tone(c)}">${esc(c)}</span>`).join('')}</div>
         <h3>${esc(t.title_zh)}</h3>
         <p>${esc(t.summary_zh)}</p>
-        <p class="why"><b>年轻人为什么在聊：</b>${esc(t.why_youth_zh)}</p>
-        <div class="heat" title="统计查询：${esc(t.heat?.query)}"><span>热度</span><div class="bar"><i style="width:${w}%"></i></div><span class="num">${fmt(pc)}</span><span>条帖子/24h</span></div>
+        <p class="why"><b>💬 年轻人为什么在聊</b>${esc(t.why_youth_zh)}</p>
+        <div class="heat" title="统计查询：${esc(t.heat?.query)}"><span class="hl">🔥 热度</span><div class="bar"><i style="width:${w}%"></i></div><span class="num">${fmt(pc)}</span><span class="unit">条帖子 / 24h</span></div>
         <div class="kw">${(t.keywords || []).map(k => `<span>${esc(String(k).replace(/^#/, ''))}</span>`).join('')}</div>
         ${t.note_zh ? `<div class="note">${esc(t.note_zh)}</div>` : ''}
       </div></div>
@@ -213,5 +217,9 @@
     $('#limits').innerHTML = L.map(x => `<li>${esc(x)}</li>`).join('') + '<li>数据仅来自 X 平台接口，未使用其他来源；无法取得的内容宁缺毋滥，不做补写。</li>';
   }
   window.addEventListener('hashchange', () => { const before = state.date; readHash(); if (state.date !== before) go(state.date); else { renderFilters(); renderTopics(); } });
+  // compact sticky nav: show mini brand once the hero has scrolled away
+  const hero = $('#hero');
+  if (hero && 'IntersectionObserver' in window) new IntersectionObserver(([e]) => document.body.classList.toggle('scrolled', !e.isIntersecting), { rootMargin: '-40px 0px 0px 0px' }).observe(hero);
+  $('#toTop')?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }));
   init();
 })();

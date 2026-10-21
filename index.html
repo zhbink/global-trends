@@ -4,52 +4,66 @@
 <meta charset="utf-8">
 <meta name="referrer" content="no-referrer">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>全球青年热议 · Global Trends</title>
+<title>Gen Z Pulse · 全球青年热议</title>
 <meta name="description" content="每日整理欧美、日本、韩国年轻人在 X 上热议的话题、热帖与热评，全部附中文翻译。">
 <link rel="icon" href="static/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="static/apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
-<meta name="theme-color" content="#ff4f7b">
+<meta name="theme-color" content="#FF2E8C" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1A1219" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="全球青年热议 · Global Trends">
-<meta property="og:title" content="全球青年热议 · Global Trends">
+<meta property="og:site_name" content="Gen Z Pulse · 全球青年热议">
+<meta property="og:title" content="Gen Z Pulse · 全球青年热议">
 <meta property="og:description" content="每日整理欧美、日本、韩国年轻人在 X 上热议的话题、热帖与热评，全部附中文翻译。">
 <meta property="og:url" content="https://zhbink.github.io/global-trends/">
 <meta property="og:image" content="https://zhbink.github.io/global-trends/static/icon-512.png">
 <meta property="og:image:width" content="512">
 <meta property="og:image:height" content="512">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Gen Z Pulse · 全球青年热议">
+<meta name="twitter:description" content="每日整理欧美、日本、韩国年轻人在 X 上热议的话题、热帖与热评，全部附中文翻译。">
+<meta name="application-name" content="Gen Z Pulse">
+<meta name="apple-mobile-web-app-title" content="Gen Z Pulse">
 <meta name="twitter:image" content="https://zhbink.github.io/global-trends/static/icon-512.png">
 <link rel="stylesheet" href="static/style.css">
 </head>
 <body>
-<header class="topbar">
-  <div class="topbar-inner">
+<header class="hero" id="hero">
+  <div class="hero-deco" aria-hidden="true"><i class="d1"></i><i class="d2"></i><i class="s1">✦</i><i class="s2">✦</i><i class="grid"></i></div>
+  <div class="hero-inner">
     <div class="brand">
-      <img class="logo" src="static/icon-192.png" width="38" height="38" alt="" aria-hidden="true">
+      <img class="logo" src="static/icon-192.png" width="64" height="64" alt="" aria-hidden="true">
       <div>
-        <h1>全球青年热议</h1>
-        <p class="sub">X 上欧美 · 日韩年轻人在聊什么</p>
+        <h1>Gen Z Pulse</h1>
+        <p class="cn-title">全球青年热议 <span>· 每日一期</span></p>
+        <p class="sub">看懂欧美 · 日韩年轻人在 X 上聊什么——热帖、热评全部附中文翻译。</p>
       </div>
     </div>
-    <div class="datebox">
-      <button id="prevDate" class="iconbtn" title="前一期" aria-label="前一期">‹</button>
-      <select id="dateSelect" aria-label="选择日期"></select>
-      <button id="nextDate" class="iconbtn" title="后一期" aria-label="后一期">›</button>
+    <div class="hero-date">
+      <div class="datebox">
+        <button id="prevDate" class="iconbtn" title="前一期" aria-label="前一期">‹</button>
+        <select id="dateSelect" aria-label="选择日期"></select>
+        <button id="nextDate" class="iconbtn" title="后一期" aria-label="后一期">›</button>
+      </div>
+      <p class="hero-meta" id="heroMeta"></p>
     </div>
   </div>
-  <nav class="controls">
+</header>
+<nav class="topbar" id="topbar" aria-label="筛选">
+  <div class="bar-inner">
+    <button class="mini" id="toTop" type="button" title="回到顶部"><img src="static/favicon-32.png" width="22" height="22" alt=""><b>Gen Z Pulse</b><span id="miniDate"></span></button>
     <div class="seg" id="regionTabs" role="tablist" aria-label="地区"></div>
     <div class="seg small" id="langMode" role="group" aria-label="显示方式">
       <button data-mode="zh" class="on">译文</button>
       <button data-mode="orig">原文</button>
       <button data-mode="both">对照</button>
     </div>
-  </nav>
+  </div>
   <div class="chips" id="catChips" aria-label="分类筛选"></div>
-</header>
+</nav>
 
 <main id="app">
   <section id="overview" class="overview"></section>

@@ -1,11 +1,11 @@
 {
- "name": "全球青年热议 · Global Trends",
- "short_name": "全球青年热议",
+ "name": "Gen Z Pulse · 全球青年热议",
+ "short_name": "Gen Z Pulse",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
- "background_color": "#ffffff",
- "theme_color": "#ff4f7b",
+ "background_color": "#FFF7F2",
+ "theme_color": "#FF2E8C",
  "icons": [
   {
    "src": "static/icon-192.png",

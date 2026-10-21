@@ -1,4 +1,4 @@
-# 每日更新流程（global-trends）
+# 每日更新流程（Gen Z Pulse · 全球青年热议，仓库 global-trends）
 
 每期 = `data/YYYY-MM-DD.json` 一个文件 + `data/index.json` 里的一条记录。站点是纯静态的，推送到 `main` 后 GitHub Pages 会自动生效。
 
