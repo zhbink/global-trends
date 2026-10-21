@@ -51,7 +51,11 @@ def build_index(raw_dirs):
                     keys = (p.get('attachments') or {}).get('media_keys')
                     if keys: att[p['id']] = list(dict.fromkeys(att.get(p['id'], []) + keys))
                     elif media_aware: att.setdefault(p['id'], [])
-                    if 'public_metrics' in p and 'text' in p: posts[p['id']] = p
+                    if 'public_metrics' in p and 'text' in p:
+                        old = posts.get(p['id'])
+                        if old and 'note_tweet' in old and 'note_tweet' not in p:
+                            p = dict(p, note_tweet=old['note_tweet'])
+                        posts[p['id']] = p
     return posts, users, media, att, not_found
 
 
@@ -105,3 +109,9 @@ def rank_topics(topics):
         counters[t['region']] = counters.get(t['region'], 0) + 1
         t['rank'] = counters[t['region']]
     return topics
+
+
+def full_text(p):
+    """Full post text: long posts (>280 chars) carry it in note_tweet.text."""
+    nt = p.get('note_tweet') or {}
+    return nt.get('text') or p.get('text', '')

@@ -18,7 +18,7 @@ counts.json maps topic key -> total post count from get_posts_counts_recent.
 """
 import argparse, glob, html, json, os, re, runpy, sys, datetime as dt
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from gtlib import build_index, media_for, normalize_region, rank_topics, REGIONS, COUNTRY_NAMES
+from gtlib import build_index, media_for, normalize_region, rank_topics, REGIONS, COUNTRY_NAMES, full_text
 
 def author(p, users):
     u = users.get(p.get('author_id'), {})
@@ -53,12 +53,12 @@ def main():
         for cp in t['posts']:
             p = posts.get(cp['id'])
             if not p: errors.append(f"post {cp['id']} not in raw cache"); continue
-            au = author(p, users); text = html.unescape(p['text'])
+            au = author(p, users); text = html.unescape(full_text(p))
             reps = []
             for rid, rzh in cp.get('replies', {}).items():
                 r = posts.get(rid)
                 if not r: errors.append(f"reply {rid} not in raw cache"); continue
-                ra = author(r, users); rtext = html.unescape(r['text'])
+                ra = author(r, users); rtext = html.unescape(full_text(r))
                 if not rzh and is_chinese(rtext): rzh = rtext
                 reps.append({"id": rid, "url": f"https://x.com/{ra['username']}/status/{rid}",
                              "author": {"username": ra['username'], "name": ra['name']},
@@ -105,10 +105,10 @@ def main():
                      "X 无法按年龄筛选用户，“年轻人”属性是根据话题、圈层与语言风格推断的。",
                      "热度为关键词/标签在统计窗口内的帖子数（get_posts_counts_recent），会混入无关帖与刷屏帖，只适合横向比较。",
                      "热门回复取自 X 搜索接口能返回的样本（主要是帖子发布初期与最近的回复），不保证是全部回复中点赞最高的。",
-                     "部分长帖被 X 接口截断，原文以“…”结尾。所有译文为人工风格的意译，必要处附译注。"]}
+                     "长帖（超过 280 字）使用接口返回的 note_tweet 全文；个别未返回全文的仍可能以“…”结尾。所有译文为人工风格的意译，必要处附译注。"]}
     }
     if no_media_info:
-        print(f"WARN: {len(no_media_info)} posts/replies have no attachments info in raw (fetch get_posts_by_ids with expansions=attachments.media_keys): " + ','.join(no_media_info[:20]), file=sys.stderr)
+        print(f"WARN: {len(no_media_info)} posts/replies have no attachments info in raw (fetch get_posts_by_ids with expansions=attachments.media_keys): " + ','.join(no_media_info), file=sys.stderr)
     if errors:
         print('\n'.join(errors), file=sys.stderr); sys.exit(1)
     os.makedirs(os.path.dirname(a.out) or '.', exist_ok=True)
