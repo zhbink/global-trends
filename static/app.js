@@ -1,6 +1,8 @@
 (() => {
   'use strict';
-  const REGIONS = { west: { name: '欧美', color: 'var(--west)', flag: '🌎' }, jp: { name: '日本', color: 'var(--jp)', flag: '🇯🇵' }, kr: { name: '韩国', color: 'var(--kr)', flag: '🇰🇷' } };
+  const REGIONS = { west: { name: '欧美', color: 'var(--west)', flag: '🌎' }, east_asia: { name: '日韩', color: 'var(--ea)', flag: '🌏' } };
+  const COUNTRIES = { JP: { name: '日本', flag: '🇯🇵', color: 'var(--jp)' }, KR: { name: '韩国', flag: '🇰🇷', color: 'var(--kr)' } };
+  const LEGACY = { jp: 'JP', kr: 'KR' };
   const CATS = ['娱乐/追星', '游戏/动漫', '体育', '科技/AI', '社会', '生活方式', '梗'];
   const state = { index: null, issue: null, date: null, region: 'all', cat: 'all', mode: localStorage.getItem('gt-mode') || 'zh', open: new Set() };
   const $ = (s, r = document) => r.querySelector(s);
@@ -36,16 +38,52 @@
       ${big && a.followers ? `<span class="fol">${fmt(a.followers)} 粉丝</span>` : ''}<span class="time">· ${timeStr(iso)}</span></div>`;
   }
 
+  // ---- Media: thumbnail grid + lightbox ----
+  const MEDIA = []; // registry so lightbox can look items up by index
+  const sized = (u, name) => u ? u + (u.includes('?') ? '&' : '?') + 'name=' + name : '';
+  const dur = ms => { if (!ms) return ''; const s = Math.round(ms / 1000); return `${Math.floor(s / 60)}:${pad(s % 60)}`; };
+  function mediaGrid(o) {
+    const ms = o.media; if (!ms || !ms.length) return '';
+    const n = Math.min(ms.length, 4);
+    const items = ms.slice(0, 4).map(m => {
+      const idx = MEDIA.push({ m, url: o.url }) - 1;
+      const thumb = m.type === 'photo' ? sized(m.url, 'small') : m.preview_url ? sized(m.preview_url, 'small') : '';
+      const ratio = n === 1 && m.width && m.height ? `style="aspect-ratio:${Math.max(0.6, Math.min(2, m.width / m.height)).toFixed(3)}"` : '';
+      const badge = m.type === 'video' ? `<span class="play">▶</span>${m.duration_ms ? `<span class="dur">${dur(m.duration_ms)}</span>` : ''}` : m.type === 'animated_gif' ? '<span class="play">▶</span><span class="dur">GIF</span>' : '';
+      const inner = thumb ? `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(thumb)}" alt="${esc(m.alt_text || '')}" onerror="this.closest('.mi').classList.add('broken')">` : '<span class="noimg">视频</span>';
+      return `<button class="mi ${m.type}" data-mi="${idx}" ${ratio} aria-label="${m.type === 'photo' ? '查看图片' : '播放视频'}">${inner}${badge}</button>`;
+    }).join('');
+    return `<div class="mgrid n${n}">${items}${ms.length > 4 ? `<span class="more">+${ms.length - 4}</span>` : ''}</div>`;
+  }
+  function openLightbox(idx) {
+    const { m, url } = MEDIA[idx]; const lb = $('#lightbox'), body = lb.querySelector('.lb-body');
+    if (m.type === 'photo') body.innerHTML = `<img referrerpolicy="no-referrer" src="${esc(sized(m.url, 'large'))}" alt="${esc(m.alt_text || '')}" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'lb-err',textContent:'图片无法加载，可能已被删除。'}))">`;
+    else if (m.mp4) body.innerHTML = `<video controls playsinline ${m.type === 'animated_gif' ? 'autoplay loop muted' : 'autoplay'} preload="metadata" ${m.preview_url ? `poster="${esc(sized(m.preview_url, 'medium'))}"` : ''} src="${esc(m.mp4)}"></video>`;
+    else { window.open(url, '_blank', 'noopener'); return; }
+    lb.querySelector('.lb-alt').textContent = m.alt_text ? '图片描述：' + m.alt_text : '';
+    lb.querySelector('.lb-x').href = url;
+    lb.hidden = false; document.body.classList.add('noscroll');
+  }
+  function closeLightbox() { const lb = $('#lightbox'); lb.hidden = true; lb.querySelector('.lb-body').innerHTML = ''; document.body.classList.remove('noscroll'); }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('.mi'); if (b) { e.preventDefault(); openLightbox(+b.dataset.mi); return; }
+    if (e.target.closest('.lb-close') || e.target.id === 'lightbox') closeLightbox();
+  });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('#lightbox').hidden) closeLightbox(); });
+
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     if (p.get('date')) state.date = p.get('date');
-    if (p.get('region') && (p.get('region') === 'all' || REGIONS[p.get('region')])) state.region = p.get('region');
+    const rg = LEGACY[p.get('region')] ? 'east_asia' : p.get('region');
+    if (rg && (rg === 'all' || REGIONS[rg])) state.region = rg;
+    state.focus = p.get('t') || null;
     if (p.get('cat')) state.cat = p.get('cat');
   }
   function writeHash() {
     const p = new URLSearchParams(); p.set('date', state.date);
     if (state.region !== 'all') p.set('region', state.region);
     if (state.cat !== 'all') p.set('cat', state.cat);
+    if (state.focus) p.set('t', state.focus);
     history.replaceState(null, '', '#' + p.toString());
   }
 
@@ -70,14 +108,17 @@
   }
 
   async function go(date) {
-    state.date = date; state.open.clear();
+    state.date = date; state.open.clear(); MEDIA.length = 0;
+    if (state.focus) state.open.add(state.focus);
     const dates = state.index.issues.map(i => i.date), i = dates.indexOf(date);
     $('#dateSelect').value = date; $('#prevDate').disabled = i >= dates.length - 1; $('#nextDate').disabled = i <= 0;
     $('#topics').innerHTML = '<div class="loading">加载中…</div>';
     try { state.issue = await loadJSON(`data/${date}.json`); }
     catch (e) { $('#topics').innerHTML = `<div class="empty">无法加载 ${esc(date)} 的数据：${esc(e.message)}</div>`; return; }
+    state.issue.topics.forEach(t => { if (LEGACY[t.region]) { t.country = t.country || LEGACY[t.region]; t.region = 'east_asia'; } });
     if (state.cat !== 'all' && !CATS.includes(state.cat)) state.cat = 'all';
     renderOverview(); renderFilters(); renderTopics(); renderLimits(); writeHash();
+    if (state.focus) { const el = document.getElementById(state.focus); if (el) { el.querySelector('.rbtn')?.click(); setTimeout(() => el.scrollIntoView({ block: 'start' }), 50); } state.focus = null; }
   }
 
   function renderOverview() {
@@ -113,9 +154,10 @@
 
   function renderPost(p, tid, pi) {
     const m = p.metrics, key = `${tid}:${pi}`, open = state.open.has(key);
-    const reps = p.replies.map(r => `<div class="reply">${who(r.author, r.created_at)}${textBlock(r)}<div class="metrics"><span>♥ ${fmt(r.likes)}</span><a href="${esc(r.url)}" target="_blank" rel="noopener">在 X 查看 ↗</a></div></div>`).join('');
+    const reps = p.replies.map(r => `<div class="reply">${who(r.author, r.created_at)}${textBlock(r)}${mediaGrid(r)}${r.unavailable ? '<div class="note">该回复在后续抓取时已无法访问（可能已删除）。</div>' : ''}<div class="metrics"><span>♥ ${fmt(r.likes)}</span><a href="${esc(r.url)}" target="_blank" rel="noopener">在 X 查看 ↗</a></div></div>`).join('');
     const rnote = p.replies_note_zh ? `<div class="note">${esc(p.replies_note_zh)}</div>` : '';
-    return `<article class="post">${who(p.author, p.created_at, true)}${textBlock(p)}
+    return `<article class="post">${who(p.author, p.created_at, true)}${textBlock(p)}${mediaGrid(p)}
+      ${p.unavailable ? '<div class="note">原帖在后续抓取时已无法访问（可能已删除或设为受保护），以下为当时抓取的快照。</div>' : ''}
       ${p.note_zh ? `<div class="note">${esc(p.note_zh)}</div>` : ''}
       <div class="metrics"><span title="点赞">♥ ${fmt(m.likes)}</span><span title="转帖">⟲ ${fmt(m.reposts)}</span><span title="回复">💬 ${fmt(m.replies)}</span>${m.views != null ? `<span title="浏览">👁 ${fmt(m.views)}</span>` : ''}<a href="${esc(p.url)}" target="_blank" rel="noopener">在 X 查看 ↗</a></div>
       ${p.replies.length ? `<button class="rbtn ${open ? 'on' : ''}" data-k="${key}">${open ? '收起热评' : `查看 ${p.replies.length} 条热评`}</button><div class="replies ${open ? 'show' : ''}">${reps}${rnote}</div>` : rnote || '<div class="note">本帖未取到可用热评。</div>'}
@@ -127,7 +169,7 @@
     const pc = t.heat?.post_count, w = pc && max ? Math.max(4, Math.round(pc / max * 100)) : 0;
     return `<article class="card topic ${open ? 'open' : ''}" id="${esc(t.id)}" style="--rc:${R.color}">
       <div class="topic-main"><div class="rank">${String(t.rank).padStart(2, '0')}</div><div>
-        <div class="tags"><span class="tag region">${R.flag || ''} ${R.name}</span>${t.categories.map(c => `<span class="tag">${esc(c)}</span>`).join('')}</div>
+        <div class="tags"><span class="tag region">${R.flag || ''} ${R.name}</span>${t.country && COUNTRIES[t.country] ? `<span class="tag country" style="--cc:${COUNTRIES[t.country].color}">${COUNTRIES[t.country].flag} ${COUNTRIES[t.country].name}</span>` : ''}${t.categories.map(c => `<span class="tag">${esc(c)}</span>`).join('')}</div>
         <h3>${esc(t.title_zh)}</h3>
         <p>${esc(t.summary_zh)}</p>
         <p class="why"><b>年轻人为什么在聊：</b>${esc(t.why_youth_zh)}</p>

@@ -17,34 +17,8 @@ form {"data": [...], "includes": {"users": [...]}} are indexed.
 counts.json maps topic key -> total post count from get_posts_counts_recent.
 """
 import argparse, glob, html, json, os, re, runpy, sys, datetime as dt
-
-def iter_json_objects(text):
-    dec = json.JSONDecoder(); i = 0
-    while True:
-        j = text.find('{"data"', i)
-        if j < 0:
-            j2 = text.find('{"meta"', i)
-            if j2 < 0: return
-            j = j2
-        try:
-            obj, end = dec.raw_decode(text[j:]); yield obj; i = j + end
-        except Exception:
-            i = j + 1
-
-def build_index(raw_dir):
-    posts, users = {}, {}
-    for f in glob.glob(os.path.join(raw_dir, '**', '*.txt'), recursive=True) + glob.glob(os.path.join(raw_dir, '**', '*.json'), recursive=True):
-        try: text = open(f, encoding='utf-8').read()
-        except Exception: continue
-        for obj in iter_json_objects(text):
-            for u in (obj.get('includes') or {}).get('users', []) or []:
-                users[u['id']] = u
-            data = obj.get('data')
-            if isinstance(data, list):
-                for p in data:
-                    if isinstance(p, dict) and 'public_metrics' in p and 'text' in p:
-                        posts[p['id']] = p
-    return posts, users
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gtlib import build_index, media_for, normalize_region, rank_topics, REGIONS, COUNTRY_NAMES
 
 def author(p, users):
     u = users.get(p.get('author_id'), {})
@@ -65,17 +39,16 @@ def is_chinese(t):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--curated', required=True); ap.add_argument('--raw', required=True)
+    ap.add_argument('--curated', required=True); ap.add_argument('--raw', required=True, action='append', help='raw dump dir (repeatable)')
     ap.add_argument('--counts', required=True); ap.add_argument('--calls', type=int, required=True)
     ap.add_argument('--out', required=True)
     a = ap.parse_args()
     C = runpy.run_path(a.curated); counts = json.load(open(a.counts))
-    posts, users = build_index(a.raw)
+    posts, users, media, att, not_found = build_index(a.raw)
+    no_media_info = []
     errors = []
     topics = []
-    region_rank = {}
     for t in C['TOPICS']:
-        region_rank[t['region']] = region_rank.get(t['region'], 0) + 1
         out_posts = []
         for cp in t['posts']:
             p = posts.get(cp['id'])
@@ -91,28 +64,38 @@ def main():
                              "author": {"username": ra['username'], "name": ra['name']},
                              "created_at": r.get('created_at'), "lang": r.get('lang'),
                              "text": rtext, "text_zh": rzh, "likes": r['public_metrics'].get('like_count', 0)})
+                rm = media_for(rid, media, att)
+                if rm: reps[-1]['media'] = rm
+                if rm is None and rid not in not_found: no_media_info.append(rid)
+                if rid in not_found: reps[-1]['unavailable'] = True
             reps.sort(key=lambda r: -r['likes'])
             tzh = cp.get('text_zh') or (text if is_chinese(text) else '')
             op = {"id": cp['id'], "url": f"https://x.com/{au['username']}/status/{cp['id']}", "author": au,
                   "created_at": p.get('created_at'), "lang": p.get('lang'), "text": text, "text_zh": tzh,
                   "metrics": metrics(p), "replies": reps}
+            pm = media_for(cp['id'], media, att)
+            if pm: op['media'] = pm
+            if pm is None and cp['id'] not in not_found: no_media_info.append(cp['id'])
+            if cp['id'] in not_found: op['unavailable'] = True
             if cp.get('note_zh'): op['note_zh'] = cp['note_zh']
             if cp.get('replies_note_zh'): op['replies_note_zh'] = cp['replies_note_zh']
             out_posts.append(op)
         out_posts.sort(key=lambda p: -p['metrics']['likes'])
         topic = {k: t[k] for k in ('id', 'region', 'categories', 'title_zh', 'summary_zh', 'why_youth_zh', 'keywords', 'trend_hits') if k in t}
-        topic['rank'] = region_rank[t['region']]
+        topic['region'], country = normalize_region(t)
+        if country: topic['country'] = country
         topic['heat'] = {"post_count": counts.get(t['key']), "query": t['query'],
                          "window": C['WINDOW'], "source": "x.get_posts_counts_recent"}
         if t.get('note_zh'): topic['note_zh'] = t['note_zh']
         topic['posts'] = out_posts
         topics.append(topic)
+    rank_topics(topics)
     issue = {
-        "schema_version": 1,
+        "schema_version": 2,
         "date": C['DATE'],
         "generated_at": dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         "window": C['WINDOW'],
-        "regions": [{"id": "west", "name_zh": "欧美"}, {"id": "jp", "name_zh": "日本"}, {"id": "kr", "name_zh": "韩国"}],
+        "regions": REGIONS,
         "observations_zh": C['OBSERVATIONS'],
         "trends_snapshot": C.get('TRENDS', {}),
         "topics": topics,
@@ -124,12 +107,15 @@ def main():
                      "热门回复取自 X 搜索接口能返回的样本（主要是帖子发布初期与最近的回复），不保证是全部回复中点赞最高的。",
                      "部分长帖被 X 接口截断，原文以“…”结尾。所有译文为人工风格的意译，必要处附译注。"]}
     }
+    if no_media_info:
+        print(f"WARN: {len(no_media_info)} posts/replies have no attachments info in raw (fetch get_posts_by_ids with expansions=attachments.media_keys): " + ','.join(no_media_info[:20]), file=sys.stderr)
     if errors:
         print('\n'.join(errors), file=sys.stderr); sys.exit(1)
     os.makedirs(os.path.dirname(a.out) or '.', exist_ok=True)
     json.dump(issue, open(a.out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     n_p = sum(len(t['posts']) for t in topics); n_r = sum(len(p['replies']) for t in topics for p in t['posts'])
-    print(f"wrote {a.out}: {len(topics)} topics, {n_p} posts, {n_r} replies")
+    n_m = sum(1 for t in topics for p in t['posts'] for o in [p] + p['replies'] if o.get('media'))
+    print(f"wrote {a.out}: {len(topics)} topics, {n_p} posts, {n_r} replies, {n_m} items with media")
 
 if __name__ == '__main__':
     main()

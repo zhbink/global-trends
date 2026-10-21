@@ -1,5 +1,5 @@
 {
- "schema_version": 1,
+ "schema_version": 2,
  "date": "2026-10-21",
  "generated_at": "2026-10-21T00:23:40Z",
  "window": {
@@ -12,12 +12,8 @@
    "name_zh": "欧美"
   },
   {
-   "id": "jp",
-   "name_zh": "日本"
-  },
-  {
-   "id": "kr",
-   "name_zh": "韩国"
+   "id": "east_asia",
+   "name_zh": "日韩"
   }
  ],
  "observations_zh": [
@@ -232,7 +228,17 @@
        "lang": null,
        "text": "@thecasualultra That is brilliant",
        "text_zh": "太绝了",
-       "likes": 1
+       "likes": 1,
+       "unavailable": true
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112632777191403520",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGUUVFXMAAYkno.jpg",
+       "width": 1216,
+       "height": 1488
       }
      ]
     },
@@ -268,7 +274,16 @@
        "lang": "en",
        "text": "@FabrizioRomano Madrid listening. https://t.co/8pvK6gHzyE",
        "text_zh": "皇马正听着呢。",
-       "likes": 9
+       "likes": 9,
+       "media": [
+        {
+         "key": "3_2112667493915394048",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVGz5G9XgAAo75k.jpg",
+         "width": 1038,
+         "height": 694
+        }
+       ]
       },
       {
        "id": "2112667445341155340",
@@ -295,6 +310,15 @@
        "text": "@FabrizioRomano Overall Barcelona thought they are the better side before the match lol",
        "text_zh": "总的来说，巴萨赛前还以为自己是更强的一方，笑死",
        "likes": 0
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112657858462371840",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGrIQGWUAALLFs.jpg",
+       "width": 1320,
+       "height": 842
       }
      ]
     },
@@ -371,6 +395,15 @@
        "text_zh": "真正的球星",
        "likes": 0
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112656426749341696",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGp06jXMAAZHCT.jpg",
+       "width": 1149,
+       "height": 1436
+      }
      ]
     },
     {
@@ -405,7 +438,18 @@
        "lang": "en",
        "text": "@FCBarcelona Luis Enrique gleefully returning to thank Ferran Torres for giving him clues: https://t.co/ZxTnt0rMbF",
        "text_zh": "路易斯·恩里克兴高采烈地回来感谢费兰·托雷斯给他“透露情报”：【译注：费兰今夏从巴萨转会巴黎，恩里克也是巴萨前主帅】",
-       "likes": 88
+       "likes": 88,
+       "media": [
+        {
+         "key": "13_2112654703553118208",
+         "type": "video",
+         "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112654703553118208/img/tq7xAeVmciJP_5Fy.jpg",
+         "mp4": "https://video.twimg.com/amplify_video/2112654703553118208/vid/avc1/708x404/BgnSuStuw7iWE_Nk.mp4",
+         "duration_ms": 7314,
+         "width": 708,
+         "height": 404
+        }
+       ]
       },
       {
        "id": "2112658103061905724",
@@ -418,7 +462,17 @@
        "lang": "en",
        "text": "@FCBarcelona « your worst nightmare » https://t.co/Xu7AjbxKQM",
        "text_zh": "“你们最可怕的噩梦”【译注：反讽巴萨官号赛前发的“Your worst nightmare is here”】",
-       "likes": 65
+       "likes": 65,
+       "media": [
+        {
+         "key": "16_2112658094224293888",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVGrV-YXwAA6ynJ.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVGrV-YXwAA6ynJ.mp4",
+         "width": 384,
+         "height": 384
+        }
+       ]
       },
       {
        "id": "2112654352192344286",
@@ -431,7 +485,16 @@
        "lang": "en",
        "text": "@FCBarcelona talk now admin https://t.co/GaNpEUOpTS",
        "text_zh": "小编，现在说话啊",
-       "likes": 43
+       "likes": 43,
+       "media": [
+        {
+         "key": "3_2112654344747134977",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVGn7ufWsAExN0z.png",
+         "width": 495,
+         "height": 619
+        }
+       ]
       },
       {
        "id": "2112655318131904625",
@@ -444,7 +507,25 @@
        "lang": "es",
        "text": "@lautarodeIcampo @FCBarcelona Ay gordito gordito qué pasó no le pudieron ganar a tu  papá psg cuando quieras el Real Madrid les da clases de cómo ganarle al psg https://t.co/qj76cAoFbt",
        "text_zh": "哎哟小胖子小胖子，怎么了？赢不了你们“爸爸”巴黎啊。啥时候让皇马给你们上一课，教教你们怎么赢巴黎",
-       "likes": 38
+       "likes": 38,
+       "media": [
+        {
+         "key": "3_2112655309663518720",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVGoz5FWQAA_soK.jpg",
+         "width": 1843,
+         "height": 868
+        }
+       ]
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112648905385021440",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGi_HSXkAA3iAW.jpg",
+       "width": 2000,
+       "height": 2666
       }
      ]
     },
@@ -507,6 +588,15 @@
        "text": "@FabrizioRomano Good for him but 8 minutes later  he sent a pass to no one when there wherevtwo teammates alone in the area",
        "text_zh": "替他高兴，但 8 分钟后禁区里明明有两个队友无人盯防，他却把球传给了空气",
        "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112639961933447168",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGa2iVWgAAO2ni.jpg",
+       "width": 1320,
+       "height": 996
       }
      ]
     }
@@ -592,7 +682,17 @@
        "lang": "en",
        "text": "@PolymarketHoops @ShamsCharania Bron snd Embid muscles if they play more than 30 mins this season. https://t.co/HdNaqyCQKY",
        "text_zh": "詹姆斯和恩比德的肌肉：如果这赛季每场打超过 30 分钟的话（配图）",
-       "likes": 205
+       "likes": 205,
+       "media": [
+        {
+         "key": "16_2112625303163904001",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVGNhSKWIAEFNkv.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVGNhSKWIAEFNkv.mp4",
+         "width": 480,
+         "height": 238
+        }
+       ]
       },
       {
        "id": "2112627628037328900",
@@ -619,6 +719,15 @@
        "text": "@PolymarketHoops @ShamsCharania Last time somebody tried to limit Bron’s min it didn’t end well.",
        "text_zh": "上一个想限制詹姆斯出场时间的人，下场可不太好。",
        "likes": 2
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112618857705963520",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGHqG9bAAAKOjs.jpg",
+       "width": 1536,
+       "height": 1536
       }
      ]
     },
@@ -654,7 +763,8 @@
        "lang": null,
        "text": "@big_business_ Might be Tracy’s last joke fucking with bron 🤣",
        "text_zh": "这可能是 Tracy 最后一次拿詹姆斯开涮了 🤣",
-       "likes": 54
+       "likes": 54,
+       "unavailable": true
       },
       {
        "id": "2112687095559188524",
@@ -696,7 +806,18 @@
        "likes": 8
       }
      ],
-     "note_zh": "译注：JUCO 即 junior college（美国两年制社区大学），这里是说布朗尼只配打社区大学联赛。"
+     "note_zh": "译注：JUCO 即 junior college（美国两年制社区大学），这里是说布朗尼只配打社区大学联赛。",
+     "media": [
+      {
+       "key": "13_2112670226433122304",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112670226433122304/img/tYRCgemqtDHCpE-y.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112670226433122304/vid/avc1/1280x720/oZryIz61uHiovcG_.mp4",
+       "duration_ms": 12350,
+       "width": 1920,
+       "height": 1080
+      }
+     ]
     },
     {
      "id": "2112670384495509919",
@@ -757,6 +878,17 @@
        "text": "@MindOfBron Tracy got a second chance at life and this the route he wanna go smh",
        "text_zh": "Tracy 捡回了第二条命，结果选择走这条路，唉",
        "likes": 0
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112670226433122304",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112670226433122304/img/tYRCgemqtDHCpE-y.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112670226433122304/vid/avc1/1280x720/oZryIz61uHiovcG_.mp4",
+       "duration_ms": 12350,
+       "width": 1920,
+       "height": 1080
       }
      ]
     }
@@ -854,6 +986,17 @@
        "text_zh": "我给你剧透一下：他会有这样的比赛，可能还不止一场。然后等到季后赛，他要么受伤，要么打得一塌糊涂。",
        "likes": 15
       }
+     ],
+     "media": [
+      {
+       "key": "13_2112657734151602178",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112657734151602178/img/3JriQJkP4dcVRC94.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112657734151602178/vid/avc1/720x720/1bGp_ZKhWY9Wi_1b.mp4?tag=14",
+       "duration_ms": 79830,
+       "width": 1080,
+       "height": 1080
+      }
      ]
     },
     {
@@ -916,6 +1059,15 @@
        "text_zh": "落后 22 分眼都不眨。在有人证明之前，东部就是底特律说了算。",
        "likes": 2
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112661096545005568",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGuEu5aMAACeo6.jpg",
+       "width": 4376,
+       "height": 5470
+      }
      ]
     },
     {
@@ -977,6 +1129,17 @@
        "text": "@TheHoopCentral Full 360 in midair. I did one on black ice in Des Moines once. No replay.",
        "text_zh": "空中完整转 360 度。我有一次在得梅因的黑冰路面上也转过一圈，可惜没有回放。【译注：黑冰指路面上透明的薄冰，意思是自己滑倒/打滑转了一圈】",
        "likes": 9
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112629959625740288",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112629959625740288/img/sWOmye3dbCyAK5nI.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112629959625740288/vid/avc1/1280x720/uwqF8BlG8nWCKIwH.mp4",
+       "duration_ms": 12500,
+       "width": 1920,
+       "height": 1080
       }
      ]
     },
@@ -1148,6 +1311,15 @@
        "text_zh": "巴萨有亚马尔\n我们有恩古莫哈",
        "likes": 4
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112642278766383104",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGc9ZNXkAAkTbO.jpg",
+       "width": 1320,
+       "height": 897
+      }
      ]
     },
     {
@@ -1223,6 +1395,36 @@
        "text_zh": "一个 2025 年欧冠 10 场 0 进球的后卫打进这样的扳平球，属于那种你会反复看三遍的意外",
        "likes": 12
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112635245279264768",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGWj_bXQAADqfP.jpg",
+       "width": 2073,
+       "height": 2591
+      },
+      {
+       "key": "3_2112635265663569920",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGWlLXXEAALENm.jpg",
+       "width": 2101,
+       "height": 2626
+      },
+      {
+       "key": "3_2112635265697091584",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGWlLfWkAAmZNd.jpg",
+       "width": 867,
+       "height": 1083
+      },
+      {
+       "key": "3_2112636055773917184",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGXTKwWMAAOfW4.jpg",
+       "width": 1239,
+       "height": 1550
+      }
      ]
     },
     {
@@ -1285,6 +1487,15 @@
        "text_zh": "我们的明星男孩里奥 🩵🔴⚪️",
        "likes": 0
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112667305247211520",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGzuIHXgAAir7l.jpg",
+       "width": 1012,
+       "height": 770
+      }
      ]
     },
     {
@@ -1346,6 +1557,16 @@
        "text": "@LFC Long awaited. So happy for my boy Wirtz !!",
        "text_zh": "等了好久了，真为我的维尔茨高兴！！",
        "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112641910879776768",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGcn-uXcAAodvU.jpg",
+       "width": 1680,
+       "height": 2100,
+       "alt_text": "Florian Wirtz scores for Liverpool."
       }
      ]
     }
@@ -1443,6 +1664,15 @@
        "text": "@elonmusk We got flying cars before I got a girlfriend (not even held a girl hand tbh 22 years)",
        "text_zh": "飞行汽车都来了，我还没交到女朋友（说实话活了 22 年连女生的手都没牵过）",
        "likes": 3
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112666463454593024",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGy9IMXgAARk8a.jpg",
+       "width": 1152,
+       "height": 481
       }
      ]
     },
@@ -1617,6 +1847,17 @@
        "text_zh": "馊主意。等民主党重新掌权，这就成了一个巨大的靶子。他们会把它拆分，既分散精力又代价高昂，影响两家公司的使命。",
        "likes": 3
       }
+     ],
+     "media": [
+      {
+       "key": "13_2112656342007627776",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112656342007627776/img/ioU_yQF7uJuBYcFZ.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112656342007627776/vid/avc1/1320x722/wnuhNSUeSMX9sWuE.mp4",
+       "duration_ms": 151050,
+       "width": 1320,
+       "height": 722
+      }
      ]
     }
    ]
@@ -1715,6 +1956,22 @@
        "text_zh": "作为一场社会实验，我觉得让女性看清这种行为、以后懂得保护自己是好事。主要问题是 Omar 什么时候会在直播里被问责。他需要在电视采访的聚光灯下认识到自己的行为有多恶心。",
        "likes": 1
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112528521641758720",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVE1f25WkAAbRM-.jpg",
+       "width": 1320,
+       "height": 1621
+      },
+      {
+       "key": "3_2112528521595674624",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVE1f2uXYAAyf7R.jpg",
+       "width": 1320,
+       "height": 1625
+      }
      ]
     },
     {
@@ -1776,6 +2033,15 @@
        "text": "@superTV247 Yep.  She is so utterly disappointing.",
        "text_zh": "是啊，她太让人失望了。",
        "likes": 5
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112643529260380160",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGeGLqXsAATXB7.jpg",
+       "width": 1320,
+       "height": 1320
       }
      ]
     },
@@ -1852,6 +2118,17 @@
        "text_zh": "@ITV @bbuk 就听粉丝一次吧！Omar 早该被赶出去了！你们所谓的“尊重培训”一点用都没有 🤦‍♀️",
        "likes": 36
       }
+     ],
+     "media": [
+      {
+       "key": "13_2112518045696434176",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112518045696434176/img/kFEVHnNgVnURC9R9.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112518045696434176/vid/avc1/720x1280/soH3Rj0B9mwfa79w.mp4",
+       "duration_ms": 69480,
+       "width": 1080,
+       "height": 1920
+      }
      ]
     },
     {
@@ -1927,13 +2204,22 @@
        "text_zh": "越来越让人不适、看不下去了，节目组也得出面管管霸凌 😴",
        "likes": 17
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112644688108826624",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGfJotXsAAQ5Es.jpg",
+       "width": 4096,
+       "height": 2458
+      }
      ]
     }
    ]
   },
   {
    "id": "jp-yona-sequel-pierrot-films",
-   "region": "jp",
+   "region": "east_asia",
    "categories": [
     "游戏/动漫"
    ],
@@ -2093,6 +2379,15 @@
        "text_zh": "第一季也是 Pierrot 做的，只能希望他们把它当作业内大作好好对待。",
        "likes": 2
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112381323293732865",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCvnyUXsAEFy8X.jpg",
+       "width": 2048,
+       "height": 1536
+      }
      ]
     },
     {
@@ -2127,7 +2422,16 @@
        "lang": null,
        "text": "@AnimeTokki Now they only have one last show to bring back(and the most important one)😌 https://t.co/H3IHhAlki4",
        "text_zh": "现在他们只剩最后一部要带回来了（也是最重要的一部）😌",
-       "likes": 11
+       "likes": 11,
+       "media": [
+        {
+         "key": "3_2112545824311783424",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVFFPAXWsAAXzWl.jpg",
+         "width": 1200,
+         "height": 1821
+        }
+       ]
       },
       {
        "id": "2112508520960835782",
@@ -2153,15 +2457,1244 @@
        "lang": null,
        "text": "@AnimeTokki Can Studio Pierrot get the rights to Magi? https://t.co/yBx3tYMzBA",
        "text_zh": "Pierrot 能拿到《魔笛 MAGI》的版权吗？",
-       "likes": 1
+       "likes": 1,
+       "media": [
+        {
+         "key": "16_2112654127893192704",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVGnvGpWIAA3r5a.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVGnvGpWIAA3r5a.mp4",
+         "width": 500,
+         "height": 270
+        }
+       ]
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112363077106651136",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCfBt-X0AANhn7.jpg",
+       "width": 1061,
+       "height": 1500
+      },
+      {
+       "key": "3_2112363552744873984",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCfdZ3XIAAzCXG.jpg",
+       "width": 1016,
+       "height": 1437
       }
      ]
     }
-   ]
+   ],
+   "country": "JP"
+  },
+  {
+   "id": "kr-100-days-of-deception",
+   "region": "east_asia",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "tvN《100 天的谎言》口碑发酵：金裕贞 × 朴珍荣 1930 年代京城谍战爱情剧",
+   "summary_zh": "据 X 新闻摘要，tvN 新剧《100 天的谎言》于 10 月 10 日开播，讲述 1930 年代京城第一扒手李佳京（金裕贞饰）为独立运动组织执行 100 天卧底任务，与高官养子金泰雄（朴珍荣饰）相遇的故事，收视率从首播 5.3% 涨到第 4 集约 9%。韩媒报道该剧是编剧柳宝利构思约 5 年的作品，制作方 Studio Dragon 因此受益。",
+   "why_youth_zh": "剧本身讨论热，海外粉丝更爱在 Netflix 各地区官号下“玩梗”：菲律宾 Netflix 把一段被反复转发的片段做成 1 小时循环版，评论区直接喊话“也发到 YouTube 上”。",
+   "keywords": [
+    "100일의 거짓말",
+    "100 Days of Deception",
+    "박진영",
+    "Park Jinyoung",
+    "김유정",
+    "Studio Dragon"
+   ],
+   "trend_hits": [],
+   "rank": 2,
+   "heat": {
+    "post_count": 16083,
+    "query": "(\"100 Days of Deception\" OR #100DaysOfDeception OR 100일의거짓말 OR \"100일의 거짓말\" OR 백거짓)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "本话题只找到 2 条在窗口内、互动足够的帖子，按规则减量收录。",
+   "posts": [
+    {
+     "id": "2112380037546876940",
+     "url": "https://x.com/o3o_rookie/status/2112380037546876940",
+     "author": {
+      "username": "o3o_rookie",
+      "name": "루키",
+      "followers": 16464
+     },
+     "created_at": "2026-10-20T03:07:01.000Z",
+     "lang": "ko",
+     "text": "‘100일의 거짓말’ 터졌고, 스튜디오드래곤 신났다https://t.co/Ocq7ijbZ50\n\n류보리 작가가 약 5년간 구상한 작품으로, 2023년 본격적인 집필에 착수했으며 스튜디오드래곤은 2024년부터 대본 기획·개발에 참여했다.\n\n미쳤다.. 백거짓 5년간 구상한 작품이래 https://t.co/mk4TXVgoV9",
+     "text_zh": "《100 天的谎言》大爆，Studio Dragon 乐开了花\n\n（报道称）这是柳宝利编剧构思了约 5 年的作品，2023 年正式动笔，Studio Dragon 从 2024 年起参与剧本策划与开发。\n\n疯了……听说《百谎》构思了 5 年",
+     "metrics": {
+      "likes": 6377,
+      "reposts": 1887,
+      "replies": 0,
+      "quotes": 333,
+      "views": 199601,
+      "bookmarks": 429
+     },
+     "replies": [],
+     "note_zh": "译注：“백거짓（百谎）”是韩国网友对剧名的简称。",
+     "replies_note_zh": "该帖暂无回复。",
+     "media": [
+      {
+       "key": "3_2112380018089488384",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCub0DbcAAg_q_.jpg",
+       "width": 1600,
+       "height": 2267
+      },
+      {
+       "key": "3_2112380018076876800",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCub0AbAAAHdEv.jpg",
+       "width": 1259,
+       "height": 1575
+      }
+     ]
+    },
+    {
+     "id": "2112483968008515892",
+     "url": "https://x.com/Netflix_PH/status/2112483968008515892",
+     "author": {
+      "username": "Netflix_PH",
+      "name": "Netflix Philippines",
+      "followers": 378347
+     },
+     "created_at": "2026-10-20T10:00:00.000Z",
+     "lang": "en",
+     "text": "i know you can't help but watch this clip every time it shows up in the tl so here's a 1 hour version 😋\n\n#100DaysOfDeception #ParkJinyoung #박진영 https://t.co/FIBbykGLc9",
+     "text_zh": "我知道每次时间线刷到这段你都忍不住要看，所以这里有个 1 小时版 😋\n\n#100DaysOfDeception #ParkJinyoung #朴珍荣",
+     "metrics": {
+      "likes": 1790,
+      "reposts": 478,
+      "replies": 16,
+      "quotes": 131,
+      "views": 50186,
+      "bookmarks": 299
+     },
+     "replies": [
+      {
+       "id": "2112534104675692885",
+       "url": "https://x.com/stan_gotseven/status/2112534104675692885",
+       "author": {
+        "username": "stan_gotseven",
+        "name": "rita 🐥🪾"
+       },
+       "created_at": "2026-10-20T13:19:14.000Z",
+       "lang": null,
+       "text": "@Netflix_PH You forgot to tag his account so he sees this lmao here ya go @JINYOUNG",
+       "text_zh": "你忘了 @ 他本人让他看到了，笑死，帮你补上 @JINYOUNG",
+       "likes": 9
+      },
+      {
+       "id": "2112672308431048717",
+       "url": "https://x.com/Jinyoungpark__5/status/2112672308431048717",
+       "author": {
+        "username": "Jinyoungpark__5",
+        "name": "🧡PARK JINYOUNG Said & Done🧡🩵💙✨"
+       },
+       "created_at": "2026-10-20T22:28:24.000Z",
+       "lang": null,
+       "text": "@Netflix_PH You’re my fav Netflix account for a reason 🫠 Love it! 🧡✨ Now, how about putting this on your YouTube channel, too? Please… 🙏🏻🤪 https://t.co/TKLxKZ5G2P",
+       "text_zh": "你们是我最喜欢的 Netflix 账号是有原因的 🫠 爱了！🧡✨ 那能不能也发到你们的 YouTube 频道上？拜托……🙏🏻🤪",
+       "likes": 3,
+       "media": [
+        {
+         "key": "16_2112672302479380480",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVG4RAQXEAAIBlr.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVG4RAQXEAAIBlr.mp4",
+         "width": 480,
+         "height": 360
+        }
+       ]
+      },
+      {
+       "id": "2112526811892707555",
+       "url": "https://x.com/imcelyah/status/2112526811892707555",
+       "author": {
+        "username": "imcelyah",
+        "name": "Hey Cel"
+       },
+       "created_at": "2026-10-20T12:50:15.000Z",
+       "lang": null,
+       "text": "@Netflix_PH 1 hour, indeed! ☺️",
+       "text_zh": "1 小时，名副其实！☺️",
+       "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112440878006767618",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/media/HVEPUqFbsAAUz3q.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112440878006767618/vid/avc1/1280x720/ZROpisDiOmJh3-Cd.mp4",
+       "duration_ms": 3604767,
+       "width": 1920,
+       "height": 1080
+      }
+     ]
+    }
+   ],
+   "country": "KR"
+  },
+  {
+   "id": "kr-onew-illusion",
+   "region": "east_asia",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "SHINee 温流发行首张单曲专辑《错觉》，从抒情转向舞曲",
+   "summary_zh": "10 月 20 日下午 6 点（韩国时间），SHINee 温流发行首张单曲专辑《착각（错觉）》，收录同名主打歌以及与 YUJU 合作的《Mind Games》、与 ZICO 合作的《Tic Tac Toe》。据 X 新闻摘要，MV 以群舞和“现实与错觉”的反转为看点，这是温流从抒情曲风转向舞曲的一次尝试，10 月 21 日还将登上 it's Live 演出。",
+   "why_youth_zh": "SHINee 粉丝（Shawol）跨语种刷屏，西语、日语、韩语的应援回复都有，“红光剪影”舞台镜头被粉丝反复截图。",
+   "keywords": [
+    "ONEW",
+    "온유",
+    "착각",
+    "Illusion",
+    "#온유착각",
+    "SHINee"
+   ],
+   "trend_hits": [],
+   "rank": 3,
+   "heat": {
+    "post_count": 13575,
+    "query": "(#온유착각 OR (ONEW Illusion) OR (온유 착각))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112468873609920627",
+     "url": "https://x.com/ONEW_GRIFFIN/status/2112468873609920627",
+     "author": {
+      "username": "ONEW_GRIFFIN",
+      "name": "ONEW",
+      "followers": 57478
+     },
+     "created_at": "2026-10-20T09:00:01.000Z",
+     "lang": "ko",
+     "text": "온유 ONEW '착각' MV\n\nhttps://t.co/JzNRwk57h2\n\n2026.10.20 6PM (KST)\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/5PqNOpH6C5",
+     "text_zh": "温流 ONEW《错觉》MV\n\n2026.10.20 下午 6 点（韩国时间）\n\n#温流 #ONEW\n#错觉 #温流错觉",
+     "metrics": {
+      "likes": 3443,
+      "reposts": 1856,
+      "replies": 11,
+      "quotes": 144,
+      "views": 71048,
+      "bookmarks": 120
+     },
+     "replies": [
+      {
+       "id": "2112472488068120695",
+       "url": "https://x.com/anthoomarquez/status/2112472488068120695",
+       "author": {
+        "username": "anthoomarquez",
+        "name": "Anthoo⁷✨🇦🇷"
+       },
+       "created_at": "2026-10-20T09:14:23.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN Me encanta todo, como amo tu voz Jinki 😍♥️\n\nhttps://t.co/rOB73F6aUi\n\n#온유 #ONEW\n#착각 #온유착각",
+       "text_zh": "我好爱这一切，好爱你的声音，珍基 😍♥️【译注：珍基（Jinki）是温流的本名】",
+       "likes": 2
+      },
+      {
+       "id": "2112507314729353635",
+       "url": "https://x.com/aaaaasa1/status/2112507314729353635",
+       "author": {
+        "username": "aaaaasa1",
+        "name": "aaaaasa"
+       },
+       "created_at": "2026-10-20T11:32:46.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN MV　とっても　かっこいいです☺️🕺💜💜💜",
+       "text_zh": "MV 超帅的☺️🕺💜💜💜",
+       "likes": 1
+      },
+      {
+       "id": "2112474114103587270",
+       "url": "https://x.com/Jinki813/status/2112474114103587270",
+       "author": {
+        "username": "Jinki813",
+        "name": "shinee813"
+       },
+       "created_at": "2026-10-20T09:20:51.000Z",
+       "lang": null,
+       "text": "@ONEW_GRIFFIN MV　ありがとうございます　とっても　かっこいい～ですね😊🐰🎬🕺💃🎶💐💘💞👏",
+       "text_zh": "谢谢你的 MV，好帅啊～😊🐰🎬🕺💃🎶💐💘💞👏",
+       "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2111012408122863617",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2111012408122863617/img/Mgz5gm8H9Vraipr4.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2111012408122863617/vid/avc1/1280x720/1Ya14RzX6t6nfmlo.mp4",
+       "duration_ms": 22981,
+       "width": 1920,
+       "height": 1080
+      }
+     ]
+    },
+    {
+     "id": "2112529275693752765",
+     "url": "https://x.com/itsLIVEofficial/status/2112529275693752765",
+     "author": {
+      "username": "itsLIVEofficial",
+      "name": "it's Live",
+      "followers": 132465
+     },
+     "created_at": "2026-10-20T13:00:02.000Z",
+     "lang": "en",
+     "text": "<COMING UP NEXT>\n#온유 - #착각\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#온유착각 #잇츠라이브 #KPOP #itsLive https://t.co/imwADg6r8d",
+     "text_zh": "<下一位>\n#温流 - #错觉\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#温流错觉 #its_Live #KPOP #itsLive",
+     "metrics": {
+      "likes": 2069,
+      "reposts": 1001,
+      "replies": 7,
+      "quotes": 66,
+      "views": 38184,
+      "bookmarks": 105
+     },
+     "replies": [
+      {
+       "id": "2112553419391021514",
+       "url": "https://x.com/laura_plink/status/2112553419391021514",
+       "author": {
+        "username": "laura_plink",
+        "name": "Lau Rosales🫣"
+       },
+       "created_at": "2026-10-20T14:35:59.000Z",
+       "lang": "en",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN the red light silhouette is doing all the work and im not mad about it",
+       "text_zh": "红光剪影真是撑起了全场，我一点意见都没有",
+       "likes": 0
+      },
+      {
+       "id": "2112534994551992479",
+       "url": "https://x.com/yellow5863/status/2112534994551992479",
+       "author": {
+        "username": "yellow5863",
+        "name": "목소리 보컬 = 온유더라(or모더라)"
+       },
+       "created_at": "2026-10-20T13:22:46.000Z",
+       "lang": "ko",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN 와 소진기 대박이요 ㅠㅜ 착각도 찍었다릿!! 와우우우 ㅠ 맨날 갬동 ya",
+       "text_zh": "哇，소진기 太厉害了呜呜，《错觉》也拍了！！哇呜呜呜，每天都被感动 ya",
+       "likes": 0
+      },
+      {
+       "id": "2112626826107560305",
+       "url": "https://x.com/DeepOnew/status/2112626826107560305",
+       "author": {
+        "username": "DeepOnew",
+        "name": "𝕆ℕ𝔼𝕎𝕒𝕪길이모더라¿¡"
+       },
+       "created_at": "2026-10-20T19:27:40.000Z",
+       "lang": "ko",
+       "text": "@itsLIVEofficial @ONEW_GRIFFIN 잇츠라이브 진짜 사랑합니다 🩵🩵🩵🩵🩵",
+       "text_zh": "it's Live 我真的爱你们 🩵🩵🩵🩵🩵",
+       "likes": 0
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112411693343219712",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112411693343219712/img/fNiUojiempsy32n-.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112411693343219712/vid/avc1/720x1280/fcNQsS7WlSk0Tn_t.mp4",
+       "duration_ms": 16816,
+       "width": 1214,
+       "height": 2160
+      }
+     ]
+    },
+    {
+     "id": "2112468883601056250",
+     "url": "https://x.com/ONEW_GRIFFIN/status/2112468883601056250",
+     "author": {
+      "username": "ONEW_GRIFFIN",
+      "name": "ONEW",
+      "followers": 57478
+     },
+     "created_at": "2026-10-20T09:00:04.000Z",
+     "lang": "ko",
+     "text": "온유 ONEW 【착각】 OUT NOW\n\n🎧 https://t.co/VN16rHpUSc\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/SD8tsQc9xa",
+     "text_zh": "温流 ONEW【错觉】现已上线\n\n🎧（链接）\n\n#温流 #ONEW\n#错觉 #温流错觉",
+     "metrics": {
+      "likes": 1521,
+      "reposts": 784,
+      "replies": 2,
+      "quotes": 21,
+      "views": 22178,
+      "bookmarks": 27
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2111012209514168321",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HUvSa4CawAEbm82.jpg",
+       "width": 3000,
+       "height": 3000
+      }
+     ]
+    },
+    {
+     "id": "2112471677888282932",
+     "url": "https://x.com/soompi/status/2112471677888282932",
+     "author": {
+      "username": "soompi",
+      "name": "Soompi",
+      "followers": 6694617
+     },
+     "created_at": "2026-10-20T09:11:10.000Z",
+     "lang": "en",
+     "text": "WATCH: #Onew Gets Caught In A Sweet Illusion In New “Chakgak” MV\nhttps://t.co/YePLLv9H4z https://t.co/MnyeLvpxWM",
+     "text_zh": "观看：温流在新 MV《Chakgak（错觉）》中陷入一场甜蜜的错觉",
+     "metrics": {
+      "likes": 467,
+      "reposts": 132,
+      "replies": 0,
+      "quotes": 1,
+      "views": 21608,
+      "bookmarks": 13
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2112471669201928192",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVEBynDbgAAbmhX.jpg",
+       "width": 900,
+       "height": 600
+      }
+     ]
+    }
+   ],
+   "country": "KR"
+  },
+  {
+   "id": "kr-babymonster-deserve-stills",
+   "region": "east_asia",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "BABYMONSTER 新单曲《DESERVE》MV 剧照公开，10 月 23 日发行",
+   "summary_zh": "YG 旗下女团 BABYMONSTER 连续公开数码单曲《DESERVE》的 MV 剧照，雨夜、火花、个人特写等画面都标注了 10 月 23 日下午 1 点（韩国时间）的发行时间。据 X 新闻摘要，梁铉锡称这是一首慢节奏但能量强烈的歌曲。",
+   "why_youth_zh": "粉丝在倒计时标签 #2DaysUntilBABYMONSTERDeserve 下逐张解读剧照：Rita 的戏份、Ahyeon 的“演员感”、MV 里的男演员是谁，以及“RAMI 还没回归吗”。",
+   "keywords": [
+    "BABYMONSTER",
+    "DESERVE",
+    "베이비몬스터",
+    "Ahyeon",
+    "Rami",
+    "YG"
+   ],
+   "trend_hits": [],
+   "rank": 4,
+   "heat": {
+    "post_count": 12260,
+    "query": "(((BABYMONSTER OR 베이비몬스터) DESERVE) OR #AHYEON_DESERVE OR #2DaysUntilBABYMONSTERDeserve)",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112559863327039514",
+     "url": "https://x.com/YGBABYMONSTER_/status/2112559863327039514",
+     "author": {
+      "username": "YGBABYMONSTER_",
+      "name": "BABYMONSTER",
+      "followers": 1003551
+     },
+     "created_at": "2026-10-20T15:01:35.000Z",
+     "lang": "en",
+     "text": "[DESERVE] M/V STILL CUT 08\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/dh5d3rUonv",
+     "text_zh": "[DESERVE] M/V 剧照 08\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
+     "metrics": {
+      "likes": 7147,
+      "reposts": 2112,
+      "replies": 92,
+      "quotes": 332,
+      "views": 175930,
+      "bookmarks": 123
+     },
+     "replies": [
+      {
+       "id": "2112562129811435537",
+       "url": "https://x.com/spongepatrickss/status/2112562129811435537",
+       "author": {
+        "username": "spongepatrickss",
+        "name": "ZALABIM ZALABAM ZALABOOM"
+       },
+       "created_at": "2026-10-20T15:10:35.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Omg, what kind of MV scene is this? I feel like a lot of people are going to have their hearts broken lol",
+       "text_zh": "天哪，这是什么 MV 场景？感觉会有很多人心碎哈哈",
+       "likes": 30
+      },
+      {
+       "id": "2112565551944159430",
+       "url": "https://x.com/Tracy_Monstiez/status/2112565551944159430",
+       "author": {
+        "username": "Tracy_Monstiez",
+        "name": "𝒯𝓇𝒶𝒸𝓎 ᱬ"
+       },
+       "created_at": "2026-10-20T15:24:11.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Rita what????😱😱",
+       "text_zh": "Rita 什么情况？？？？😱😱",
+       "likes": 6
+      },
+      {
+       "id": "2112563751711068644",
+       "url": "https://x.com/riripear01/status/2112563751711068644",
+       "author": {
+        "username": "riripear01",
+        "name": "karsen"
+       },
+       "created_at": "2026-10-20T15:17:02.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ can that guy fight?",
+       "text_zh": "那男的能打吗？",
+       "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112559857664733185",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFR_2rbMAEKeOp.jpg",
+       "width": 1200,
+       "height": 640
+      }
+     ]
+    },
+    {
+     "id": "2112559935196455265",
+     "url": "https://x.com/YGBABYMONSTER_/status/2112559935196455265",
+     "author": {
+      "username": "YGBABYMONSTER_",
+      "name": "BABYMONSTER",
+      "followers": 1003551
+     },
+     "created_at": "2026-10-20T15:01:52.000Z",
+     "lang": "en",
+     "text": "[DESERVE] M/V STILL CUT 11\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/epycGto9CC",
+     "text_zh": "[DESERVE] M/V 剧照 11\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
+     "metrics": {
+      "likes": 6326,
+      "reposts": 1806,
+      "replies": 81,
+      "quotes": 94,
+      "views": 122725,
+      "bookmarks": 130
+     },
+     "replies": [
+      {
+       "id": "2112561904527016368",
+       "url": "https://x.com/Psyche_Ahy/status/2112561904527016368",
+       "author": {
+        "username": "Psyche_Ahy",
+        "name": "ᱬochii Ahy 🦋🌹"
+       },
+       "created_at": "2026-10-20T15:09:42.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ Actress Ahyeon on the way!! 😭😭\n\nAHYEON'S VOCALS ARE WHAT WE DESERVE\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
+       "text_zh": "演员 Ahyeon 正在路上！！😭😭\n\nAHYEON 的歌声就是我们应得的（DESERVE）\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
+       "likes": 4
+      },
+      {
+       "id": "2112561537886077285",
+       "url": "https://x.com/yaxianhealings/status/2112561537886077285",
+       "author": {
+        "username": "yaxianhealings",
+        "name": "mira"
+       },
+       "created_at": "2026-10-20T15:08:14.000Z",
+       "lang": "et",
+       "text": "@YGBABYMONSTER_ Ahyeon looks soo sad.....",
+       "text_zh": "Ahyeon 看起来好难过……",
+       "likes": 4
+      },
+      {
+       "id": "2112561614029504925",
+       "url": "https://x.com/yaxianhealings/status/2112561614029504925",
+       "author": {
+        "username": "yaxianhealings",
+        "name": "mira"
+       },
+       "created_at": "2026-10-20T15:08:32.000Z",
+       "lang": "en",
+       "text": "@YGBABYMONSTER_ THIS LOOKS SOO GOODDDDDD",
+       "text_zh": "看起来好好看啊啊啊",
+       "likes": 3
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112559929471246336",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFSECLboAA4Ubm.jpg",
+       "width": 1200,
+       "height": 640
+      }
+     ]
+    },
+    {
+     "id": "2112560607035523147",
+     "url": "https://x.com/picbaemon/status/2112560607035523147",
+     "author": {
+      "username": "picbaemon",
+      "name": "BABYMONSTER PICS",
+      "followers": 181159
+     },
+     "created_at": "2026-10-20T15:04:32.000Z",
+     "lang": "en",
+     "text": "BABYMONSTER FOR DESERVE https://t.co/gBWeg7qQHZ",
+     "text_zh": "BABYMONSTER 演绎《DESERVE》",
+     "metrics": {
+      "likes": 2511,
+      "reposts": 384,
+      "replies": 10,
+      "quotes": 19,
+      "views": 23484,
+      "bookmarks": 54
+     },
+     "replies": [
+      {
+       "id": "2112561635240141179",
+       "url": "https://x.com/Karina_myVenus/status/2112561635240141179",
+       "author": {
+        "username": "Karina_myVenus",
+        "name": "Nico♡aespa_카리나 🎒🦜"
+       },
+       "created_at": "2026-10-20T15:08:37.000Z",
+       "lang": null,
+       "text": "@picbaemon So, hasn't RAMI returned yet?\n#Rami #신하람 #라미",
+       "text_zh": "所以 RAMI 还没回归吗？\n#Rami #신하람 #라미",
+       "likes": 9
+      },
+      {
+       "id": "2112569983813513591",
+       "url": "https://x.com/Denyefa117613/status/2112569983813513591",
+       "author": {
+        "username": "Denyefa117613",
+        "name": "𓆩🎀𓆪 𝓙𝓾𝓼𝓽_𝓫𝓵𝓮𝓼𝓼𝓲𝓷𝓰 ☾ ✦"
+       },
+       "created_at": "2026-10-20T15:41:48.000Z",
+       "lang": null,
+       "text": "@picbaemon @lamourrdemaviie I think I like the still cuts than those passport photo as concept teasers …\nThe still cuts builds more suspense and I can’t wait to for the MV",
+       "text_zh": "比起那些证件照风格的概念预告，我好像更喜欢这些剧照……剧照更有悬念，等不及看 MV 了",
+       "likes": 4
+      },
+      {
+       "id": "2112566576268582945",
+       "url": "https://x.com/rorasgirlfriend/status/2112566576268582945",
+       "author": {
+        "username": "rorasgirlfriend",
+        "name": "Dainbxuv"
+       },
+       "created_at": "2026-10-20T15:28:16.000Z",
+       "lang": null,
+       "text": "@picbaemon 2 more pics tomorrow?",
+       "text_zh": "明天还有两张？",
+       "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112560601302016000",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFSrI8XoAAzscC.jpg",
+       "width": 2048,
+       "height": 2048
+      }
+     ]
+    },
+    {
+     "id": "2112561355115143310",
+     "url": "https://x.com/kchartsmaster/status/2112561355115143310",
+     "author": {
+      "username": "kchartsmaster",
+      "name": "Kpop Charts",
+      "followers": 4325147
+     },
+     "created_at": "2026-10-20T15:07:31.000Z",
+     "lang": "en",
+     "text": "BABYMONSTER drops still cuts from the 'DESERVE' music video. https://t.co/YbeJ9Bl2yA",
+     "text_zh": "BABYMONSTER 公开《DESERVE》MV 剧照。",
+     "metrics": {
+      "likes": 2405,
+      "reposts": 398,
+      "replies": 12,
+      "quotes": 16,
+      "views": 58628,
+      "bookmarks": 47
+     },
+     "replies": [
+      {
+       "id": "2112562120038711474",
+       "url": "https://x.com/yyeenn123/status/2112562120038711474",
+       "author": {
+        "username": "yyeenn123",
+        "name": "Rosieposie ꫂ ၴႅၴ"
+       },
+       "created_at": "2026-10-20T15:10:33.000Z",
+       "lang": null,
+       "text": "@kchartsmaster Ritaaa!!! You're crazy https://t.co/cTTgg80Hnn",
+       "text_zh": "Ritaaa！！！你疯了吧",
+       "likes": 16,
+       "media": [
+        {
+         "key": "16_2112562103190224897",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVFUCj6bAAEbMHy.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVFUCj6bAAEbMHy.mp4",
+         "width": 480,
+         "height": 480
+        }
+       ]
+      },
+      {
+       "id": "2112570360264888655",
+       "url": "https://x.com/GautamMimangsha/status/2112570360264888655",
+       "author": {
+        "username": "GautamMimangsha",
+        "name": "BM \"DESERVE oct 23\"🤍"
+       },
+       "created_at": "2026-10-20T15:43:18.000Z",
+       "lang": null,
+       "text": "@kchartsmaster Can't wait\n\nDESERVE ERA IS ALMOST HERE\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_ https://t.co/KgUaZRDPOH",
+       "text_zh": "等不及了\n\nDESERVE 时代马上就来了\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_",
+       "likes": 10,
+       "media": [
+        {
+         "key": "3_2112570354141159424",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVFbi1Ga4AA5A3P.jpg",
+         "width": 1200,
+         "height": 640
+        }
+       ]
+      },
+      {
+       "id": "2112563049014181925",
+       "url": "https://x.com/babyChels_9/status/2112563049014181925",
+       "author": {
+        "username": "babyChels_9",
+        "name": "✨ #DESERVE"
+       },
+       "created_at": "2026-10-20T15:14:15.000Z",
+       "lang": null,
+       "text": "@kchartsmaster respectfully GET YOUR HANDS OFF HERRRRRRR https://t.co/iZyfnQNePo",
+       "text_zh": "恕我直言，把你的手从她身上拿开！！！！",
+       "likes": 9,
+       "media": [
+        {
+         "key": "3_2112563036758441984",
+         "type": "photo",
+         "url": "https://pbs.twimg.com/media/HVFU45ubgAA_FUW.jpg",
+         "width": 2816,
+         "height": 1759
+        }
+       ]
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112561288291250176",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFTTILXcAAcjnl.jpg",
+       "width": 1200,
+       "height": 640
+      },
+      {
+       "key": "3_2112561307446624256",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFTUPiXQAAbviM.jpg",
+       "width": 1200,
+       "height": 640
+      },
+      {
+       "key": "3_2112561327671476224",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFTVa4WAAATt_8.jpg",
+       "width": 1200,
+       "height": 640
+      },
+      {
+       "key": "3_2112561348424957952",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVFTWoMXAAASEmU.jpg",
+       "width": 1200,
+       "height": 640
+      }
+     ]
+    }
+   ],
+   "country": "KR"
+  },
+  {
+   "id": "kr-baekhyun-trojan-horse-swf",
+   "region": "east_asia",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "伯贤未发行英文歌《Trojan Horse》登上 Mnet 街舞综艺决赛，粉丝喊话“快上架”",
+   "summary_zh": "据 X 新闻摘要，10 月 20 日 Mnet《Street World Fighter: Directors' War》决赛中，编舞师 Kasper 在啦啦队主题舞台上使用了伯贤尚未发行的歌曲《Trojan Horse》。观众被这首歌的洗脑节奏和英文歌词“I’m like a Trojan Horse”圈粉，粉丝随即翻出伯贤另外几首未发行英文歌《Magic on the Floor》《Always You》，要求正式发行。",
+   "why_youth_zh": "综艺舞台意外“带火”一首没发行的歌，是很典型的 K-pop 出圈路径；还有粉丝觉得它很适合当英雄联盟赛事主题曲。",
+   "keywords": [
+    "BAEKHYUN",
+    "백현",
+    "Trojan Horse",
+    "Street World Fighter",
+    "스월파"
+   ],
+   "trend_hits": [],
+   "rank": 5,
+   "heat": {
+    "post_count": 10090,
+    "query": "((\"Trojan Horse\" (Baekhyun OR 백현)) OR \"Street World Fighter\" OR 스월파 OR \"스트릿 월드 파이터\")",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "posts": [
+    {
+     "id": "2112555198568968455",
+     "url": "https://x.com/qtpiebyunbaek/status/2112555198568968455",
+     "author": {
+      "username": "qtpiebyunbaek",
+      "name": "큐티/백현이",
+      "followers": 123812
+     },
+     "created_at": "2026-10-20T14:43:03.000Z",
+     "lang": "hi",
+     "text": "Trojan Horse, BAEKHYUN (2026) https://t.co/rYLJYxhnHH",
+     "text_zh": "Trojan Horse，伯贤（BAEKHYUN）（2026）",
+     "metrics": {
+      "likes": 4587,
+      "reposts": 2245,
+      "replies": 18,
+      "quotes": 422,
+      "views": 116609,
+      "bookmarks": 939
+     },
+     "replies": [
+      {
+       "id": "2112578685257883790",
+       "url": "https://x.com/CandidBiscuit/status/2112578685257883790",
+       "author": {
+        "username": "CandidBiscuit",
+        "name": "A Simple Soul"
+       },
+       "created_at": "2026-10-20T16:16:23.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek LEAGUE OF LEGEND THEME !! I wanna hear more of that type of music from Baekhyun !",
+       "text_zh": "有英雄联盟主题曲那味了！！我想听伯贤更多这类音乐！",
+       "likes": 41
+      },
+      {
+       "id": "2112595500906188887",
+       "url": "https://x.com/xhanb4ek/status/2112595500906188887",
+       "author": {
+        "username": "xhanb4ek",
+        "name": "xhαη ♡ 백현 ✵ 큥녀 🩷"
+       },
+       "created_at": "2026-10-20T17:23:12.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek Baekhyun insanity MYGOODNESS!!!! 😭🐎 Now release Trojan Horse and Always You on Spotify @B_hundred_Hyun, jebaaaal!!!! The world need to hear those bangers.",
+       "text_zh": "伯贤太疯了我的天！！！！😭🐎 快把 Trojan Horse 和 Always You 上架 Spotify 吧 @B_hundred_Hyun，求求了（jebal）！！！！全世界都需要听到这些神曲。",
+       "likes": 11
+      },
+      {
+       "id": "2112588551292441042",
+       "url": "https://x.com/SunnyByunlr/status/2112588551292441042",
+       "author": {
+        "username": "SunnyByunlr",
+        "name": "SunnyByun"
+       },
+       "created_at": "2026-10-20T16:55:35.000Z",
+       "lang": "en",
+       "text": "@qtpiebyunbaek Can you hear it? This is the voice of K-pop’s King of Vocals, Byun Baekhyun. 👑🎤\n#백현 #BAEKHYUN",
+       "text_zh": "听到了吗？这就是 K-pop“声乐之王”边伯贤的声音。👑🎤\n#백현 #BAEKHYUN",
+       "likes": 11
+      },
+      {
+       "id": "2112567905477087693",
+       "url": "https://x.com/4everkyoong/status/2112567905477087693",
+       "author": {
+        "username": "4everkyoong",
+        "name": "ForeverKyoong💞"
+       },
+       "created_at": "2026-10-20T15:33:32.000Z",
+       "lang": "ko",
+       "text": "@qtpiebyunbaek @design_by_b04 오빠 노래 잘 부르네요~",
+       "text_zh": "哥哥唱得真好呢～",
+       "likes": 9
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112553871126245376",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112553871126245376/img/MrHR9vRDrgual5tT.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112553871126245376/vid/avc1/1278x720/1ydwrabqx3WYUqu1.mp4",
+       "duration_ms": 184446,
+       "width": 2096,
+       "height": 1180
+      }
+     ]
+    },
+    {
+     "id": "2112559001896722620",
+     "url": "https://x.com/knockknock0408/status/2112559001896722620",
+     "author": {
+      "username": "knockknock0408",
+      "name": "'KNOCK KNOCK!'",
+      "followers": 864305
+     },
+     "created_at": "2026-10-20T14:58:10.000Z",
+     "lang": "in",
+     "text": "BAEKHYUN  https://t.co/gvAiFD7zn5",
+     "text_zh": "伯贤",
+     "metrics": {
+      "likes": 1785,
+      "reposts": 929,
+      "replies": 4,
+      "quotes": 43,
+      "views": 39634,
+      "bookmarks": 138
+     },
+     "replies": [
+      {
+       "id": "2112574540907790668",
+       "url": "https://x.com/mm_tata91/status/2112574540907790668",
+       "author": {
+        "username": "mm_tata91",
+        "name": "Tatá brotinho 🌱"
+       },
+       "created_at": "2026-10-20T15:59:54.000Z",
+       "lang": "en",
+       "text": "@knockknock0408 Amazing, amazing and amazing!!!\nBaekhyun you are the best!!! \n\n@B_hundred_Hyun #BAEKHYUN #백현 https://t.co/GUiesdUtES",
+       "text_zh": "太棒了，太棒了，太棒了！！！伯贤你是最棒的！！！\n\n@B_hundred_Hyun #BAEKHYUN #백현",
+       "likes": 6,
+       "media": [
+        {
+         "key": "16_2112574527729274880",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVFfVw7XkAA17cQ.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVFfVw7XkAA17cQ.mp4",
+         "width": 500,
+         "height": 280
+        }
+       ]
+      },
+      {
+       "id": "2112617870303846791",
+       "url": "https://x.com/runtowardyourp/status/2112617870303846791",
+       "author": {
+        "username": "runtowardyourp",
+        "name": "BaekSoo"
+       },
+       "created_at": "2026-10-20T18:52:05.000Z",
+       "lang": "en",
+       "text": "@knockknock0408 @AJIREX9 I miss his voice in power tracks so much!! R&B is great but his voice is also PERFECT for these rock-type songs.",
+       "text_zh": "好想念他唱力量型歌曲的声音！！R&B 很棒，但他的声音也超级适合这种摇滚风的歌。",
+       "likes": 3
+      }
+     ],
+     "media": [
+      {
+       "key": "13_2112557821137199105",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112557821137199105/img/RXj_5f0HZf6YE7i1.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112557821137199105/vid/avc1/1278x720/LQ1RIG0B3sZ6jzSP.mp4",
+       "duration_ms": 182808,
+       "width": 2096,
+       "height": 1180
+      }
+     ]
+    },
+    {
+     "id": "2112572224574312661",
+     "url": "https://x.com/lightbaek614/status/2112572224574312661",
+     "author": {
+      "username": "lightbaek614",
+      "name": "𝙘𝙖𝙣𝙙𝙮 c🎀(^ㅅ^🎀c)",
+      "followers": 18677
+     },
+     "created_at": "2026-10-20T15:50:42.000Z",
+     "lang": "en",
+     "text": "baekhyun and his unreleased english songs 😭 we need them now sir @B_hundred_Hyun \n\n-magic on the floor\n-always you\n-trojan horse https://t.co/a2rfQ1Ve3D",
+     "text_zh": "伯贤和他那些没发行的英文歌 😭 我们现在就要，先生 @B_hundred_Hyun\n\n- magic on the floor\n- always you\n- trojan horse",
+     "metrics": {
+      "likes": 871,
+      "reposts": 380,
+      "replies": 0,
+      "quotes": 66,
+      "views": 11349,
+      "bookmarks": 127
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "13_2112572079296147456",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112572079296147456/img/lidj2NljvMrRODtE.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112572079296147456/vid/avc1/1280x720/pv56C_zgSypC8sBn.mp4",
+       "duration_ms": 88755,
+       "width": 1920,
+       "height": 1080
+      },
+      {
+       "key": "13_2112572079224811520",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112572079224811520/img/euiA5UPdY6t31RyB.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112572079224811520/vid/avc1/1280x720/os1cwwe9e3RciiWG.mp4",
+       "duration_ms": 94208,
+       "width": 1818,
+       "height": 1022
+      },
+      {
+       "key": "13_2112572079254253568",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112572079254253568/img/iqZYEFlyMpMmO128.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112572079254253568/vid/avc1/1278x720/xUe8B5DlknzC0BzQ.mp4",
+       "duration_ms": 46391,
+       "width": 2096,
+       "height": 1180
+      }
+     ]
+    },
+    {
+     "id": "2112643656801042904",
+     "url": "https://x.com/BBHE_/status/2112643656801042904",
+     "author": {
+      "username": "BBHE_",
+      "name": "Night Rain☔",
+      "followers": 9665
+     },
+     "created_at": "2026-10-20T20:34:33.000Z",
+     "lang": "en",
+     "text": "BAEKHYUN REALLY ATE AND LEFT NO CRUMBS IN 2026 🥵🔥 https://t.co/RLEqSN74P6",
+     "text_zh": "伯贤在 2026 年真的杀疯了，渣都不剩 🥵🔥",
+     "metrics": {
+      "likes": 687,
+      "reposts": 230,
+      "replies": 0,
+      "quotes": 8,
+      "views": 6183,
+      "bookmarks": 98
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "13_2112642531821330432",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112642531821330432/img/ZSYhrbzcuyTZLeUB.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112642531821330432/vid/avc1/720x1280/DxlW1OoDXqz5tGSr.mp4",
+       "duration_ms": 131169,
+       "width": 720,
+       "height": 1280
+      }
+     ]
+    }
+   ],
+   "country": "KR"
+  },
+  {
+   "id": "kr-boynextdoor-leehan-birthday",
+   "region": "east_asia",
+   "categories": [
+    "娱乐/追星"
+   ],
+   "title_zh": "#이한의_바다에_별이_뜨는날：BOYNEXTDOOR 李韩 22 岁生日，队友深情祝福",
+   "summary_zh": "10 月 20 日是 BOYNEXTDOOR 成员李韩（LEEHAN，本名东炫）的 22 岁生日。据 X 新闻摘要，官方账号发布了生日图和 Weverse 内容，队友明宰铉称他是“像亲弟弟一样”的存在，泰山祝他“收到 ONEDOOR 满满的爱”，粉丝刷起 #이한의_바다에_별이_뜨는날（李韩的大海升起星星的日子）、#TwoTwoTwo21 等标签。",
+   "why_youth_zh": "生日应援是 K-pop 粉丝最日常的“打榜”：生日标签直接冲上韩国趋势榜，队友的长文祝福被逐句翻译转发，合照则被粉丝当作“糖”反复截图。",
+   "keywords": [
+    "BOYNEXTDOOR",
+    "LEEHAN",
+    "이한",
+    "#이한의_바다에_별이_뜨는날",
+    "#TwoTwoTwo21",
+    "#HAPPY_LEEHAN_DAY"
+   ],
+   "trend_hits": [
+    "韩国：#이한의_바다에_별이_뜨는날 / #TwoTwoTwo21 / 생일 축하"
+   ],
+   "rank": 6,
+   "heat": {
+    "post_count": 8870,
+    "query": "(#이한의_바다에_별이_뜨는날 OR #TwoTwoTwo21 OR #HAPPY_LEEHAN_DAY OR (Leehan birthday))",
+    "window": {
+     "start": "2026-10-20T00:05:00Z",
+     "end": "2026-10-21T00:05:00Z"
+    },
+    "source": "x.get_posts_counts_recent"
+   },
+   "note_zh": "回复区以 @好友、标签刷屏为主，缺少有内容的回复，本期回复留空。",
+   "posts": [
+    {
+     "id": "2112425494763454551",
+     "url": "https://x.com/ihanfm/status/2112425494763454551",
+     "author": {
+      "username": "ihanfm",
+      "name": "🍮",
+      "followers": 8126
+     },
+     "created_at": "2026-10-20T06:07:39.000Z",
+     "lang": "en",
+     "text": "JAEHYUN POSTING THIS PHOTO OF HIM WITH LEEHAN HELLO?????? https://t.co/oP3jAcmCG4",
+     "text_zh": "明宰铉发了这张和 LEEHAN 的合照，喂？？？？？？",
+     "metrics": {
+      "likes": 6844,
+      "reposts": 1056,
+      "replies": 22,
+      "quotes": 535,
+      "views": 59059,
+      "bookmarks": 425
+     },
+     "replies": [],
+     "replies_note_zh": "回复多为 @好友 或无实质内容，未收录。",
+     "media": [
+      {
+       "key": "3_2112425485871517696",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDXyYvakAAQ8QQ.jpg",
+       "width": 1536,
+       "height": 2048
+      }
+     ]
+    },
+    {
+     "id": "2112427575989670347",
+     "url": "https://x.com/leehancokr/status/2112427575989670347",
+     "author": {
+      "username": "leehancokr",
+      "name": "🖤",
+      "followers": 31153
+     },
+     "created_at": "2026-10-20T06:15:55.000Z",
+     "lang": "en",
+     "text": "261020 #명재현 birthday post for #이한 💌\n\nto my beloved donghyun-ah, who is like a baby brother to me, happy birthday!! ❤️\nhaving you around always brightens my day with your pretty smile and happy vibe, and whenever i seem down, you’re always the very first to notice. thanks to https://t.co/7zdGUh451u",
+     "text_zh": "261020 #明宰铉 为 #李韩 发的生日祝福 💌\n\n致我亲爱的东炫啊，你就像我的亲弟弟一样，生日快乐！！❤️\n有你在身边，你漂亮的笑容和开心的气场总能点亮我的一天；每当我情绪低落时，你总是第一个察觉。多亏了【原文被截断】",
+     "metrics": {
+      "likes": 1426,
+      "reposts": 384,
+      "replies": 1,
+      "quotes": 95,
+      "views": 13320,
+      "bookmarks": 147
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2112427562752409600",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDZrRuaAAAlKkj.jpg",
+       "width": 1536,
+       "height": 2048
+      },
+      {
+       "key": "3_2112427562744082432",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDZrRsa8AAE3kB.jpg",
+       "width": 2048,
+       "height": 1536
+      },
+      {
+       "key": "3_2112427562756603904",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDZrRvaAAAKFNZ.jpg",
+       "width": 1536,
+       "height": 2048
+      },
+      {
+       "key": "3_2112427562744082433",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDZrRsa8AEmiIM.jpg",
+       "width": 1536,
+       "height": 2048
+      }
+     ]
+    },
+    {
+     "id": "2112409181135442356",
+     "url": "https://x.com/leehancokr/status/2112409181135442356",
+     "author": {
+      "username": "leehancokr",
+      "name": "🖤",
+      "followers": 31153
+     },
+     "created_at": "2026-10-20T05:02:50.000Z",
+     "lang": "en",
+     "text": "261020 #태산 birthday post for #이한 💌\n\ndonghyun-ah happy birthday\nhope you have the happiest day today, receive tons of love from onedoor and let’s cheer up together\n(i’m) so happy to be your friend, let’s stay close forever https://t.co/jsAMjS6qPQ",
+     "text_zh": "261020 #泰山 为 #李韩 发的生日祝福 💌\n\n东炫啊，生日快乐\n希望你今天过得最开心，收到 ONEDOOR 满满的爱，我们一起加油吧\n（我）很开心能成为你的朋友，我们永远好好相处吧",
+     "metrics": {
+      "likes": 1419,
+      "reposts": 416,
+      "replies": 0,
+      "quotes": 107,
+      "views": 13568,
+      "bookmarks": 80
+     },
+     "replies": [],
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2112409172428091392",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDI80bacAAeFA6.jpg",
+       "width": 1190,
+       "height": 1575
+      },
+      {
+       "key": "3_2112409172419747840",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDI80ZbIAAhgzj.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      {
+       "key": "3_2112409172411351040",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVDI80XbAAA1MPf.jpg",
+       "width": 1536,
+       "height": 2048
+      }
+     ]
+    }
+   ],
+   "country": "KR"
   },
   {
    "id": "jp-jojo-world-osaka-kars",
-   "region": "jp",
+   "region": "east_asia",
    "categories": [
     "游戏/动漫"
    ],
@@ -2176,7 +3709,7 @@
     "JOJO"
    ],
    "trend_hits": [],
-   "rank": 2,
+   "rank": 7,
    "heat": {
     "post_count": 3700,
     "query": "(THEJOJOWORLD OR \"JOJO WORLD\" OR (荒木 カーズ) OR (Araki Kars))",
@@ -2261,6 +3794,15 @@
        "text_zh": "太好了，所有反派都要画了",
        "likes": 5
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112366286554697728",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCh8iGakAAg0Dv.jpg",
+       "width": 2481,
+       "height": 3509
+      }
      ]
     },
     {
@@ -2323,13 +3865,23 @@
        "text_zh": "画画迪亚波罗吧！都几十年了！这可怜的家伙真的被困在时间里了！【译注：迪亚波罗在第五部结局中陷入无限死亡的循环】",
        "likes": 0
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112385786452598784",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVCzrk4XYAA2i6F.jpg",
+       "width": 2481,
+       "height": 3509
+      }
      ]
     }
-   ]
+   ],
+   "country": "JP"
   },
   {
    "id": "jp-gymnastics-world-team-title",
-   "region": "jp",
+   "region": "east_asia",
    "categories": [
     "体育"
    ],
@@ -2344,7 +3896,7 @@
     "団体"
    ],
    "trend_hits": [],
-   "rank": 3,
+   "rank": 8,
    "heat": {
     "post_count": 2428,
     "query": "(#Rotterdam2026 OR #WorldGymnastics OR (体操 団体) OR (体操 世界選手権))",
@@ -2377,7 +3929,16 @@
       "bookmarks": 19
      },
      "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2112649290065608704",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGjVgVXgAATJpM.jpg",
+       "width": 1080,
+       "height": 1350
+      }
+     ]
     },
     {
      "id": "2112645442584379443",
@@ -2401,7 +3962,16 @@
      },
      "replies": [],
      "note_zh": "译注：WG2 即“World Gymnastics 2”，俄罗斯队以该中立名义参赛。",
-     "replies_note_zh": "本期未抓取该帖回复。"
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "3_2112644435280310273",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGe662WsAEB8mO.jpg",
+       "width": 1080,
+       "height": 1350
+      }
+     ]
     },
     {
      "id": "2112644823794503761",
@@ -2499,13 +4069,25 @@
       "bookmarks": 8
      },
      "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
+     "replies_note_zh": "本期未抓取该帖回复。",
+     "media": [
+      {
+       "key": "13_2112679662530834432",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2112679662530834432/img/G3MdcmAOOFF4xXGU.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112679662530834432/vid/avc1/720x1280/hTY3rcIHxutbDPV7.mp4?tag=14",
+       "duration_ms": 16360,
+       "width": 1080,
+       "height": 1920
+      }
+     ]
     }
-   ]
+   ],
+   "country": "JP"
   },
   {
    "id": "jp-look-back-live-action-trailer",
-   "region": "jp",
+   "region": "east_asia",
    "categories": [
     "娱乐/追星",
     "游戏/动漫"
@@ -2522,7 +4104,7 @@
     "GKIDS"
    ],
    "trend_hits": [],
-   "rank": 4,
+   "rank": 9,
    "heat": {
     "post_count": 2121,
     "query": "((\"Look Back\" (Koreeda OR Kore-eda OR trailer OR Fujimoto)) OR ルックバック)",
@@ -2606,6 +4188,17 @@
        "text_zh": "动画 58 分钟就把我整破防了，这部要 99 分钟？？我可没预留多哭 41 分钟的预算",
        "likes": 3
       }
+     ],
+     "media": [
+      {
+       "key": "13_2112229515959193600",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/media/HVAq5VxW0AEYNVu.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112229515959193600/vid/avc1/1280x720/MALxaObQujhnhwBe.mp4?tag=16",
+       "duration_ms": 120333,
+       "width": 1280,
+       "height": 720
+      }
      ]
     },
     {
@@ -2656,7 +4249,18 @@
        "likes": 0
       }
      ],
-     "note_zh": "译注：原文写作“based on the novel”，但原作实为藤本树的短篇漫画。"
+     "note_zh": "译注：原文写作“based on the novel”，但原作实为藤本树的短篇漫画。",
+     "media": [
+      {
+       "key": "13_2112229515959193600",
+       "type": "video",
+       "preview_url": "https://pbs.twimg.com/media/HVAq5VxW0AEYNVu.jpg",
+       "mp4": "https://video.twimg.com/amplify_video/2112229515959193600/vid/avc1/1280x720/MALxaObQujhnhwBe.mp4?tag=16",
+       "duration_ms": 120333,
+       "width": 1280,
+       "height": 720
+      }
+     ]
     },
     {
      "id": "2112618942447378635",
@@ -2704,6 +4308,15 @@
        "text": "@Chainsawpedia We don’t even have a release date for the uk yet ? 😭",
        "text_zh": "英国连上映日期都还没有？😭",
        "likes": 1
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112618937204576256",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGHuvHXkAA3JiK.jpg",
+       "width": 1460,
+       "height": 821
       }
      ]
     },
@@ -2756,11 +4369,12 @@
       }
      ]
     }
-   ]
+   ],
+   "country": "JP"
   },
   {
    "id": "jp-oricon-2025-manga-ranking-dandadan",
-   "region": "jp",
+   "region": "east_asia",
    "categories": [
     "游戏/动漫",
     "梗"
@@ -2777,7 +4391,7 @@
     "manga sales"
    ],
    "trend_hits": [],
-   "rank": 5,
+   "rank": 10,
    "heat": {
     "post_count": 34,
     "query": "((Oricon (manga OR ranking OR sales)) OR (オリコン (コミック OR 漫画)) OR (Dandadan (sales OR ranking)))",
@@ -2847,7 +4461,33 @@
        "lang": null,
        "text": "@WSJ_manga @Rand0manga The best isekai 😮‍💨 https://t.co/iLVyyVFULw",
        "text_zh": "最好的异世界作品 😮‍💨",
-       "likes": 1
+       "likes": 1,
+       "media": [
+        {
+         "key": "16_2112654967341273088",
+         "type": "animated_gif",
+         "preview_url": "https://pbs.twimg.com/tweet_video_thumb/HVGof91XUAAF4V2.jpg",
+         "mp4": "https://video.twimg.com/tweet_video/HVGof91XUAAF4V2.mp4",
+         "width": 480,
+         "height": 266
+        }
+       ]
+      }
+     ],
+     "media": [
+      {
+       "key": "3_2112604896939606016",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVF69fDWAAA0cDv.png",
+       "width": 469,
+       "height": 758
+      },
+      {
+       "key": "3_2112605029643223040",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVF7FNaWgAAd-Gt.png",
+       "width": 469,
+       "height": 758
       }
      ]
     },
@@ -2924,6 +4564,15 @@
        "text_zh": "我们和另外 3 个粉丝要疯了！！！😭",
        "likes": 3
       }
+     ],
+     "media": [
+      {
+       "key": "3_2112615677219471360",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVGEw-uWgAA22iZ.jpg",
+       "width": 462,
+       "height": 337
+      }
      ]
     },
     {
@@ -2986,910 +4635,19 @@
        "text_zh": "就是那 5 个超级厉害的粉丝啦，懂的都懂 😉",
        "likes": 0
       }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kr-100-days-of-deception",
-   "region": "kr",
-   "categories": [
-    "娱乐/追星"
-   ],
-   "title_zh": "tvN《100 天的谎言》口碑发酵：金裕贞 × 朴珍荣 1930 年代京城谍战爱情剧",
-   "summary_zh": "据 X 新闻摘要，tvN 新剧《100 天的谎言》于 10 月 10 日开播，讲述 1930 年代京城第一扒手李佳京（金裕贞饰）为独立运动组织执行 100 天卧底任务，与高官养子金泰雄（朴珍荣饰）相遇的故事，收视率从首播 5.3% 涨到第 4 集约 9%。韩媒报道该剧是编剧柳宝利构思约 5 年的作品，制作方 Studio Dragon 因此受益。",
-   "why_youth_zh": "剧本身讨论热，海外粉丝更爱在 Netflix 各地区官号下“玩梗”：菲律宾 Netflix 把一段被反复转发的片段做成 1 小时循环版，评论区直接喊话“也发到 YouTube 上”。",
-   "keywords": [
-    "100일의 거짓말",
-    "100 Days of Deception",
-    "박진영",
-    "Park Jinyoung",
-    "김유정",
-    "Studio Dragon"
-   ],
-   "trend_hits": [],
-   "rank": 1,
-   "heat": {
-    "post_count": 16083,
-    "query": "(\"100 Days of Deception\" OR #100DaysOfDeception OR 100일의거짓말 OR \"100일의 거짓말\" OR 백거짓)",
-    "window": {
-     "start": "2026-10-20T00:05:00Z",
-     "end": "2026-10-21T00:05:00Z"
-    },
-    "source": "x.get_posts_counts_recent"
-   },
-   "note_zh": "本话题只找到 2 条在窗口内、互动足够的帖子，按规则减量收录。",
-   "posts": [
-    {
-     "id": "2112380037546876940",
-     "url": "https://x.com/o3o_rookie/status/2112380037546876940",
-     "author": {
-      "username": "o3o_rookie",
-      "name": "루키",
-      "followers": 16464
-     },
-     "created_at": "2026-10-20T03:07:01.000Z",
-     "lang": "ko",
-     "text": "‘100일의 거짓말’ 터졌고, 스튜디오드래곤 신났다https://t.co/Ocq7ijbZ50\n\n류보리 작가가 약 5년간 구상한 작품으로, 2023년 본격적인 집필에 착수했으며 스튜디오드래곤은 2024년부터 대본 기획·개발에 참여했다.\n\n미쳤다.. 백거짓 5년간 구상한 작품이래 https://t.co/mk4TXVgoV9",
-     "text_zh": "《100 天的谎言》大爆，Studio Dragon 乐开了花\n\n（报道称）这是柳宝利编剧构思了约 5 年的作品，2023 年正式动笔，Studio Dragon 从 2024 年起参与剧本策划与开发。\n\n疯了……听说《百谎》构思了 5 年",
-     "metrics": {
-      "likes": 6377,
-      "reposts": 1887,
-      "replies": 0,
-      "quotes": 333,
-      "views": 199601,
-      "bookmarks": 429
-     },
-     "replies": [],
-     "note_zh": "译注：“백거짓（百谎）”是韩国网友对剧名的简称。",
-     "replies_note_zh": "该帖暂无回复。"
-    },
-    {
-     "id": "2112483968008515892",
-     "url": "https://x.com/Netflix_PH/status/2112483968008515892",
-     "author": {
-      "username": "Netflix_PH",
-      "name": "Netflix Philippines",
-      "followers": 378347
-     },
-     "created_at": "2026-10-20T10:00:00.000Z",
-     "lang": "en",
-     "text": "i know you can't help but watch this clip every time it shows up in the tl so here's a 1 hour version 😋\n\n#100DaysOfDeception #ParkJinyoung #박진영 https://t.co/FIBbykGLc9",
-     "text_zh": "我知道每次时间线刷到这段你都忍不住要看，所以这里有个 1 小时版 😋\n\n#100DaysOfDeception #ParkJinyoung #朴珍荣",
-     "metrics": {
-      "likes": 1790,
-      "reposts": 478,
-      "replies": 16,
-      "quotes": 131,
-      "views": 50186,
-      "bookmarks": 299
-     },
-     "replies": [
+     ],
+     "media": [
       {
-       "id": "2112534104675692885",
-       "url": "https://x.com/stan_gotseven/status/2112534104675692885",
-       "author": {
-        "username": "stan_gotseven",
-        "name": "rita 🐥🪾"
-       },
-       "created_at": "2026-10-20T13:19:14.000Z",
-       "lang": null,
-       "text": "@Netflix_PH You forgot to tag his account so he sees this lmao here ya go @JINYOUNG",
-       "text_zh": "你忘了 @ 他本人让他看到了，笑死，帮你补上 @JINYOUNG",
-       "likes": 9
-      },
-      {
-       "id": "2112672308431048717",
-       "url": "https://x.com/Jinyoungpark__5/status/2112672308431048717",
-       "author": {
-        "username": "Jinyoungpark__5",
-        "name": "🧡PARK JINYOUNG Said & Done🧡🩵💙✨"
-       },
-       "created_at": "2026-10-20T22:28:24.000Z",
-       "lang": null,
-       "text": "@Netflix_PH You’re my fav Netflix account for a reason 🫠 Love it! 🧡✨ Now, how about putting this on your YouTube channel, too? Please… 🙏🏻🤪 https://t.co/TKLxKZ5G2P",
-       "text_zh": "你们是我最喜欢的 Netflix 账号是有原因的 🫠 爱了！🧡✨ 那能不能也发到你们的 YouTube 频道上？拜托……🙏🏻🤪",
-       "likes": 3
-      },
-      {
-       "id": "2112526811892707555",
-       "url": "https://x.com/imcelyah/status/2112526811892707555",
-       "author": {
-        "username": "imcelyah",
-        "name": "Hey Cel"
-       },
-       "created_at": "2026-10-20T12:50:15.000Z",
-       "lang": null,
-       "text": "@Netflix_PH 1 hour, indeed! ☺️",
-       "text_zh": "1 小时，名副其实！☺️",
-       "likes": 1
+       "key": "3_2112607698600828928",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HVF9gkDboAAItjd.jpg",
+       "width": 1280,
+       "height": 478
       }
      ]
     }
-   ]
-  },
-  {
-   "id": "kr-onew-illusion",
-   "region": "kr",
-   "categories": [
-    "娱乐/追星"
    ],
-   "title_zh": "SHINee 温流发行首张单曲专辑《错觉》，从抒情转向舞曲",
-   "summary_zh": "10 月 20 日下午 6 点（韩国时间），SHINee 温流发行首张单曲专辑《착각（错觉）》，收录同名主打歌以及与 YUJU 合作的《Mind Games》、与 ZICO 合作的《Tic Tac Toe》。据 X 新闻摘要，MV 以群舞和“现实与错觉”的反转为看点，这是温流从抒情曲风转向舞曲的一次尝试，10 月 21 日还将登上 it's Live 演出。",
-   "why_youth_zh": "SHINee 粉丝（Shawol）跨语种刷屏，西语、日语、韩语的应援回复都有，“红光剪影”舞台镜头被粉丝反复截图。",
-   "keywords": [
-    "ONEW",
-    "온유",
-    "착각",
-    "Illusion",
-    "#온유착각",
-    "SHINee"
-   ],
-   "trend_hits": [],
-   "rank": 2,
-   "heat": {
-    "post_count": 13575,
-    "query": "(#온유착각 OR (ONEW Illusion) OR (온유 착각))",
-    "window": {
-     "start": "2026-10-20T00:05:00Z",
-     "end": "2026-10-21T00:05:00Z"
-    },
-    "source": "x.get_posts_counts_recent"
-   },
-   "posts": [
-    {
-     "id": "2112468873609920627",
-     "url": "https://x.com/ONEW_GRIFFIN/status/2112468873609920627",
-     "author": {
-      "username": "ONEW_GRIFFIN",
-      "name": "ONEW",
-      "followers": 57478
-     },
-     "created_at": "2026-10-20T09:00:01.000Z",
-     "lang": "ko",
-     "text": "온유 ONEW '착각' MV\n\nhttps://t.co/JzNRwk57h2\n\n2026.10.20 6PM (KST)\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/5PqNOpH6C5",
-     "text_zh": "温流 ONEW《错觉》MV\n\n2026.10.20 下午 6 点（韩国时间）\n\n#温流 #ONEW\n#错觉 #温流错觉",
-     "metrics": {
-      "likes": 3443,
-      "reposts": 1856,
-      "replies": 11,
-      "quotes": 144,
-      "views": 71048,
-      "bookmarks": 120
-     },
-     "replies": [
-      {
-       "id": "2112472488068120695",
-       "url": "https://x.com/anthoomarquez/status/2112472488068120695",
-       "author": {
-        "username": "anthoomarquez",
-        "name": "Anthoo⁷✨🇦🇷"
-       },
-       "created_at": "2026-10-20T09:14:23.000Z",
-       "lang": null,
-       "text": "@ONEW_GRIFFIN Me encanta todo, como amo tu voz Jinki 😍♥️\n\nhttps://t.co/rOB73F6aUi\n\n#온유 #ONEW\n#착각 #온유착각",
-       "text_zh": "我好爱这一切，好爱你的声音，珍基 😍♥️【译注：珍基（Jinki）是温流的本名】",
-       "likes": 2
-      },
-      {
-       "id": "2112507314729353635",
-       "url": "https://x.com/aaaaasa1/status/2112507314729353635",
-       "author": {
-        "username": "aaaaasa1",
-        "name": "aaaaasa"
-       },
-       "created_at": "2026-10-20T11:32:46.000Z",
-       "lang": null,
-       "text": "@ONEW_GRIFFIN MV　とっても　かっこいいです☺️🕺💜💜💜",
-       "text_zh": "MV 超帅的☺️🕺💜💜💜",
-       "likes": 1
-      },
-      {
-       "id": "2112474114103587270",
-       "url": "https://x.com/Jinki813/status/2112474114103587270",
-       "author": {
-        "username": "Jinki813",
-        "name": "shinee813"
-       },
-       "created_at": "2026-10-20T09:20:51.000Z",
-       "lang": null,
-       "text": "@ONEW_GRIFFIN MV　ありがとうございます　とっても　かっこいい～ですね😊🐰🎬🕺💃🎶💐💘💞👏",
-       "text_zh": "谢谢你的 MV，好帅啊～😊🐰🎬🕺💃🎶💐💘💞👏",
-       "likes": 1
-      }
-     ]
-    },
-    {
-     "id": "2112529275693752765",
-     "url": "https://x.com/itsLIVEofficial/status/2112529275693752765",
-     "author": {
-      "username": "itsLIVEofficial",
-      "name": "it's Live",
-      "followers": 132465
-     },
-     "created_at": "2026-10-20T13:00:02.000Z",
-     "lang": "en",
-     "text": "<COMING UP NEXT>\n#온유 - #착각\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#온유착각 #잇츠라이브 #KPOP #itsLive https://t.co/imwADg6r8d",
-     "text_zh": "<下一位>\n#温流 - #错觉\n#ONEW - Illusion\n@ONEW_GRIFFIN\n\n#温流错觉 #its_Live #KPOP #itsLive",
-     "metrics": {
-      "likes": 2069,
-      "reposts": 1001,
-      "replies": 7,
-      "quotes": 66,
-      "views": 38184,
-      "bookmarks": 105
-     },
-     "replies": [
-      {
-       "id": "2112553419391021514",
-       "url": "https://x.com/laura_plink/status/2112553419391021514",
-       "author": {
-        "username": "laura_plink",
-        "name": "Lau Rosales🫣"
-       },
-       "created_at": "2026-10-20T14:35:59.000Z",
-       "lang": "en",
-       "text": "@itsLIVEofficial @ONEW_GRIFFIN the red light silhouette is doing all the work and im not mad about it",
-       "text_zh": "红光剪影真是撑起了全场，我一点意见都没有",
-       "likes": 0
-      },
-      {
-       "id": "2112534994551992479",
-       "url": "https://x.com/yellow5863/status/2112534994551992479",
-       "author": {
-        "username": "yellow5863",
-        "name": "목소리 보컬 = 온유더라(or모더라)"
-       },
-       "created_at": "2026-10-20T13:22:46.000Z",
-       "lang": "ko",
-       "text": "@itsLIVEofficial @ONEW_GRIFFIN 와 소진기 대박이요 ㅠㅜ 착각도 찍었다릿!! 와우우우 ㅠ 맨날 갬동 ya",
-       "text_zh": "哇，소진기 太厉害了呜呜，《错觉》也拍了！！哇呜呜呜，每天都被感动 ya",
-       "likes": 0
-      },
-      {
-       "id": "2112626826107560305",
-       "url": "https://x.com/DeepOnew/status/2112626826107560305",
-       "author": {
-        "username": "DeepOnew",
-        "name": "𝕆ℕ𝔼𝕎𝕒𝕪길이모더라¿¡"
-       },
-       "created_at": "2026-10-20T19:27:40.000Z",
-       "lang": "ko",
-       "text": "@itsLIVEofficial @ONEW_GRIFFIN 잇츠라이브 진짜 사랑합니다 🩵🩵🩵🩵🩵",
-       "text_zh": "it's Live 我真的爱你们 🩵🩵🩵🩵🩵",
-       "likes": 0
-      }
-     ]
-    },
-    {
-     "id": "2112468883601056250",
-     "url": "https://x.com/ONEW_GRIFFIN/status/2112468883601056250",
-     "author": {
-      "username": "ONEW_GRIFFIN",
-      "name": "ONEW",
-      "followers": 57478
-     },
-     "created_at": "2026-10-20T09:00:04.000Z",
-     "lang": "ko",
-     "text": "온유 ONEW 【착각】 OUT NOW\n\n🎧 https://t.co/VN16rHpUSc\n\n#온유 #ONEW\n#착각 #온유착각 https://t.co/SD8tsQc9xa",
-     "text_zh": "温流 ONEW【错觉】现已上线\n\n🎧（链接）\n\n#温流 #ONEW\n#错觉 #温流错觉",
-     "metrics": {
-      "likes": 1521,
-      "reposts": 784,
-      "replies": 2,
-      "quotes": 21,
-      "views": 22178,
-      "bookmarks": 27
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    },
-    {
-     "id": "2112471677888282932",
-     "url": "https://x.com/soompi/status/2112471677888282932",
-     "author": {
-      "username": "soompi",
-      "name": "Soompi",
-      "followers": 6694617
-     },
-     "created_at": "2026-10-20T09:11:10.000Z",
-     "lang": "en",
-     "text": "WATCH: #Onew Gets Caught In A Sweet Illusion In New “Chakgak” MV\nhttps://t.co/YePLLv9H4z https://t.co/MnyeLvpxWM",
-     "text_zh": "观看：温流在新 MV《Chakgak（错觉）》中陷入一场甜蜜的错觉",
-     "metrics": {
-      "likes": 467,
-      "reposts": 132,
-      "replies": 0,
-      "quotes": 1,
-      "views": 21608,
-      "bookmarks": 13
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    }
-   ]
-  },
-  {
-   "id": "kr-babymonster-deserve-stills",
-   "region": "kr",
-   "categories": [
-    "娱乐/追星"
-   ],
-   "title_zh": "BABYMONSTER 新单曲《DESERVE》MV 剧照公开，10 月 23 日发行",
-   "summary_zh": "YG 旗下女团 BABYMONSTER 连续公开数码单曲《DESERVE》的 MV 剧照，雨夜、火花、个人特写等画面都标注了 10 月 23 日下午 1 点（韩国时间）的发行时间。据 X 新闻摘要，梁铉锡称这是一首慢节奏但能量强烈的歌曲。",
-   "why_youth_zh": "粉丝在倒计时标签 #2DaysUntilBABYMONSTERDeserve 下逐张解读剧照：Rita 的戏份、Ahyeon 的“演员感”、MV 里的男演员是谁，以及“RAMI 还没回归吗”。",
-   "keywords": [
-    "BABYMONSTER",
-    "DESERVE",
-    "베이비몬스터",
-    "Ahyeon",
-    "Rami",
-    "YG"
-   ],
-   "trend_hits": [],
-   "rank": 3,
-   "heat": {
-    "post_count": 12260,
-    "query": "(((BABYMONSTER OR 베이비몬스터) DESERVE) OR #AHYEON_DESERVE OR #2DaysUntilBABYMONSTERDeserve)",
-    "window": {
-     "start": "2026-10-20T00:05:00Z",
-     "end": "2026-10-21T00:05:00Z"
-    },
-    "source": "x.get_posts_counts_recent"
-   },
-   "posts": [
-    {
-     "id": "2112559863327039514",
-     "url": "https://x.com/YGBABYMONSTER_/status/2112559863327039514",
-     "author": {
-      "username": "YGBABYMONSTER_",
-      "name": "BABYMONSTER",
-      "followers": 1003551
-     },
-     "created_at": "2026-10-20T15:01:35.000Z",
-     "lang": "en",
-     "text": "[DESERVE] M/V STILL CUT 08\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/dh5d3rUonv",
-     "text_zh": "[DESERVE] M/V 剧照 08\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
-     "metrics": {
-      "likes": 7147,
-      "reposts": 2112,
-      "replies": 92,
-      "quotes": 332,
-      "views": 175930,
-      "bookmarks": 123
-     },
-     "replies": [
-      {
-       "id": "2112562129811435537",
-       "url": "https://x.com/spongepatrickss/status/2112562129811435537",
-       "author": {
-        "username": "spongepatrickss",
-        "name": "ZALABIM ZALABAM ZALABOOM"
-       },
-       "created_at": "2026-10-20T15:10:35.000Z",
-       "lang": "en",
-       "text": "@YGBABYMONSTER_ Omg, what kind of MV scene is this? I feel like a lot of people are going to have their hearts broken lol",
-       "text_zh": "天哪，这是什么 MV 场景？感觉会有很多人心碎哈哈",
-       "likes": 30
-      },
-      {
-       "id": "2112565551944159430",
-       "url": "https://x.com/Tracy_Monstiez/status/2112565551944159430",
-       "author": {
-        "username": "Tracy_Monstiez",
-        "name": "𝒯𝓇𝒶𝒸𝓎 ᱬ"
-       },
-       "created_at": "2026-10-20T15:24:11.000Z",
-       "lang": "en",
-       "text": "@YGBABYMONSTER_ Rita what????😱😱",
-       "text_zh": "Rita 什么情况？？？？😱😱",
-       "likes": 6
-      },
-      {
-       "id": "2112563751711068644",
-       "url": "https://x.com/riripear01/status/2112563751711068644",
-       "author": {
-        "username": "riripear01",
-        "name": "karsen"
-       },
-       "created_at": "2026-10-20T15:17:02.000Z",
-       "lang": "en",
-       "text": "@YGBABYMONSTER_ can that guy fight?",
-       "text_zh": "那男的能打吗？",
-       "likes": 1
-      }
-     ]
-    },
-    {
-     "id": "2112559935196455265",
-     "url": "https://x.com/YGBABYMONSTER_/status/2112559935196455265",
-     "author": {
-      "username": "YGBABYMONSTER_",
-      "name": "BABYMONSTER",
-      "followers": 1003551
-     },
-     "created_at": "2026-10-20T15:01:52.000Z",
-     "lang": "en",
-     "text": "[DESERVE] M/V STILL CUT 11\n\n2026.10.23. 1PM KST\n\nPre-Save Now.\nhttps://t.co/x3WZtji32Z\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG https://t.co/epycGto9CC",
-     "text_zh": "[DESERVE] M/V 剧照 11\n\n2026.10.23. 下午 1 点（韩国时间）\n\n现已开启预存。\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #DESERVE #YG",
-     "metrics": {
-      "likes": 6326,
-      "reposts": 1806,
-      "replies": 81,
-      "quotes": 94,
-      "views": 122725,
-      "bookmarks": 130
-     },
-     "replies": [
-      {
-       "id": "2112561904527016368",
-       "url": "https://x.com/Psyche_Ahy/status/2112561904527016368",
-       "author": {
-        "username": "Psyche_Ahy",
-        "name": "ᱬochii Ahy 🦋🌹"
-       },
-       "created_at": "2026-10-20T15:09:42.000Z",
-       "lang": "en",
-       "text": "@YGBABYMONSTER_ Actress Ahyeon on the way!! 😭😭\n\nAHYEON'S VOCALS ARE WHAT WE DESERVE\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
-       "text_zh": "演员 Ahyeon 正在路上！！😭😭\n\nAHYEON 的歌声就是我们应得的（DESERVE）\n#AHYEON_DESERVE\n#2DaysUntilBABYMONSTERDeserve\n#AHYEON #아현 #BABYMONSTER",
-       "likes": 4
-      },
-      {
-       "id": "2112561537886077285",
-       "url": "https://x.com/yaxianhealings/status/2112561537886077285",
-       "author": {
-        "username": "yaxianhealings",
-        "name": "mira"
-       },
-       "created_at": "2026-10-20T15:08:14.000Z",
-       "lang": "et",
-       "text": "@YGBABYMONSTER_ Ahyeon looks soo sad.....",
-       "text_zh": "Ahyeon 看起来好难过……",
-       "likes": 4
-      },
-      {
-       "id": "2112561614029504925",
-       "url": "https://x.com/yaxianhealings/status/2112561614029504925",
-       "author": {
-        "username": "yaxianhealings",
-        "name": "mira"
-       },
-       "created_at": "2026-10-20T15:08:32.000Z",
-       "lang": "en",
-       "text": "@YGBABYMONSTER_ THIS LOOKS SOO GOODDDDDD",
-       "text_zh": "看起来好好看啊啊啊",
-       "likes": 3
-      }
-     ]
-    },
-    {
-     "id": "2112560607035523147",
-     "url": "https://x.com/picbaemon/status/2112560607035523147",
-     "author": {
-      "username": "picbaemon",
-      "name": "BABYMONSTER PICS",
-      "followers": 181159
-     },
-     "created_at": "2026-10-20T15:04:32.000Z",
-     "lang": "en",
-     "text": "BABYMONSTER FOR DESERVE https://t.co/gBWeg7qQHZ",
-     "text_zh": "BABYMONSTER 演绎《DESERVE》",
-     "metrics": {
-      "likes": 2511,
-      "reposts": 384,
-      "replies": 10,
-      "quotes": 19,
-      "views": 23484,
-      "bookmarks": 54
-     },
-     "replies": [
-      {
-       "id": "2112561635240141179",
-       "url": "https://x.com/Karina_myVenus/status/2112561635240141179",
-       "author": {
-        "username": "Karina_myVenus",
-        "name": "Nico♡aespa_카리나 🎒🦜"
-       },
-       "created_at": "2026-10-20T15:08:37.000Z",
-       "lang": null,
-       "text": "@picbaemon So, hasn't RAMI returned yet?\n#Rami #신하람 #라미",
-       "text_zh": "所以 RAMI 还没回归吗？\n#Rami #신하람 #라미",
-       "likes": 9
-      },
-      {
-       "id": "2112569983813513591",
-       "url": "https://x.com/Denyefa117613/status/2112569983813513591",
-       "author": {
-        "username": "Denyefa117613",
-        "name": "𓆩🎀𓆪 𝓙𝓾𝓼𝓽_𝓫𝓵𝓮𝓼𝓼𝓲𝓷𝓰 ☾ ✦"
-       },
-       "created_at": "2026-10-20T15:41:48.000Z",
-       "lang": null,
-       "text": "@picbaemon @lamourrdemaviie I think I like the still cuts than those passport photo as concept teasers …\nThe still cuts builds more suspense and I can’t wait to for the MV",
-       "text_zh": "比起那些证件照风格的概念预告，我好像更喜欢这些剧照……剧照更有悬念，等不及看 MV 了",
-       "likes": 4
-      },
-      {
-       "id": "2112566576268582945",
-       "url": "https://x.com/rorasgirlfriend/status/2112566576268582945",
-       "author": {
-        "username": "rorasgirlfriend",
-        "name": "Dainbxuv"
-       },
-       "created_at": "2026-10-20T15:28:16.000Z",
-       "lang": null,
-       "text": "@picbaemon 2 more pics tomorrow?",
-       "text_zh": "明天还有两张？",
-       "likes": 1
-      }
-     ]
-    },
-    {
-     "id": "2112561355115143310",
-     "url": "https://x.com/kchartsmaster/status/2112561355115143310",
-     "author": {
-      "username": "kchartsmaster",
-      "name": "Kpop Charts",
-      "followers": 4325147
-     },
-     "created_at": "2026-10-20T15:07:31.000Z",
-     "lang": "en",
-     "text": "BABYMONSTER drops still cuts from the 'DESERVE' music video. https://t.co/YbeJ9Bl2yA",
-     "text_zh": "BABYMONSTER 公开《DESERVE》MV 剧照。",
-     "metrics": {
-      "likes": 2405,
-      "reposts": 398,
-      "replies": 12,
-      "quotes": 16,
-      "views": 58628,
-      "bookmarks": 47
-     },
-     "replies": [
-      {
-       "id": "2112562120038711474",
-       "url": "https://x.com/yyeenn123/status/2112562120038711474",
-       "author": {
-        "username": "yyeenn123",
-        "name": "Rosieposie ꫂ ၴႅၴ"
-       },
-       "created_at": "2026-10-20T15:10:33.000Z",
-       "lang": null,
-       "text": "@kchartsmaster Ritaaa!!! You're crazy https://t.co/cTTgg80Hnn",
-       "text_zh": "Ritaaa！！！你疯了吧",
-       "likes": 16
-      },
-      {
-       "id": "2112570360264888655",
-       "url": "https://x.com/GautamMimangsha/status/2112570360264888655",
-       "author": {
-        "username": "GautamMimangsha",
-        "name": "BM \"DESERVE oct 23\"🤍"
-       },
-       "created_at": "2026-10-20T15:43:18.000Z",
-       "lang": null,
-       "text": "@kchartsmaster Can't wait\n\nDESERVE ERA IS ALMOST HERE\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_ https://t.co/KgUaZRDPOH",
-       "text_zh": "等不及了\n\nDESERVE 时代马上就来了\n#2DaysUntilBABYMONSTERDeserve\n#BABYMONSTER #베이비몬스터 @YGBABYMONSTER_",
-       "likes": 10
-      },
-      {
-       "id": "2112563049014181925",
-       "url": "https://x.com/babyChels_9/status/2112563049014181925",
-       "author": {
-        "username": "babyChels_9",
-        "name": "✨ #DESERVE"
-       },
-       "created_at": "2026-10-20T15:14:15.000Z",
-       "lang": null,
-       "text": "@kchartsmaster respectfully GET YOUR HANDS OFF HERRRRRRR https://t.co/iZyfnQNePo",
-       "text_zh": "恕我直言，把你的手从她身上拿开！！！！",
-       "likes": 9
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kr-baekhyun-trojan-horse-swf",
-   "region": "kr",
-   "categories": [
-    "娱乐/追星"
-   ],
-   "title_zh": "伯贤未发行英文歌《Trojan Horse》登上 Mnet 街舞综艺决赛，粉丝喊话“快上架”",
-   "summary_zh": "据 X 新闻摘要，10 月 20 日 Mnet《Street World Fighter: Directors' War》决赛中，编舞师 Kasper 在啦啦队主题舞台上使用了伯贤尚未发行的歌曲《Trojan Horse》。观众被这首歌的洗脑节奏和英文歌词“I’m like a Trojan Horse”圈粉，粉丝随即翻出伯贤另外几首未发行英文歌《Magic on the Floor》《Always You》，要求正式发行。",
-   "why_youth_zh": "综艺舞台意外“带火”一首没发行的歌，是很典型的 K-pop 出圈路径；还有粉丝觉得它很适合当英雄联盟赛事主题曲。",
-   "keywords": [
-    "BAEKHYUN",
-    "백현",
-    "Trojan Horse",
-    "Street World Fighter",
-    "스월파"
-   ],
-   "trend_hits": [],
-   "rank": 4,
-   "heat": {
-    "post_count": 10090,
-    "query": "((\"Trojan Horse\" (Baekhyun OR 백현)) OR \"Street World Fighter\" OR 스월파 OR \"스트릿 월드 파이터\")",
-    "window": {
-     "start": "2026-10-20T00:05:00Z",
-     "end": "2026-10-21T00:05:00Z"
-    },
-    "source": "x.get_posts_counts_recent"
-   },
-   "posts": [
-    {
-     "id": "2112555198568968455",
-     "url": "https://x.com/qtpiebyunbaek/status/2112555198568968455",
-     "author": {
-      "username": "qtpiebyunbaek",
-      "name": "큐티/백현이",
-      "followers": 123812
-     },
-     "created_at": "2026-10-20T14:43:03.000Z",
-     "lang": "hi",
-     "text": "Trojan Horse, BAEKHYUN (2026) https://t.co/rYLJYxhnHH",
-     "text_zh": "Trojan Horse，伯贤（BAEKHYUN）（2026）",
-     "metrics": {
-      "likes": 4587,
-      "reposts": 2245,
-      "replies": 18,
-      "quotes": 422,
-      "views": 116609,
-      "bookmarks": 939
-     },
-     "replies": [
-      {
-       "id": "2112578685257883790",
-       "url": "https://x.com/CandidBiscuit/status/2112578685257883790",
-       "author": {
-        "username": "CandidBiscuit",
-        "name": "A Simple Soul"
-       },
-       "created_at": "2026-10-20T16:16:23.000Z",
-       "lang": "en",
-       "text": "@qtpiebyunbaek LEAGUE OF LEGEND THEME !! I wanna hear more of that type of music from Baekhyun !",
-       "text_zh": "有英雄联盟主题曲那味了！！我想听伯贤更多这类音乐！",
-       "likes": 41
-      },
-      {
-       "id": "2112595500906188887",
-       "url": "https://x.com/xhanb4ek/status/2112595500906188887",
-       "author": {
-        "username": "xhanb4ek",
-        "name": "xhαη ♡ 백현 ✵ 큥녀 🩷"
-       },
-       "created_at": "2026-10-20T17:23:12.000Z",
-       "lang": "en",
-       "text": "@qtpiebyunbaek Baekhyun insanity MYGOODNESS!!!! 😭🐎 Now release Trojan Horse and Always You on Spotify @B_hundred_Hyun, jebaaaal!!!! The world need to hear those bangers.",
-       "text_zh": "伯贤太疯了我的天！！！！😭🐎 快把 Trojan Horse 和 Always You 上架 Spotify 吧 @B_hundred_Hyun，求求了（jebal）！！！！全世界都需要听到这些神曲。",
-       "likes": 11
-      },
-      {
-       "id": "2112588551292441042",
-       "url": "https://x.com/SunnyByunlr/status/2112588551292441042",
-       "author": {
-        "username": "SunnyByunlr",
-        "name": "SunnyByun"
-       },
-       "created_at": "2026-10-20T16:55:35.000Z",
-       "lang": "en",
-       "text": "@qtpiebyunbaek Can you hear it? This is the voice of K-pop’s King of Vocals, Byun Baekhyun. 👑🎤\n#백현 #BAEKHYUN",
-       "text_zh": "听到了吗？这就是 K-pop“声乐之王”边伯贤的声音。👑🎤\n#백현 #BAEKHYUN",
-       "likes": 11
-      },
-      {
-       "id": "2112567905477087693",
-       "url": "https://x.com/4everkyoong/status/2112567905477087693",
-       "author": {
-        "username": "4everkyoong",
-        "name": "ForeverKyoong💞"
-       },
-       "created_at": "2026-10-20T15:33:32.000Z",
-       "lang": "ko",
-       "text": "@qtpiebyunbaek @design_by_b04 오빠 노래 잘 부르네요~",
-       "text_zh": "哥哥唱得真好呢～",
-       "likes": 9
-      }
-     ]
-    },
-    {
-     "id": "2112559001896722620",
-     "url": "https://x.com/knockknock0408/status/2112559001896722620",
-     "author": {
-      "username": "knockknock0408",
-      "name": "'KNOCK KNOCK!'",
-      "followers": 864305
-     },
-     "created_at": "2026-10-20T14:58:10.000Z",
-     "lang": "in",
-     "text": "BAEKHYUN  https://t.co/gvAiFD7zn5",
-     "text_zh": "伯贤",
-     "metrics": {
-      "likes": 1785,
-      "reposts": 929,
-      "replies": 4,
-      "quotes": 43,
-      "views": 39634,
-      "bookmarks": 138
-     },
-     "replies": [
-      {
-       "id": "2112574540907790668",
-       "url": "https://x.com/mm_tata91/status/2112574540907790668",
-       "author": {
-        "username": "mm_tata91",
-        "name": "Tatá brotinho 🌱"
-       },
-       "created_at": "2026-10-20T15:59:54.000Z",
-       "lang": "en",
-       "text": "@knockknock0408 Amazing, amazing and amazing!!!\nBaekhyun you are the best!!! \n\n@B_hundred_Hyun #BAEKHYUN #백현 https://t.co/GUiesdUtES",
-       "text_zh": "太棒了，太棒了，太棒了！！！伯贤你是最棒的！！！\n\n@B_hundred_Hyun #BAEKHYUN #백현",
-       "likes": 6
-      },
-      {
-       "id": "2112617870303846791",
-       "url": "https://x.com/runtowardyourp/status/2112617870303846791",
-       "author": {
-        "username": "runtowardyourp",
-        "name": "BaekSoo"
-       },
-       "created_at": "2026-10-20T18:52:05.000Z",
-       "lang": "en",
-       "text": "@knockknock0408 @AJIREX9 I miss his voice in power tracks so much!! R&B is great but his voice is also PERFECT for these rock-type songs.",
-       "text_zh": "好想念他唱力量型歌曲的声音！！R&B 很棒，但他的声音也超级适合这种摇滚风的歌。",
-       "likes": 3
-      }
-     ]
-    },
-    {
-     "id": "2112572224574312661",
-     "url": "https://x.com/lightbaek614/status/2112572224574312661",
-     "author": {
-      "username": "lightbaek614",
-      "name": "𝙘𝙖𝙣𝙙𝙮 c🎀(^ㅅ^🎀c)",
-      "followers": 18677
-     },
-     "created_at": "2026-10-20T15:50:42.000Z",
-     "lang": "en",
-     "text": "baekhyun and his unreleased english songs 😭 we need them now sir @B_hundred_Hyun \n\n-magic on the floor\n-always you\n-trojan horse https://t.co/a2rfQ1Ve3D",
-     "text_zh": "伯贤和他那些没发行的英文歌 😭 我们现在就要，先生 @B_hundred_Hyun\n\n- magic on the floor\n- always you\n- trojan horse",
-     "metrics": {
-      "likes": 871,
-      "reposts": 380,
-      "replies": 0,
-      "quotes": 66,
-      "views": 11349,
-      "bookmarks": 127
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    },
-    {
-     "id": "2112643656801042904",
-     "url": "https://x.com/BBHE_/status/2112643656801042904",
-     "author": {
-      "username": "BBHE_",
-      "name": "Night Rain☔",
-      "followers": 9665
-     },
-     "created_at": "2026-10-20T20:34:33.000Z",
-     "lang": "en",
-     "text": "BAEKHYUN REALLY ATE AND LEFT NO CRUMBS IN 2026 🥵🔥 https://t.co/RLEqSN74P6",
-     "text_zh": "伯贤在 2026 年真的杀疯了，渣都不剩 🥵🔥",
-     "metrics": {
-      "likes": 687,
-      "reposts": 230,
-      "replies": 0,
-      "quotes": 8,
-      "views": 6183,
-      "bookmarks": 98
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    }
-   ]
-  },
-  {
-   "id": "kr-boynextdoor-leehan-birthday",
-   "region": "kr",
-   "categories": [
-    "娱乐/追星"
-   ],
-   "title_zh": "#이한의_바다에_별이_뜨는날：BOYNEXTDOOR 李韩 22 岁生日，队友深情祝福",
-   "summary_zh": "10 月 20 日是 BOYNEXTDOOR 成员李韩（LEEHAN，本名东炫）的 22 岁生日。据 X 新闻摘要，官方账号发布了生日图和 Weverse 内容，队友明宰铉称他是“像亲弟弟一样”的存在，泰山祝他“收到 ONEDOOR 满满的爱”，粉丝刷起 #이한의_바다에_별이_뜨는날（李韩的大海升起星星的日子）、#TwoTwoTwo21 等标签。",
-   "why_youth_zh": "生日应援是 K-pop 粉丝最日常的“打榜”：生日标签直接冲上韩国趋势榜，队友的长文祝福被逐句翻译转发，合照则被粉丝当作“糖”反复截图。",
-   "keywords": [
-    "BOYNEXTDOOR",
-    "LEEHAN",
-    "이한",
-    "#이한의_바다에_별이_뜨는날",
-    "#TwoTwoTwo21",
-    "#HAPPY_LEEHAN_DAY"
-   ],
-   "trend_hits": [
-    "韩国：#이한의_바다에_별이_뜨는날 / #TwoTwoTwo21 / 생일 축하"
-   ],
-   "rank": 5,
-   "heat": {
-    "post_count": 8870,
-    "query": "(#이한의_바다에_별이_뜨는날 OR #TwoTwoTwo21 OR #HAPPY_LEEHAN_DAY OR (Leehan birthday))",
-    "window": {
-     "start": "2026-10-20T00:05:00Z",
-     "end": "2026-10-21T00:05:00Z"
-    },
-    "source": "x.get_posts_counts_recent"
-   },
-   "note_zh": "回复区以 @好友、标签刷屏为主，缺少有内容的回复，本期回复留空。",
-   "posts": [
-    {
-     "id": "2112425494763454551",
-     "url": "https://x.com/ihanfm/status/2112425494763454551",
-     "author": {
-      "username": "ihanfm",
-      "name": "🍮",
-      "followers": 8126
-     },
-     "created_at": "2026-10-20T06:07:39.000Z",
-     "lang": "en",
-     "text": "JAEHYUN POSTING THIS PHOTO OF HIM WITH LEEHAN HELLO?????? https://t.co/oP3jAcmCG4",
-     "text_zh": "明宰铉发了这张和 LEEHAN 的合照，喂？？？？？？",
-     "metrics": {
-      "likes": 6844,
-      "reposts": 1056,
-      "replies": 22,
-      "quotes": 535,
-      "views": 59059,
-      "bookmarks": 425
-     },
-     "replies": [],
-     "replies_note_zh": "回复多为 @好友 或无实质内容，未收录。"
-    },
-    {
-     "id": "2112427575989670347",
-     "url": "https://x.com/leehancokr/status/2112427575989670347",
-     "author": {
-      "username": "leehancokr",
-      "name": "🖤",
-      "followers": 31153
-     },
-     "created_at": "2026-10-20T06:15:55.000Z",
-     "lang": "en",
-     "text": "261020 #명재현 birthday post for #이한 💌\n\nto my beloved donghyun-ah, who is like a baby brother to me, happy birthday!! ❤️\nhaving you around always brightens my day with your pretty smile and happy vibe, and whenever i seem down, you’re always the very first to notice. thanks to https://t.co/7zdGUh451u",
-     "text_zh": "261020 #明宰铉 为 #李韩 发的生日祝福 💌\n\n致我亲爱的东炫啊，你就像我的亲弟弟一样，生日快乐！！❤️\n有你在身边，你漂亮的笑容和开心的气场总能点亮我的一天；每当我情绪低落时，你总是第一个察觉。多亏了【原文被截断】",
-     "metrics": {
-      "likes": 1426,
-      "reposts": 384,
-      "replies": 1,
-      "quotes": 95,
-      "views": 13320,
-      "bookmarks": 147
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    },
-    {
-     "id": "2112409181135442356",
-     "url": "https://x.com/leehancokr/status/2112409181135442356",
-     "author": {
-      "username": "leehancokr",
-      "name": "🖤",
-      "followers": 31153
-     },
-     "created_at": "2026-10-20T05:02:50.000Z",
-     "lang": "en",
-     "text": "261020 #태산 birthday post for #이한 💌\n\ndonghyun-ah happy birthday\nhope you have the happiest day today, receive tons of love from onedoor and let’s cheer up together\n(i’m) so happy to be your friend, let’s stay close forever https://t.co/jsAMjS6qPQ",
-     "text_zh": "261020 #泰山 为 #李韩 发的生日祝福 💌\n\n东炫啊，生日快乐\n希望你今天过得最开心，收到 ONEDOOR 满满的爱，我们一起加油吧\n（我）很开心能成为你的朋友，我们永远好好相处吧",
-     "metrics": {
-      "likes": 1419,
-      "reposts": 416,
-      "replies": 0,
-      "quotes": 107,
-      "views": 13568,
-      "bookmarks": 80
-     },
-     "replies": [],
-     "replies_note_zh": "本期未抓取该帖回复。"
-    }
-   ]
+   "country": "JP"
   }
  ],
  "meta": {

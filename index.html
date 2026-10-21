@@ -2,6 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
+<meta name="referrer" content="no-referrer">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>全球青年热议 · Global Trends</title>
 <meta name="description" content="每日整理欧美、日本、韩国年轻人在 X 上热议的话题、热帖与热评，全部附中文翻译。">
@@ -14,7 +15,7 @@
       <span class="logo" aria-hidden="true">◎</span>
       <div>
         <h1>全球青年热议</h1>
-        <p class="sub">X 上欧美 · 日本 · 韩国年轻人在聊什么</p>
+        <p class="sub">X 上欧美 · 日韩年轻人在聊什么</p>
       </div>
     </div>
     <div class="datebox">
@@ -42,7 +43,7 @@
 <footer class="footer">
   <h3>数据说明</h3>
   <ul id="limits">
-    <li>数据全部来自 X（趋势、新闻聚合、帖子搜索与帖子计数接口），每期由编辑筛选并翻译。</li>
+    <li>数据全部来自 X（趋势、新闻聚合、帖子搜索与帖子计数接口），每期由编辑筛选并翻译；图片与视频直接引用 X 的媒体地址（pbs/video.twimg.com），原帖删除后可能无法显示。</li>
     <li>X 无法按年龄筛选用户，“年轻人”是根据话题圈层、语言风格与参与人群推断的，不代表精确的人口统计。</li>
     <li>“热度”为关键词/标签在统计窗口内的帖子数量，会混入无关帖与刷屏帖，只适合同期横向比较。</li>
     <li>热评取自接口能返回的回复样本，不保证是该帖全部回复中最高赞的；点赞等数字为抓取时快照。</li>
@@ -50,6 +51,11 @@
   <p class="fine">已过滤垃圾信息、成人内容、机器人刷屏及仇恨言论。原文版权归原作者所有，点击“在 X 查看”访问原帖。</p>
 </footer>
 
+<div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="媒体预览">
+  <button class="lb-close" aria-label="关闭">✕</button>
+  <div class="lb-body"></div>
+  <div class="lb-foot"><span class="lb-alt"></span><a class="lb-x" target="_blank" rel="noopener">在 X 查看原帖 ↗</a></div>
+</div>
 <script src="static/app.js"></script>
 </body>
 </html>

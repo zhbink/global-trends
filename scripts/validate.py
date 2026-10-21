@@ -8,7 +8,12 @@ Exit code 0 = OK, 1 = errors found. Warnings do not fail.
 import json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REGIONS = {"west", "jp", "kr"}
+REGIONS = {"west", "east_asia"}
+COUNTRIES = {"JP", "KR"}
+REGION_TARGET = {"west": (6, 8), "east_asia": (8, 10)}
+MEDIA_TYPES = {"photo", "video", "animated_gif"}
+PBS_RE = re.compile(r'^https://pbs\.twimg\.com/[\w/.\-]+\.(jpg|jpeg|png|webp|gif)$')
+MP4_RE = re.compile(r'^https://video\.twimg\.com/\S+\.mp4(\?\S*)?$')
 CATEGORIES = {"娱乐/追星", "游戏/动漫", "体育", "科技/AI", "社会", "生活方式", "梗"}
 URL_RE = re.compile(r'^https://x\.com/[A-Za-z0-9_]{1,15}/status/(\d+)$')
 DATE_RE = re.compile(r'^\d{4}-\d{2}-\d{2}$')
@@ -50,6 +55,25 @@ def check_url(v, o, where):
     un = (o.get('author') or {}).get('username')
     if m and un and f"/{un}/" not in u: v.err(f"{where}: url username mismatch")
 
+def check_media(v, o, where):
+    if 'media' not in o: return
+    ms = o['media']
+    if not isinstance(ms, list) or not ms: v.err(f"{where}: media must be a non-empty list when present"); return
+    for i, m in enumerate(ms):
+        mw = f"{where}.media[{i}]"
+        if not isinstance(m, dict): v.err(f"{mw}: not an object"); continue
+        t = m.get('type')
+        if t not in MEDIA_TYPES: v.err(f"{mw}: bad type {t}"); continue
+        if not m.get('key'): v.err(f"{mw}: key missing")
+        if t == 'photo':
+            if not PBS_RE.match(str(m.get('url', ''))): v.err(f"{mw}: photo url must be pbs.twimg.com original: {m.get('url')}")
+        else:
+            if not m.get('preview_url') and not m.get('mp4'): v.err(f"{mw}: video/gif needs preview_url or mp4")
+            if m.get('preview_url') and not PBS_RE.match(m['preview_url']): v.err(f"{mw}: bad preview_url {m['preview_url']}")
+            if m.get('mp4') and not MP4_RE.match(m['mp4']): v.err(f"{mw}: bad mp4 url {m['mp4']}")
+        for k in ('width', 'height', 'duration_ms'):
+            if k in m and not isinstance(m[k], int): v.err(f"{mw}: {k} must be int")
+
 def validate_issue(path, v):
     try: d = json.load(open(path, encoding='utf-8'))
     except Exception as e: v.err(f"{path}: cannot parse JSON: {e}"); return None
@@ -65,7 +89,7 @@ def validate_issue(path, v):
     obs = req(v, d, 'observations_zh', list, w)
     if obs is not None and not (3 <= len(obs) <= 5): v.warn(f"{w}: observations_zh should have 3-5 items (has {len(obs)})")
     topics = req(v, d, 'topics', list, w) or []
-    if not (12 <= len(topics) <= 18): v.warn(f"{w}: {len(topics)} topics (target 12-18)")
+    if not (14 <= len(topics) <= 18): v.warn(f"{w}: {len(topics)} topics (target 14-18)")
     per_region = {}
     ids = set(); post_ids = set()
     for i, t in enumerate(topics):
@@ -76,6 +100,8 @@ def validate_issue(path, v):
         r = req(v, t, 'region', str, tw)
         if r and r not in REGIONS: v.err(f"{tw}: region '{r}' not in {REGIONS}")
         per_region[r] = per_region.get(r, 0) + 1
+        if r == 'east_asia' and t.get('country') not in COUNTRIES: v.err(f"{tw}: east_asia topic needs country in {COUNTRIES}")
+        if 'rank' in t and not isinstance(t['rank'], int): v.err(f"{tw}: rank must be int")
         for k in ('title_zh', 'summary_zh', 'why_youth_zh'):
             s = req(v, t, k, str, tw)
             if s is not None and not CJK.search(s): v.err(f"{tw}: {k} must be Chinese")
@@ -100,7 +126,7 @@ def validate_issue(path, v):
             post_ids.add(pid)
             a = req(v, p, 'author', dict, pw)
             if a is not None and not a.get('username'): v.err(f"{pw}: author.username missing")
-            check_url(v, p, pw); check_text(v, p, pw)
+            check_url(v, p, pw); check_text(v, p, pw); check_media(v, p, pw)
             ts = req(v, p, 'created_at', str, pw)
             if ts and not TS_RE.match(ts): v.err(f"{pw}: bad created_at")
             m = req(v, p, 'metrics', dict, pw)
@@ -112,11 +138,18 @@ def validate_issue(path, v):
                 v.warn(f"{pw}: no replies and no replies_note_zh")
             for k, rp in enumerate(reps or []):
                 rw = f"{pw}.replies[{k}]"
-                req(v, rp, 'id', str, rw); check_url(v, rp, rw); check_text(v, rp, rw)
+                req(v, rp, 'id', str, rw); check_url(v, rp, rw); check_text(v, rp, rw); check_media(v, rp, rw)
                 if not isinstance(rp.get('likes'), int): v.err(f"{rw}: likes must be int")
-    for r in REGIONS:
+    for r, (lo, hi) in REGION_TARGET.items():
         n = per_region.get(r, 0)
-        if not (3 <= n <= 7): v.warn(f"{w}: region {r} has {n} topics (target 4-6)")
+        if not (lo <= n <= hi): v.warn(f"{w}: region {r} has {n} topics (target {lo}-{hi})")
+    if d.get('schema_version') != 2: v.err(f"{w}: schema_version must be 2")
+    ranks = {}
+    for t in topics: ranks.setdefault(t.get('region'), []).append(t.get('rank'))
+    for r, rs in ranks.items():
+        if rs != list(range(1, len(rs) + 1)): v.err(f"{w}: ranks in {r} must be 1..n in file order")
+        hs = [t['heat']['post_count'] for t in topics if t.get('region') == r and isinstance(t.get('heat'), dict)]
+        if hs != sorted(hs, reverse=True): v.warn(f"{w}: {r} topics not sorted by heat")
     req(v, d, 'meta', dict, w)
     return d
 
