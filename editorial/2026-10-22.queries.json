@@ -1,0 +1,17 @@
+{
+ "W1": "(Luka OR Doncic OR Lakers OR Lendeborg OR Yaxel OR #LakeShow)",
+ "W2": "(BioWare OR \"Mass Effect\" OR \"Dragon Age\" OR Veilguard)",
+ "W3": "(Carrick OR #MUFC OR \"Man United\" OR \"Man Utd\" OR \"Manchester United\")",
+ "W4": "(\"Real Madrid\" OR Güler OR \"Arda Guler\" OR Diomande OR Courtois OR Leipzig)",
+ "W5": "(PHP OR PHP2Shell OR GitLab) -lang:ja",
+ "W6": "(\"Anthony Edwards\" OR Giannis OR Timberwolves OR LaMelo)",
+ "W7": "(\"Kai Cenat\" OR KaiCenat OR \"Kai and Ray\")",
+ "J1": "(PHP OR 脆弱性 OR 緊急メンテナンス) lang:ja",
+ "J2": "(ジョジョ OR JoJo OR 吉良吉影 OR JOJOJINS OR \"THE JOJO WORLD\")",
+ "J3": "(禪院直哉 OR 直哉 OR Naoya OR 愛野美奈子 OR セーラーヴィーナス OR \"Sailor Venus\")",
+ "J4": "(\"Stranger Than Heaven\" OR ストレンジャーザンヘヴン)",
+ "K1": "((BTS OR 방탄소년단 OR Jimin OR 지민 OR \"J-Hope\" OR 제이홉) (Argentina OR \"La Plata\" OR 아르헨티나 OR pogo OR ARIRANG))",
+ "K2": "(아이브 OR Yujin OR 안유진 OR Wonyoung OR 장원영 OR #IVE OR \"Looks Can Kill\")",
+ "K3": "(aespa OR 에스파 OR Giselle OR 지젤 OR #MY보고싶다ae가)",
+ "K4": "(NCT (Athletics OR 운동회 OR Jaemin OR Jaehyun OR Jisung OR 재민 OR 재현))"
+}

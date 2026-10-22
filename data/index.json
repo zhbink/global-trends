@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-21",
+ "latest": "2026-10-22",
  "issues": [
+  {
+   "date": "2026-10-22",
+   "topic_count": 15,
+   "post_count": 67,
+   "reply_count": 256,
+   "media_item_count": 101,
+   "regions": {
+    "west": 7,
+    "east_asia": 8
+   },
+   "headline_zh": "曼联欧冠 1:4 惨败科莫，“今晚就解雇卡里克”，布鲁诺赛后发言被指甩锅"
+  },
   {
    "date": "2026-10-21",
    "topic_count": 15,
