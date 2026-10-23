@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-22",
+ "latest": "2026-10-23",
  "issues": [
+  {
+   "date": "2026-10-23",
+   "topic_count": 16,
+   "post_count": 61,
+   "reply_count": 211,
+   "media_item_count": 84,
+   "regions": {
+    "west": 7,
+    "east_asia": 9
+   },
+   "headline_zh": "周四夜赛熊队 30:24 击败爱国者，桑托斯罚丢后又踢进生涯最远 58 码，全队致敬迪特卡"
+  },
   {
    "date": "2026-10-22",
    "topic_count": 15,
