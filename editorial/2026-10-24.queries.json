@@ -1,0 +1,19 @@
+{
+ "W1": "(\"Avengers Doomsday\" OR #AvengersDoomsday OR \"Doctor Doom\" OR \"Steve Rogers\")",
+ "W2": "(#WorldSeries OR \"World Series\" OR Brewers OR Misiorowski OR Caminero OR \"Robin Yount\")",
+ "W3": "(Rockets OR Wemby OR Wembanyama OR Sengun OR \"Amen Thompson\" OR \"Spurs 0-2\")",
+ "W4": "(\"Ethan Klein\" OR \"Hila Klein\" OR h3h3 OR \"H3 Podcast\")",
+ "W5": "(Barkley OR \"Who He Play For\" OR \"Inside the NBA\")",
+ "W6": "(#CelebrityTraitors OR \"Celebrity Traitors\" OR \"Miranda Hart\" OR \"Maya Jama\")",
+ "W7": "(\"open world football\" OR \"Project Gridiron\" OR (EA layoffs) OR BioWare)",
+ "J1": "(宮本茂 OR 文化勲章 OR (Miyamoto \"Order of Culture\"))",
+ "J2": "(攻殻機動隊 OR \"Ghost in the Shell\" OR サイエンスSARU OR \"Science SARU\")",
+ "J3": "(エーテル防護 OR 電気異常 OR サンブリンガー OR Sunbringer OR #ゼンゼロ OR #ZZZero)",
+ "J4": "(\"Ave Mujica\" OR #AveMujica OR \"BADDY BADDY\")",
+ "J5": "(#井芹仁菜生誕祭 OR #井芹仁菜生誕祭2026 OR 井芹仁菜 OR #花宮初奈生誕祭2026 OR 花宮初奈)",
+ "K1": "(디페스타 OR \"D'FESTA\" OR DFESTA OR \"KANON NO.48\")",
+ "K2": "(#Worlds2026 OR \"Worlds 2026\" OR MKOI OR (LPL LCK) OR \"lck 내전\" OR (T1 Worlds))",
+ "K3": "(RIIZE OR #RIIZE OR #RIIZE_Insomnia OR \"Insomnia Hunters\")",
+ "K4": "((Rosé OR ROSÉ OR 로제) (ENHYPEN OR 엔하이픈 OR Jungwon OR Sunghoon OR 정원 OR 성훈))",
+ "K5": "(#StageMasterJimin OR #무대장인_지민 OR Jimtober OR #JIMTOBER OR (Jimin Argentina))"
+}

@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-23",
+ "latest": "2026-10-24",
  "issues": [
+  {
+   "date": "2026-10-24",
+   "topic_count": 17,
+   "post_count": 66,
+   "reply_count": 243,
+   "media_item_count": 131,
+   "regions": {
+    "west": 7,
+    "east_asia": 10
+   },
+   "headline_zh": "酿酒人 3:2 拿下世界大赛首战：杨特穿尤克球衣开球，卡米内罗一球砸中 FOX 演播台，AI 主帅头像被群嘲"
+  },
   {
    "date": "2026-10-23",
    "topic_count": 16,
