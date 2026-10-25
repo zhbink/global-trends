@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-24",
+ "latest": "2026-10-25",
  "issues": [
+  {
+   "date": "2026-10-25",
+   "topic_count": 17,
+   "post_count": 65,
+   "reply_count": 216,
+   "media_item_count": 119,
+   "regions": {
+    "west": 7,
+    "east_asia": 10
+   },
+   "headline_zh": "热刺 2:0 客胜切尔西：彭德斯乌龙、特尔破门，帕尔默染红，切尔西两季 9 张红牌英超最多"
+  },
   {
    "date": "2026-10-24",
    "topic_count": 17,

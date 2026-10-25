@@ -1,0 +1,19 @@
+{
+ "W1": "(#WorldSeries OR \"World Series\" OR Brewers OR \"Sal Frelick\" OR \"Payton Tolle\")",
+ "W2": "(#CHETOT OR (Chelsea Tottenham) OR (Chelsea Spurs) OR Penders OR \"Mathys Tel\")",
+ "W3": "(\"Arch Manning\" OR (Texas \"Ole Miss\") OR #HookEm OR Longhorns OR Chambliss)",
+ "W4": "(#UFC333 OR \"UFC 333\" OR Volkanovski OR Evloev OR \"Petr Yan\")",
+ "W5": "(Neymar (Nestor OR expulso OR expulsão OR \"sent off\" OR \"red card\"))",
+ "W6": "(\"Marin Kitagawa\" OR \"My Dress-Up Darling\" OR 喜多川海夢 OR (Marin (statue OR figure)))",
+ "W7": "(#CyberpunkEdgerunners2 OR \"Edgerunners 2\" OR Edgerunners2 OR #サイバーパンクエッジランナーズ2)",
+ "J1": "(ウインマリリン OR \"Win Marilyn\" OR #ぱかライブTV OR (ウマ娘 吾妻))",
+ "J2": "(野沢雅子 OR \"Masako Nozawa\" OR #野沢雅子生誕祭2026)",
+ "J3": "(ファニー・ヴァレンタイン OR \"Funny Valentine\" OR \"JOJO WORLD\")",
+ "J4": "(Grimmjow OR Kazui OR グリムジョー)",
+ "J5": "(おジャ魔女 OR #たんプリ OR 名探偵プリキュア)",
+ "K1": "(#HappyLeeKnowDay OR #노_맘대로_즐기는_리노생일 OR \"Lee Know\" OR 리노 OR #EternalDiamondLeeKnow)",
+ "K2": "(((BTS OR 방탄소년단 OR Jimin OR 지민) (Argentina OR 아르헨티나 OR \"La Plata\" OR Tucumán OR 투쿠만)) OR #JiminCalmsTheSea OR #JiminCalmaElMar)",
+ "K3": "(#넷플잔치 OR #NetflixKorea10th OR #넷플릭스코리아10주년 OR \"All of Us Are Dead\" OR 지금우리학교는)",
+ "K4": "((ATEEZ OR 에이티즈) (San OR 산) (uncle OR 삼촌 OR 조카 OR niece OR sister OR 누나))",
+ "K5": "(#Worlds2026 OR \"Worlds 2026\" OR (T1 DK) OR (T1 디플러스) OR LYON OR (GEN HLE))"
+}
