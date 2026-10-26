@@ -1,0 +1,19 @@
+{
+ "W1": "((Seahawks Chiefs) OR #KCvsSEA OR \"Jaxon Smith-Njigba\" OR (Mahomes Seahawks) OR (Kelce \"tight end\"))",
+ "W2": "(#ElClasico OR \"El Clasico\" OR \"El Clásico\" OR (Mbappe Barcelona) OR (Mbappé Barça) OR (Yamal Madrid))",
+ "W3": "(\"Eric Bauza\" OR (Bauza \"Bugs Bunny\") OR (Bauza \"Looney Tunes\"))",
+ "W4": "(#USGP OR Antonelli OR (Verstappen Austin) OR (F1 Austin) OR (Lando Topps))",
+ "W5": "(\"Nicki Minaj\" (Trump OR rally OR \"Port Huron\" OR legacy))",
+ "W6": "(\"Jalen Williams\" OR JDub OR (Thunder Clippers) OR (SGA Jalen))",
+ "W7": "(#SaveMassEffect OR \"Mass Effect\" OR (BioWare EA))",
+ "J1": "((ウマ娘 (新シナリオ OR 午式駿大祭 OR 武豊 OR ルメール)) OR ゴーイントゥスカイ OR 菊花賞)",
+ "J2": "(西山朋佳 OR 西山女流四冠 OR 女性初の棋士 OR (西山 棋士編入))",
+ "J3": "(市川春子 OR \"Cosmic Mimimi\" OR \"Haruko Ichikawa\")",
+ "J4": "(ベストヒット歌謡祭 OR #ytvからの招待状)",
+ "J5": "(\"Kao Miura\" OR 三浦佳生 OR #GPFrance OR \"Grand Prix de France\" OR \"Siao Him Fa\")",
+ "K1": "(((BTS OR 방탄소년단) (\"La Plata\" OR Argentina OR 아르헨티나 OR Messi OR 메시)) OR (Taehyung Muchachos))",
+ "K2": "((SEVENTEEN OR 세븐틴) (Seungkwan OR 승관 OR DINO OR 디노) (enlist OR enlistment OR 입대 OR military OR 군악대))",
+ "K3": "(#Worlds2026 OR \"Worlds 2026\" OR (GenG LYON) OR (\"Gen.G\" Worlds) OR (DK Smash) OR Chovy OR 쵸비)",
+ "K4": "((ATEEZ OR 에이티즈) (Anemia OR 빈혈 OR \"GOLDEN HOUR\"))",
+ "K5": "((Nayeon OR 나연) (\"NA-sty\" OR solo OR 솔로 OR 컴백))"
+}
