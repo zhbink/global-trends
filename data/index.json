@@ -1,6 +1,18 @@
 {
- "latest": "2026-10-26",
+ "latest": "2026-10-27",
  "issues": [
+  {
+   "date": "2026-10-27",
+   "topic_count": 17,
+   "post_count": 66,
+   "reply_count": 248,
+   "media_item_count": 108,
+   "regions": {
+    "west": 7,
+    "east_asia": 10
+   },
+   "headline_zh": "哈里·凯恩拿下 2026 金球奖：姆巴佩第二，“梅西前五、贝林厄姆第 11”吵翻"
+  },
   {
    "date": "2026-10-26",
    "topic_count": 17,
